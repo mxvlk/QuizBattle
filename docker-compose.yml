@@ -1,0 +1,104 @@
+version: "3.8"
+
+x-common-variables: &common-variables
+  JWT_SECRET: "SecureSecretKeyJWT"
+  CREATE_NEW_GAME_SECRET: "SecureSecretKeyCreateNewGame"
+
+services:
+
+  load-balancer:
+    build: loadbalancer
+    ports:
+      - "9000:80"
+    depends_on:
+      - auth-database
+      - auth-service
+      - question-database
+      - question-host-service
+      - game-database
+      - game-management-service
+      - connection-service
+      - frontend
+
+
+  auth-database:
+    image: postgres:alpine
+    environment:
+      POSTGRES_DB: "quizbattle"
+      POSTGRES_USER: "root"
+      POSTGRES_PASSWORD: "docker"
+    ports:
+      - "5432:5432"
+
+  auth-service:
+    build: backend/authService
+    ports:
+      - "8080:8080"
+    environment:
+      <<: *common-variables
+      DATABASE_URL: "postgresql://root:docker@auth-database:5432/quizbattle?schema=public"
+      JWT_EXPIRE_TIME_NUM: 360
+      JWT_EXPIRE_TIME_STR: "6h"
+    depends_on:
+      - auth-database
+    restart: always
+
+  question-database:
+    build: backend/questionDatabase
+    environment:
+      POSTGRES_DB: "questiondb"
+      POSTGRES_USER: "root"
+      POSTGRES_PASSWORD: "docker"
+    ports:
+      - "5431:5432"
+  
+  question-host-service:
+    build: backend/questionHostService
+    environment:
+      DATABASE_URL: "postgresql://root:docker@question-database:5432/questiondb?schema=public"
+    ports:
+      - "8081:8081"
+    depends_on:
+      - question-database
+
+  game-database:
+    image: postgres:alpine
+    environment:
+      POSTGRES_DB: "gamestate"
+      POSTGRES_USER: "root"
+      POSTGRES_PASSWORD: "docker"
+    ports:
+      - "5430:5432"
+
+  game-management-service:
+    build: backend/gameManagementService
+    ports:
+      - "5000:5000"
+    environment:
+      <<: *common-variables
+      DATABASE_URL: "postgresql://root:docker@game-database:5432/gamestate?schema=public"
+      GET_CATEGORIES_URL: 'http://question-host-service:8081/api/v1/category'
+      GET_QUESTIONS_URL: 'http://question-host-service:8081/api/v1/questions'
+    depends_on:
+      - game-database
+    restart: always
+
+  connection-service:
+    build: backend/connectionService
+    ports:
+      - "5001:5001"
+    environment:
+      <<: *common-variables
+      CREATE_NEW_GAME_URL: "http://load-balancer:80/gameManagement/api/v1/createGame"
+      CONNECTION_PING_TIMEOUT: 5 # in seconds
+      GAME_REQUEST_ALIVE_TIME: 120 # in minutes
+
+  frontend:
+    build: 
+      context: frontend/quiz-battle
+      args:
+        REACT_APP_AUTH_URL: "/auth/api/v1"
+        REACT_APP_CONNECT_URL: "/connect"
+        REACT_APP_GAME_MANAGEMENT_URL: "/gameManagement/api/v1"
+    ports:
+      - "3000:80"
