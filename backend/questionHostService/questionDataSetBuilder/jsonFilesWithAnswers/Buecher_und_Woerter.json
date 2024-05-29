@@ -1,0 +1,958 @@
+{
+    "category": "Bücher und Wörter",
+    "questionCount": 136,
+    "questionList": [
+        {
+            "question": "An wen richtet sich Goethes \"Briefwechsel mit einem Kinde\"?",
+            "correct": "Bettina von Arnim",
+            "false1": "Johann Wolfgang von Goethe",
+            "false2": "Friedrich Schiller",
+            "false3": "Johann Gottfried Herder"
+        },
+        {
+            "question": "Auf welche biblische Figur wird in \"Berlin Alexanderplatz\" (1929) mehrfach Bezug genommen?",
+            "correct": "Hiob",
+            "false1": "Moses",
+            "false2": "Adam",
+            "false3": "David"
+        },
+        {
+            "question": "Aus welchem Werk stammt das berühmte Zitat \"Sein oder Nichtsein, das ist hier die Frage\"?",
+            "correct": "Hamlet",
+            "false1": "Romeo und Julia",
+            "false2": "Macbeth",
+            "false3": "Othello"
+        },
+        {
+            "question": "Das Werk \"Cautio Criminnalis\" trug entscheidend zum Ende der Hexenprozesse in Deutschland bei. Wer schrieb es?",
+            "correct": "Friedrich Spee",
+            "false1": "Martin Luther",
+            "false2": "Johann Wolfgang von Goethe",
+            "false3": "Immanuel Kant"
+        },
+        {
+            "question": "Hans Christian Andersen verfasste nicht nur Märchen. Was kann man sonst noch von ihm lesen?",
+            "correct": "Reiseberichte",
+            "false1": "Kochrezepte",
+            "false2": "Liebesromane",
+            "false3": "Philosophische Abhandlungen"
+        },
+        {
+            "question": "Im Oktober 2008 wurde der Roman \"Der Turm\" mit dem Deutschen Buchpreis ausgezeichnet. Wer ist der Autor?",
+            "correct": "Uwe Tellkamp",
+            "false1": "Thomas Mann",
+            "false2": "Hermann Hesse",
+            "false3": "Günter Grass"
+        },
+        {
+            "question": "In der Erzählung \"Die Verwandlung\" erzählt Kafka die Geschichte eines Menschen, der eines Morgens als Käfer aufwacht. Wie heißt der Protagonist?",
+            "correct": "Gregor Samsa",
+            "false1": "Franz Kafka",
+            "false2": "Albert Camus",
+            "false3": "Hermann Hesse"
+        },
+        {
+            "question": "In welchem Buch spielt die Figur \"Pony Hütchen\" eine Rolle?",
+            "correct": "Emil und die Detektive",
+            "false1": "Pippi Langstrumpf",
+            "false2": "Ronja Räubertochter",
+            "false3": "Die unendliche Geschichte"
+        },
+        {
+            "question": "In welchem Jahr verstarb der deutsche Schriftsteller Michael Ende?",
+            "correct": "1995",
+            "false1": "1985",
+            "false2": "2005",
+            "false3": "1975"
+        },
+        {
+            "question": "In welchem Roman von Agatha Christie sterben nacheinander zehn Menschen, die in ihrem Leben in ungeklärte Todesfälle verwickelt waren?",
+            "correct": "Und dann gabs keines mehr",
+            "false1": "Mord im Orient-Express",
+            "false2": "Das Böse unter der Sonne",
+            "false3": "Die Morde des Herrn ABC"
+        },
+        {
+            "question": "In welcher Stadt ermitteln \"Die drei???\"?",
+            "correct": "Rocky Beach",
+            "false1": "Berlin",
+            "false2": "München",
+            "false3": "Hamburg"
+        },
+        {
+            "question": "Mit welchem Tier duelliert sich ein Hase in einem bekannten Kindermärchen bei einem Wettlauf?",
+            "correct": "Igel",
+            "false1": "Fuchs",
+            "false2": "Hahn",
+            "false3": "Schildkröte"
+        },
+        {
+            "question": "\"Tempo\", \"UHU\" oder \"o.b.\" sind so bekannte Marken, dass man oft alle gleichartigen Produkte danach benennt. Welches Wort beschreibt diese Marken?",
+            "correct": "Gattungsname",
+            "false1": "Abstraktum",
+            "false2": "Akronym",
+            "false3": "Hapax Legomenon"
+        },
+        {
+            "question": "Unter welchem Namen ist Franz Nabls \"Das Grab des Lebendigen\" besser bekannt?",
+            "correct": "Die Ortliebschen Frauen",
+            "false1": "Der Schatten des Windes",
+            "false2": "Die Buddenbrooks",
+            "false3": "Die Blechtrommel"
+        },
+        {
+            "question": "Von welchem Künstler handelt das Buch und der gleichnamige Spielfilm \"Der Mann mit dem Fagott\"?",
+            "correct": "Udo Jürgens",
+            "false1": "Ludwig van Beethoven",
+            "false2": "Wolfgang Amadeus Mozart",
+            "false3": "Johann Sebastian Bach"
+        },
+        {
+            "question": "Von wem stammt das klassische Zitat \"Man wird nicht als Frau geboren, man wird es\"?",
+            "correct": "Simone de Beauvoir",
+            "false1": "Virginia Woolf",
+            "false2": "Betty Friedan",
+            "false3": "Gloria Steinem"
+        },
+        {
+            "question": "Von wem stammt das Stueck \"Die Raeuber\"?",
+            "correct": "Friedrich Schiller",
+            "false1": "Johann Wolfgang von Goethe",
+            "false2": "Heinrich von Kleist",
+            "false3": "Friedrich Dürrenmatt"
+        },
+        {
+            "question": "Von wem stammt das Werk \"Iphigenie auf Tauris\"?",
+            "correct": "Johann Wolfgang von Goethe",
+            "false1": "Euripides",
+            "false2": "Sophokles",
+            "false3": "Aischylos"
+        },
+        {
+            "question": "Von wem stammt das Zitat \"Vater werden ist nicht schwer, Vater sein dagegen sehr\"?",
+            "correct": "Wilhelm Busch",
+            "false1": "Johann Wolfgang von Goethe",
+            "false2": "Friedrich Schiller",
+            "false3": "Heinrich Heine"
+        },
+        {
+            "question": "Von wem stammt folgendes Zitat: \"Das Auge als ein Geschoepf des Lichtes leistet alles, was das Licht selbst leisten kann\"?",
+            "correct": "Johann Wolfgang von Goethe",
+            "false1": "Albert Einstein",
+            "false2": "Isaac Newton",
+            "false3": "Galileo Galilei"
+        },
+        {
+            "question": "Was bedeutet das lateinische Sprichwort \"Manus manum lavat.\" auf Deutsch uebersetzt?",
+            "correct": "Eine Hand waescht die andere.",
+            "false1": "Alle Wege fuehren nach Rom.",
+            "false2": "Der Zweck heiligt die Mittel.",
+            "false3": "Wer nicht hoeren will, muss fuehlen."
+        },
+        {
+            "question": "Was bedeutet das lateinische Sprichwort \"Memento vivere\"?",
+            "correct": "Gedenke zu leben",
+            "false1": "Carpe diem",
+            "false2": "Tempus fugit",
+            "false3": "Amor vincit omnia"
+        },
+        {
+            "question": "Was bedeutet \"Graviditaet\"?",
+            "correct": "Schwangerschaft",
+            "false1": "Menopause",
+            "false2": "Adoleszenz",
+            "false3": "Pubertaet"
+        },
+        {
+            "question": "Was bedeutet \"Physik\" aus dem Griechischen uebersetzt?",
+            "correct": "Naturforschung",
+            "false1": "Sternenkunde",
+            "false2": "Mathematik",
+            "false3": "Chemie"
+        },
+        {
+            "question": "Was beschreibt des Wort \"Konstitution\" am besten?",
+            "correct": "Allg. koerperliche Verfassung",
+            "false1": "Politische Vereinigung",
+            "false2": "Rechtliche Grundlage",
+            "false3": "Soziale Struktur"
+        },
+        {
+            "question": "Was bezeichnet das hebraeische Wort \"Shoah\"?",
+            "correct": "Den Holocaust",
+            "false1": "Die Exodus",
+            "false2": "Die Diaspora",
+            "false3": "Der Zionismus"
+        },
+        {
+            "question": "Was ist ein anderes Wort fuer \"verifizieren\"?",
+            "correct": "Beweisen",
+            "false1": "Bestreiten",
+            "false2": "Anfechten",
+            "false3": "Bezweifeln"
+        },
+        {
+            "question": "Was ist ein Berimbau?",
+            "correct": "Musikbogen",
+            "false1": "Schlagzeug",
+            "false2": "Akkordeon",
+            "false3": "Trompete"
+        },
+        {
+            "question": "Was ist ein \"Olf\"?",
+            "correct": "Einheit der Staerke einer Geruchsquelle",
+            "false1": "Ein exotischer Vogel",
+            "false2": "Eine duftende Blume",
+            "false3": "Eine aromatische Frucht"
+        },
+        {
+            "question": "Was ist eine \"Mazzolata\"?",
+            "correct": "Eine Hinrichtungsform",
+            "false1": "Ein Musikinstrument",
+            "false2": "Ein Tanz",
+            "false3": "Ein Bootstyp"
+        },
+        {
+            "question": "Was ist man, wenn man ein \"Freimaurer\" ist?",
+            "correct": "Mitglied einer Gemeinschaft",
+            "false1": "Priester einer Kirche",
+            "false2": "Polizeibeamter",
+            "false3": "Militaerischer Offizier"
+        },
+        {
+            "question": "Was macht jemand, der an \"Origami\" interessiert ist?",
+            "correct": "Papier falten",
+            "false1": "Malen",
+            "false2": "Tanzen",
+            "false3": "Schnitzen"
+        },
+        {
+            "question": "Was meint ein Wiener wenn er von einem \"Buserer\" spricht?",
+            "correct": "Autounfall",
+            "false1": "Fahrrad",
+            "false2": "Tram",
+            "false3": "U-Bahn"
+        },
+        {
+            "question": "Was sind Majuskeln?",
+            "correct": "Grossbuchstaben",
+            "false1": "Zahlen",
+            "false2": "Kleinbuchstaben",
+            "false3": "Satzzeichen"
+        },
+        {
+            "question": "Was sollte der Jaeger, der Schneewittchen toeten sollte, zum Beweis der Koenigin bringen?",
+            "correct": "Lunge und Leber",
+            "false1": "Herz und Zunge",
+            "false2": "Haende und Fuesse",
+            "false3": "Kopf und Schwanz"
+        },
+        {
+            "question": "Was wurde aus dem \"haesslichen Entlein\" im gleichnamigen Maerchen von Hans Christian Andersen, nachdem es ausgewachsen war?",
+            "correct": "Ein Schwan",
+            "false1": "Eine Gans",
+            "false2": "Ein Pfau",
+            "false3": "Ein Adler"
+        },
+        {
+            "question": "Welche Art von Buechern schreibt David Eddings?",
+            "correct": "Fantasy",
+            "false1": "Krimi",
+            "false2": "Science-Fiction",
+            "false3": "Biografie"
+        },
+        {
+            "question": "Welche Bedeutung hat \"konfiszieren\"?",
+            "correct": "Beschlagnahmen",
+            "false1": "Kaufen",
+            "false2": "Befreien",
+            "false3": "Vernichten"
+        },
+        {
+            "question": "Welche Bedeutung kann das Wort \"latent\" haben?",
+            "correct": "Verborgen, versteckt",
+            "false1": "Offensichtlich",
+            "false2": "Klar, deutlich",
+            "false3": "Geringfügig"
+        },
+        {
+            "question": "Welche der folgenden ist eine Kurzgeschichte von Nikolai Gogol?",
+            "correct": "Der Mantel",
+            "false1": "Der Hut",
+            "false2": "Die Weste",
+            "false3": "Die Hose"
+        },
+        {
+            "question": "Welche deutsche Stadt wird im Englischen ueblicherweise anders geschrieben als im Deutschen?",
+            "correct": "Hannover",
+            "false1": "Frankfurt",
+            "false2": "Stuttgart",
+            "false3": "Koeln"
+        },
+        {
+            "question": "Welche dieser Dichtungen ist nicht poetischer Natur?",
+            "correct": "Gummidichtung",
+            "false1": "Sonett",
+            "false2": "Haiku",
+            "false3": "Ode"
+        },
+        {
+            "question": "Welche Eigenschaften zeichnen einen Phlegmatiker aus?",
+            "correct": "Landsam und gemaechlich",
+            "false1": "Energisch und tatkräftig",
+            "false2": "Extrovertiert und gesellig",
+            "false3": "Emotionell und sensibel"
+        },
+        {
+            "question": "Welche Gabe hat der Lehrer Johnny Smith in Stephen Kings \"Dead Zone - Das Attentat?",
+            "correct": "Hellsehen",
+            "false1": "Teleportation",
+            "false2": "Gedankenlesen",
+            "false3": "Zeitreisen"
+        },
+        {
+            "question": "Welche Kurzgeschichte veroeffentlichte Stephen King 1972 unter dem Pseudonym John Swithen?",
+            "correct": "Das fuenfte Viertel",
+            "false1": "Die andere Seite",
+            "false2": "Der verkrueppelte Mann",
+            "false3": "Die blutige Muenze"
+        },
+        {
+            "question": "Welche Sportart spielt in David Foster Wallaces Roman \"Unendlicher Spass\" aus dem Jahr 1996 eine Rolle?",
+            "correct": "Tennis",
+            "false1": "Fussball",
+            "false2": "Baseball",
+            "false3": "Basketball"
+        },
+        {
+            "question": "Welcher französische Dichter hörte vor seinem 20. Geburtstag auf Gedichte zu schreiben und wurde danach Kaufmann und Waffenhändler Kaufmann und Waffenhaendler?",
+            "correct": "Arthur Rimbaud",
+            "false1": "Vincent van Gogh",
+            "false2": "Leonardo da Vinci",
+            "false3": "Ludwig van Beethoven"
+        },
+        {
+            "question": "Welcher Ort steht bei Thomas Manns Roman \"Der Zauberberg\" im Fokus?",
+            "correct": "Davos",
+            "false1": "Venedig",
+            "false2": "Florenz",
+            "false3": "Salzburg"
+        },
+        {
+            "question": "Welcher Roman stammt NICHT von Edgar Wallace?",
+            "correct": "Dreizehn bei Tisch",
+            "false1": "Der Hexer",
+            "false2": "Der Frosch mit der Maske",
+            "false3": "Der Zinker"
+        },
+        {
+            "question": "Welcher skandinavische Schriftsteller schrieb Bestseller wie \"Die Larve\", \"Koma\" oder \"Headhunter\"?",
+            "correct": "Jo Nesbo",
+            "false1": "Stieg Larsson",
+            "false2": "Henning Mankell",
+            "false3": "Camilla Läckberg"
+        },
+        {
+            "question": "Welches Buch stammt NICHT von Alexandre Dumas d.Ae.?",
+            "correct": "Der Name der Rose",
+            "false1": "Die drei Musketiere",
+            "false2": "Der Graf von Monte Christo",
+            "false3": "Zwanzig Jahre danach"
+        },
+        {
+            "question": "Welches Buch wurde vom japanischen Autoren Haruki Murakami geschrieben?",
+            "correct": "Kafka am Strand",
+            "false1": "Der Fänger im Roggen",
+            "false2": "1Q84",
+            "false3": "Die unerträgliche Leichtigkeit des Seins"
+        },
+        {
+            "question": "Welches der folgenden Buecher stammt von Rainer Wekwerth?",
+            "correct": "Das Labyrinth erwacht",
+            "false1": "Rubinrot",
+            "false2": "Die Tribute von Panem",
+            "false3": "Das Schicksal ist ein mieser Verräter"
+        },
+        {
+            "question": "Welches der folgenden Woerter befindet sich vor den anderen in einem Woerterbuch?",
+            "correct": "Verabredung",
+            "false1": "Vernichtung",
+            "false2": "Vergangenheit",
+            "false3": "Verhinderung"
+        },
+        {
+            "question": "Welches der folgenden Woerter ist ein Beispiel fuer ein Palindrom?",
+            "correct": "Rentner",
+            "false1": "Ferien",
+            "false2": "Teller",
+            "false3": "Sommer"
+        },
+        {
+            "question": "Welches deutsche Wort wird auch im Englischen verwendet?",
+            "correct": "Kindergarten",
+            "false1": "Doppelgänger",
+            "false2": "Schadenfreude",
+            "false3": "Wanderlust"
+        },
+        {
+            "question": "Welches Drama handelt von einem juedischen Kaufmann, der durch seine Toleranz unbewusst alle drei Weltreligionen vereint?",
+            "correct": "Nathan der Weise",
+            "false1": "Romeo und Julia",
+            "false2": "Faust",
+            "false3": "Hamlet"
+        },
+        {
+            "question": "Welches Pferd bekam Old Shatterhand von Winnetou geschenkt?",
+            "correct": "Hatatitla",
+            "false1": "Silber",
+            "false2": "Iltschi",
+            "false3": "Rih"
+        },
+        {
+            "question": "Welches Tier ist kein Charakter im Buch \"Der Wind in den Weiden\"?",
+            "correct": "Rotauge",
+            "false1": "Maulwurf",
+            "false2": "Kröterich",
+            "false3": "Otter"
+        },
+        {
+            "question": "Wer oder was ist ein \"Sniper\"?",
+            "correct": "Scharfschuetze",
+            "false1": "Tierarzt",
+            "false2": "Flugzeug",
+            "false3": "Detektiv"
+        },
+        {
+            "question": "\"Vertrauen ist gut, Kontrolle ist besser!\" zugeschrieben wird?",
+            "correct": "Lenin",
+            "false1": "Napoleon",
+            "false2": "Churchill",
+            "false3": "Stalin"
+        },
+        {
+            "question": "Wer schrieb das Buch \"Bein Leben meiner Schwester\"?",
+            "correct": "Jodi Picoult",
+            "false1": "Nicholas Sparks",
+            "false2": "Dan Brown",
+            "false3": "J.K. Rowling"
+        },
+        {
+            "question": "Wer schrieb das Buch \"Das Silmarillion\"?",
+            "correct": "J.R:R. Tolkien",
+            "false1": "C.S. Lewis",
+            "false2": "George R.R. Martin",
+            "false3": "J.K. Rowling"
+        },
+        {
+            "question": "Wer schrieb das Buch \"Der alte Mann und das Meer\"?",
+            "correct": "Ernest Hemingway",
+            "false1": "F. Scott Fitzgerald",
+            "false2": "Mark Twain",
+            "false3": "Herman Melville"
+        },
+        {
+            "question": "Wer schrieb das Buch \"DinoPark\", das als Vorlage fuer den Film \"Jurassic Park\" diente?",
+            "correct": "Michael Crichton",
+            "false1": "H.G. Wells",
+            "false2": "Arthur C. Clarke",
+            "false3": "Ray Bradbury"
+        },
+        {
+            "question": "Wer schrieb das Buch \"Heisshunger - Wie ich meine Bikinifigur suchte und mich selbst dabei fand\"?",
+            "correct": "Joanne Fedler",
+            "false1": "Elizabeth Gilbert",
+            "false2": "Gretchen Rubin",
+            "false3": "Marie Kondo"
+        },
+        {
+            "question": "Wer schrieb das Buch \"Sternstunden der Bedeutungslosigkeit\"?",
+            "correct": "Rocko Schamoni",
+            "false1": "Charlotte Roche",
+            "false2": "Sibylle Berg",
+            "false3": "Benjamin von Stuckrad-Barre"
+        },
+        {
+            "question": "Wer schrieb das Buch \"The Selection\" (2012)?",
+            "correct": "Kiera Cass",
+            "false1": "Suzanne Collins",
+            "false2": "Veronica Roth",
+            "false3": "Ally Condie"
+        },
+        {
+            "question": "Wer schrieb den Kinderbuch-Klassiker \"Kai aus der Kiste\": eine unglaubliche Geschichte\" (1926)?",
+            "correct": "Wolf Durian",
+            "false1": "Astrid Lindgren",
+            "false2": "Erich Kästner",
+            "false3": "Michael Ende"
+        },
+        {
+            "question": "Wer schrieb den Roman \"1984\", der von einer Stadt in der Zukunft handelt?",
+            "correct": "George Orwell",
+            "false1": "Aldous Huxley",
+            "false2": "Ray Bradbury",
+            "false3": "Philip K. Dick"
+        },
+        {
+            "question": "Wer schrieb den Roman \"Die Klavierspielerin\"?",
+            "correct": "Elfriede Jelinek",
+            "false1": "Ingeborg Bachmann",
+            "false2": "Thomas Bernhard",
+            "false3": "Friedrich Dürrenmatt"
+        },
+        {
+            "question": "Wer schrieb den Roman \"Verdammnis\"?",
+            "correct": "Stieg Larsson",
+            "false1": "Jo Nesbo",
+            "false2": "Henning Mankell",
+            "false3": "Camilla Läckberg"
+        },
+        {
+            "question": "Wer schrieb den Roman \"Wer die Nachtigall stoert\"?",
+            "correct": "Harper Lee",
+            "false1": "John Steinbeck",
+            "false2": "William Faulkner",
+            "false3": "J.D. Salinger"
+        },
+        {
+            "question": "Wer schrieb \"Der seltsame Fall des Dr. Jekyll und Mr. Hyde\"?",
+            "correct": "Robert Louis Stevenson",
+            "false1": "Bram Stoker",
+            "false2": "H.G. Wells",
+            "false3": "Edgar Allan Poe"
+        },
+        {
+            "question": "Wer schrieb \"Deutschland. Ein Wintermaerchen\"?",
+            "correct": "Heinrich Heine",
+            "false1": "Johann Wolfgang von Goethe",
+            "false2": "Friedrich Schiller",
+            "false3": "Theodor Fontane"
+        },
+        {
+            "question": "Wer schrieb die antisemitische Publikation \"Von den Junden und ihren Luegen\"?",
+            "correct": "Martin Luther",
+            "false1": "Richard Wagner",
+            "false2": "Adolf Hitler",
+            "false3": "Joseph Goebbels"
+        },
+        {
+            "question": "Wer schrieb die beliebte Roman-Serie \"Twilight\"?",
+            "correct": "Stephenie Meyer",
+            "false1": "J.K. Rowling",
+            "false2": "Suzanne Collins",
+            "false3": "Veronica Roth"
+        },
+        {
+            "question": "Wer schrieb die Buecher \"Das Geheimnis des Edwin Drood\" und \"Unser gemeinsamer Freund\"?",
+            "correct": "Charles Dickens",
+            "false1": "Jane Austen",
+            "false2": "Thomas Hardy",
+            "false3": "Emily Brontë"
+        },
+        {
+            "question": "Wer schrieb die Buecher ueber den Agenten James Bond?",
+            "correct": "Ian Flemming",
+            "false1": "John le Carré",
+            "false2": "Robert Ludlum",
+            "false3": "Tom Clancy"
+        },
+        {
+            "question": "Wer schrieb die Buecher ueber die Privatdetektice Patrick Kenzie und Angie Gennaro?",
+            "correct": "Dennis Lehana",
+            "false1": "Michael Connelly",
+            "false2": "Sue Grafton",
+            "false3": "Jo Nesbo"
+        },
+        {
+            "question": "Wer schrieb die fuenfteilige Ramses-Reihe?",
+            "correct": "Christian Jacq",
+            "false1": "Wilbur Smith",
+            "false2": "David Gemmell",
+            "false3": "Conn Iggulden"
+        },
+        {
+            "question": "Wer schrieb die Kriminalromane \"Der Knochenmann\", \"Komm suesser Tod\" und \"Silentium\"?",
+            "correct": "Wolf Haas",
+            "false1": "Henning Mankell",
+            "false2": "Jussi Adler-Olsen",
+            "false3": "Jo Nesbo"
+        },
+        {
+            "question": "Wer schrieb die Romane \"Resturlaub\", \"Millionaer\" und \"Hummeldumm\"?",
+            "correct": "Tommy Jaud",
+            "false1": "Charlotte Roche",
+            "false2": "Marc-Uwe Kling",
+            "false3": "Moritz Netenjakob"
+        },
+        {
+            "question": "Wer schrieb die Werke Matilda, Valperga und Frankenstein?",
+            "correct": "Mary Shelley",
+            "false1": "Jane Austen",
+            "false2": "Emily Brontë",
+            "false3": "Charlotte Brontë"
+        },
+        {
+            "question": "Wer schrieb in dem Buch \"No Regrets\" (2011) ueber sein Leben?",
+            "correct": "Ace Frehley",
+            "false1": "Gene Simmons",
+            "false2": "Paul Stanley",
+            "false3": "Peter Criss"
+        },
+        {
+            "question": "Wer spricht das Zauberwort \"Sesam oeffne dich\"?",
+            "correct": "Ali Baba",
+            "false1": "Aladdin",
+            "false2": "Sindbad",
+            "false3": "Simbad"
+        },
+        {
+            "question": "Wer toetete \"Minotauros\" in der griechischen Mythologie?",
+            "correct": "Theseus",
+            "false1": "Herkules",
+            "false2": "Perseus",
+            "false3": "Odysseus"
+        },
+        {
+            "question": "Wer veroeffentlichte im Jahr 2010 das kontroverse Buch \"Deutschland schafft sich ab\"?",
+            "correct": "Thilo Sarrazin",
+            "false1": "Günter Grass",
+            "false2": "Frank Schätzing",
+            "false3": "Charlotte Roche"
+        },
+        {
+            "question": "Wie alt ist Dornsoeschen im gleichnamigen Maerchen, als sie sich am Spinnrad sticht?",
+            "correct": "Fuenfzehn",
+            "false1": "Zwanzig",
+            "false2": "Zehn",
+            "false3": "Siebzehn"
+        },
+        {
+            "question": "Wie kann man Simon Börndt bezeichnen?",
+            "correct": "Nerd(-Emoji)",
+            "false1": "Technik-Enthusiast",
+            "false2": "Gaming-Profi",
+            "false3": "Computer-Freak"
+        },
+        {
+            "question": "Wie heißen die Freunde von Pipi Langstrumpf?",
+            "correct": "Tommy und Annika",
+            "false1": "Benny und Lotta",
+            "false2": "Karl und Lisa",
+            "false3": "Max und Laura"
+        },
+        {
+            "question": "Wie heißen die Töchter von Eddard und Kathlyn Stark in \"Das Lied von Eis und Feuer\" (A Game of Thrones)?",
+            "correct": "Arya und Sansa",
+            "false1": "Daenerys und Cersei",
+            "false2": "Lyanna und Margaery",
+            "false3": "Olenna und Ygritte"
+        },
+        {
+            "question": "Wie heißen J.R.R. Tolkiens unvollendete Werke, die eine Vorgeschichte zu den Romanen \"Der Hobbit\" und \"Der Herr der Ringe\" bilden?",
+            "correct": "Das Silmarillion",
+            "false1": "Die verlorenen Geschichten",
+            "false2": "Die Legenden von Mittelerde",
+            "false3": "Die Erben von Valinor"
+        },
+        {
+            "question": "Wie heißt Adolf Hitlers Buch, das die Grundlagen des Nationalsozialismus darlegt?",
+            "correct": "Mein Kampf",
+            "false1": "Der Aufstieg des Dritten Reiches",
+            "false2": "Nazi-Ideologie enthüllt",
+            "false3": "Der Weg zur Macht"
+        },
+        {
+            "question": "Wie heißt das Hauptwerk des deutschen Philosophen Ernst Bloch?",
+            "correct": "Das Prinzip Hoffnung",
+            "false1": "Die Philosophie der Zukunft",
+            "false2": "Die Utopie des Seins",
+            "false3": "Das Streben nach Glück"
+        },
+        {
+            "question": "Wie heißt das Kinderbuch vom Schweden Sven Nordqvist, in dem ein älterer Mann und ein Kater zusammenleben?",
+            "correct": "Pettersson und Findus",
+            "false1": "Emil und die Detektive",
+            "false2": "Ronja Räubertochter",
+            "false3": "Pippi Langstrumpf"
+        },
+        {
+            "question": "Wie heißt der Autor hinter den verfilmten \"Twilight\"-Büchern?",
+            "correct": "Stephenie Meyer",
+            "false1": "Suzanne Collins",
+            "false2": "J.K. Rowling",
+            "false3": "Veronica Roth"
+        },
+        {
+            "question": "Wie heißt der Erfinder und Autor von \"Babar der Elefant\"?",
+            "correct": "Jean de Brunhoff",
+            "false1": "Michael Ende",
+            "false2": "Astrid Lindgren",
+            "false3": "Lewis Carroll"
+        },
+        {
+            "question": "Wie heißt der 1. Teil der \"Twilight Saga\"?",
+            "correct": "Bis(s) zum Morgengrauen",
+            "false1": "Mondlichtzauber",
+            "false2": "Verwandlung der Liebe",
+            "false3": "Die Ewigkeit der Dämmerung"
+        },
+        {
+            "question": "Wie heißt der vierte Buchstabe des griechischen Alphabets?",
+            "correct": "Delta",
+            "false1": "Gamma",
+            "false2": "Epsilon",
+            "false3": "Zeta"
+        },
+        {
+            "question": "Und Pia Kirchhoff?",
+            "correct": "Nele Neuhaus",
+            "false1": "Charlotte Link",
+            "false2": "Ingrid Noll",
+            "false3": "Cornelia Funke"
+        },
+        {
+            "question": "Wie heißt die Figur, mit welcher sich der \"Graf von Monte Christo\" aus dem gleichnamigen Roman im Gefängnis befreundet?",
+            "correct": "Abbe Faria",
+            "false1": "Henri Danglars",
+            "false2": "Fernand Mondego",
+            "false3": "Gaspard Caderousse"
+        },
+        {
+            "question": "Wie heißt die Frau des Elefantenkönigs Babar?",
+            "correct": "Celeste",
+            "false1": "Isabella",
+            "false2": "Arabella",
+            "false3": "Seraphina"
+        },
+        {
+            "question": "Wie heißt die Hauptfigur in der Buchreihe \"Die Chroniken von Arulen\"?",
+            "correct": "Will",
+            "false1": "Eragon",
+            "false2": "Frodo",
+            "false3": "Kvothe"
+        },
+        {
+            "question": "Internationalen und preisgekrönten Bestsellerautor wurde?",
+            "correct": "Leo Demidow",
+            "false1": "Max Mustermann",
+            "false2": "John Doe",
+            "false3": "Jane Smith"
+        },
+        {
+            "question": "Wie heißt die Rahmenerzählung einer Märchensammlung von Wilhelm Hauff?",
+            "correct": "Das Wirtshaus im Spessart",
+            "false1": "Aschenputtel",
+            "false2": "Rotkäppchen",
+            "false3": "Dornröschen"
+        },
+        {
+            "question": "Wie heißt die Tochter von Jamie und Claire in Diana Gabaldons \"Highland-Saga\"?",
+            "correct": "Brianna",
+            "false1": "Isabella",
+            "false2": "Eleanor",
+            "false3": "Genevieve"
+        },
+        {
+            "question": "Wie heißt ein kontroverser Bestseller von Charlotte Roche (2008)?",
+            "correct": "Feuchtgebiete",
+            "false1": "Skandalbuch",
+            "false2": "Tabu-Tagebuch",
+            "false3": "Provokationsprotokoll"
+        },
+        {
+            "question": "Wie heißt ein Roman von Heinrich Böll: \"Ansichten eines ...\"?",
+            "correct": "Clowns",
+            "false1": "Träumers",
+            "false2": "Dichters",
+            "false3": "Philosophen"
+        },
+        {
+            "question": "Wie heißt eine Verlobte von \"König Joffrey\" in der Fantasy-Reihe \"Das Lied von Eis und Feuer\"?",
+            "correct": "Sansa Stark",
+            "false1": "Daenerys Targaryen",
+            "false2": "Cersei Lannister",
+            "false3": "Arya Stark"
+        },
+        {
+            "question": "Wie heißt Jim Knofs Adoptivmutter, als er nach Lummerland kommt?",
+            "correct": "Frau Waas",
+            "false1": "Frau Lorenz",
+            "false2": "Frau Müller",
+            "false3": "Frau Schmidt"
+        },
+        {
+            "question": "Wie heißt Klößchen von TKKG mit vollem Namen?",
+            "correct": "Willi Sauerlich",
+            "false1": "Max Müller",
+            "false2": "Tim Klößchen",
+            "false3": "Kevin Schuster"
+        },
+        {
+            "question": "Wie hieß der französische Philosoph, der ein großer Befürworter des Existentialismus war und u.a. das Buch \"Der Ekel\" schrieb?",
+            "correct": "Jean-Paul Sartre",
+            "false1": "Albert Camus",
+            "false2": "Friedrich Nietzsche",
+            "false3": "Søren Kierkegaard"
+        },
+        {
+            "question": "Wie hieß Erich Kästners erstes Kinderbuch?",
+            "correct": "Emil und die Detektive",
+            "false1": "Pünktchen und Anton",
+            "false2": "Das doppelte Lottchen",
+            "false3": "Die Konferenz der Tiere"
+        },
+        {
+            "question": "Wie lautet das Zauberwort im Märchen vom Kalif Storch?",
+            "correct": "Mutabor",
+            "false1": "Abrakadabra",
+            "false2": "Simsalabim",
+            "false3": "Alakazam"
+        },
+        {
+            "question": "Wie lautet das Zitat \"Ich kam, Ich sah,...?",
+            "correct": "Ich siegte",
+            "false1": "Ich kämpfte",
+            "false2": "Ich liebte",
+            "false3": "Ich eroberte"
+        },
+        {
+            "question": "Wie lautet der Name des Autors, der die Bücher über Septimus Heap schrieb?",
+            "correct": "Angie Sage",
+            "false1": "J.K. Rowling",
+            "false2": "Rick Riordan",
+            "false3": "Philip Pullman"
+        },
+        {
+            "question": "Wie lautet die korrekte Schreibweise eines Getränks?",
+            "correct": "Cappuccino",
+            "false1": "Capuccino",
+            "false2": "Cappucino",
+            "false3": "Capucino"
+        },
+        {
+            "question": "Wie lautet ein anderes Wort für Stabreim?",
+            "correct": "Alliteration",
+            "false1": "Anapher",
+            "false2": "Paradox",
+            "false3": "Oxymoron"
+        },
+        {
+            "question": "Wie lautet Harry Potters zweiter Vorname?",
+            "correct": "James",
+            "false1": "Sirius",
+            "false2": "Severus",
+            "false3": "Albus"
+        },
+        {
+            "question": "Wie nennt man das rote Tuch beim Stierkampf?",
+            "correct": "Muleta",
+            "false1": "Capote",
+            "false2": "Espada",
+            "false3": "Banderilla"
+        },
+        {
+            "question": "Wie nennt man den schriftlich fixierten letzten Willen?",
+            "correct": "Testament",
+            "false1": "Deklaration",
+            "false2": "Manifest",
+            "false3": "Vertrag"
+        },
+        {
+            "question": "Wie nennt man die historische Theaterbeleuchtung \"Rampenlicht\" noch?",
+            "correct": "Fußlicht",
+            "false1": "Scheinwerfer",
+            "false2": "Spotlight",
+            "false3": "Bühnenlicht"
+        },
+        {
+            "question": "Wie nennt man eine Gedächtnishilfe, mit der man sich schwierige Sachverhalte einprägen kann?",
+            "correct": "Eselsbrücke",
+            "false1": "Gedächtnisstütze",
+            "false2": "Denkhilfe",
+            "false3": "Merkhilfe"
+        },
+        {
+            "question": "Wie nennt man eine Person, die in Honduras lebt?",
+            "correct": "Honduraner",
+            "false1": "Hondurasianer",
+            "false2": "Honduranisch",
+            "false3": "Hondurese"
+        },
+        {
+            "question": "Wie nennt man Kleidung, die schwangere Frauen tragen?",
+            "correct": "Umstandsmode",
+            "false1": "Schwangerenmode",
+            "false2": "Babybauchbekleidung",
+            "false3": "Mamamode"
+        },
+        {
+            "question": "Wie nennt man Sprachen, die vom Lateinischen abstammen?",
+            "correct": "Romanisch",
+            "false1": "Klassisch",
+            "false2": "Lateinisch",
+            "false3": "Antik"
+        },
+        {
+            "question": "Wie wird der Planet Mars von den Bewohnern im Mars-Zyklus von Edgar Rice Burroughs genannt?",
+            "correct": "Barsoom",
+            "false1": "Marsoom",
+            "false2": "Marsos",
+            "false3": "Baros"
+        },
+        {
+            "question": "Wie wird ein stillgelegter Bergbau genannt?",
+            "correct": "Alter Mann",
+            "false1": "Bergbau-Ruine",
+            "false2": "Bergbau-Rest",
+            "false3": "Bergbau-Ende"
+        },
+        {
+            "question": "Wo spricht man Rapanui?",
+            "correct": "Osterinsel",
+            "false1": "Hawaii",
+            "false2": "Tahiti",
+            "false3": "Fidschi"
+        },
+        {
+            "question": "Wo war Siegfried verwundbar?",
+            "correct": "An einer Stelle am Rücken",
+            "false1": "An der Stirn",
+            "false2": "An der Ferse",
+            "false3": "An der Brust"
+        },
+        {
+            "question": "Wo wuchs die britische Schriftstellerin Doris Lessing auf?",
+            "correct": "Zimbabwe",
+            "false1": "Australien",
+            "false2": "Neuseeland",
+            "false3": "Südafrika"
+        },
+        {
+            "question": "Wodurch wurde Gustav Schwab bekannt?",
+            "correct": "Sagen des klassischen Altertums",
+            "false1": "Märchen aus aller Welt",
+            "false2": "Epische Heldensagen",
+            "false3": "Mythologie der Antike"
+        },
+        {
+            "question": "Wofür sind SAAB, USA und NASA Beispiele?",
+            "correct": "Akronyme",
+            "false1": "Initialwörter",
+            "false2": "Abkürzungen",
+            "false3": "Kürzel"
+        },
+        {
+            "question": "Wofür sind \"Nyala\" und \"Cambria\" Beispiele?",
+            "correct": "Schriftarten",
+            "false1": "Blumenarten",
+            "false2": "Autotypen",
+            "false3": "Musikinstrumente"
+        },
+        {
+            "question": "Wofür steht das häufig unter Briefe gesetzte \"P.S.\"?",
+            "correct": "Post Scriptum",
+            "false1": "Pro Se",
+            "false2": "Pauschalsatz",
+            "false3": "Persönlicher Segen"
+        }
+    ]
+}

@@ -1,0 +1,1427 @@
+{
+    "category": "Computerspiele",
+    "questionCount": 177,
+    "questionList": [
+        {
+            "question": "Aus welcher Spiele-Serie erschien im Jahr 2006 das Spiel \"...Double Agent\"?",
+            "correct": "Splinter Cell",
+            "false1": "Metal Gear Solid",
+            "false2": "Hitman",
+            "false3": "Assassins Creed"
+        },
+        {
+            "question": "Durch welche Person wird in \"Alan Wake\" das Böse dargestellt?",
+            "correct": "Barbara Jagger",
+            "false1": "David Lynch",
+            "false2": "Sarah Manning",
+            "false3": "Jack Torrance"
+        },
+        {
+            "question": "Wie heißt neben \"Joel\" der weibliche Hauptcharakter des Spiels?",
+            "correct": "Ellie",
+            "false1": "Mia",
+            "false2": "Ava",
+            "false3": "Lara"
+        },
+        {
+            "question": "In \"Tomb Raider 2\" kann man verschiedene Geheimnisdrachen sammeln. Welcher gehört NICHT dazu?",
+            "correct": "Holzdrache",
+            "false1": "Feuerdrache",
+            "false2": "Eisdrache",
+            "false3": "Wasserdrache"
+        },
+        {
+            "question": "In welchem Jahr kam die erste Videospiel-Konsole für den Heimgebrauch (\"Magnavox Odyssey\") auf den Markt?",
+            "correct": "1972",
+            "false1": "1970",
+            "false2": "1974",
+            "false3": "1968"
+        },
+        {
+            "question": "In welchem Jahr spielt das Spiel \"Red Dead Redemption\"?",
+            "correct": "1911",
+            "false1": "1899",
+            "false2": "1905",
+            "false3": "1887"
+        },
+        {
+            "question": "In welcher Spiele-Serie ist \"Master Chief\" die Hauptfigur?",
+            "correct": "Halo",
+            "false1": "Gears of War",
+            "false2": "Mass Effect",
+            "false3": "Doom"
+        },
+        {
+            "question": "In welcher Spiele-Serie kommt der Charakter \"Heihachi\" vor?",
+            "correct": "Tekken",
+            "false1": "Street Fighter",
+            "false2": "Mortal Kombat",
+            "false3": "Dead or Alive"
+        },
+        {
+            "question": "Was bedeutet \"free roaming\" und \"open-world\" im Spiel-Zusammenhang?",
+            "correct": "Spielumgebung ohne künstliche Barrieren",
+            "false1": "Spiel mit vielen Türen und Schlüsseln",
+            "false2": "Spiel mit linearem Level-Design",
+            "false3": "Spiel mit begrenzter Bewegungsfreiheit"
+        },
+        {
+            "question": "Was erscheint, wenn man einen zusätzlichen Lebenspilz bei Super Mario Bros. nimmt?",
+            "correct": "1 up",
+            "false1": "Extra Power",
+            "false2": "Super Size",
+            "false3": "Double Jump"
+        },
+        {
+            "question": "Was haben die Spiele \"Wolfenstein 3D\", \"Quake\" und \"Hexen\" gemeinsam?",
+            "correct": "Ego-Shooter-Spiele",
+            "false1": "Strategie-Spiele",
+            "false2": "Rollenspiele",
+            "false3": "Jump n Run-Spiele"
+        },
+        {
+            "question": "Was ist ein \"Landstalker\" im Spiel GTA IV?",
+            "correct": "SUV",
+            "false1": "Panzer",
+            "false2": "Motorrad",
+            "false3": "Monstertruck"
+        },
+        {
+            "question": "Was ist wahr über das Spiel \"Beneath a Steel Sky\" das im Jahr 1994 von Revolution entwickelt wurde?",
+            "correct": "Point & Click",
+            "false1": "Ego-Shooter",
+            "false2": "Jump n Run",
+            "false3": "Survival-Horror"
+        },
+        {
+            "question": "Was war der ursprüngliche Name von \"Super Mario\" beim Arcade Spiel \"Donkey Kong\" aus dem Jahr 1981?",
+            "correct": "Jumpman",
+            "false1": "Marioo",
+            "false2": "Luigio",
+            "false3": "Plumberman"
+        },
+        {
+            "question": "Welche Art von Spiel ist das Nintendo-Game \"Swords and Serpents\" aus dem Jahr 1991?",
+            "correct": "Fantasy-Rollenspiel",
+            "false1": "Action-Adventure",
+            "false2": "Puzzle-Spiel",
+            "false3": "Sportspiel"
+        },
+        {
+            "question": "Welche Art von Spiel ist \"Jazz Jackrabbit\", das im Jahr 1994 von Epic Games veröffentlicht wurde?",
+            "correct": "Jump n Run",
+            "false1": "Ego-Shooter",
+            "false2": "Kart-Rennspiel",
+            "false3": "Beatem Up"
+        },
+        {
+            "question": "Welche beiden Fraktionen treten im Computerspiel-Klassiker \"World of Warcraft\" gegeneinander an?",
+            "correct": "Allianz gegen Horde",
+            "false1": "Menschen gegen Zombies",
+            "false2": "Rebellen gegen Imperium",
+            "false3": "Templer gegen Assassinen"
+        },
+        {
+            "question": "Welche Beschreibung trifft auf das Spiel \"Crackdown\" zu?",
+            "correct": "Open World",
+            "false1": "Horror-Survival",
+            "false2": "Rundenbasiertes Strategiespiel",
+            "false3": "Rennspiel"
+        },
+        {
+            "question": "Welche Farben hat Super Marios Bruder Luigi auf seiner Kleidung?",
+            "correct": "Grün & Blau",
+            "false1": "Rot & Gelb",
+            "false2": "Blau & Gelb",
+            "false3": "Rot & Grün"
+        },
+        {
+            "question": "Welche Firma entwickelte \"Diablo 3\"?",
+            "correct": "Blizzard",
+            "false1": "Electronic Arts",
+            "false2": "Ubisoft",
+            "false3": "Bethesda"
+        },
+        {
+            "question": "Welches der folgenden ist ein riesiges Multiplayer-Game, welches in der Galaxie von New Eden stattfindet und in dem u.a. die Völker Amarr, Caldari und Gallente vorkommen?",
+            "correct": "EVE Online",
+            "false1": "StarCraft II",
+            "false2": "Destiny",
+            "false3": "No Mans Sky"
+        },
+        {
+            "question": "Welches der folgenden ist KEIN Kampfspiel?",
+            "correct": "Civilization",
+            "false1": "Tekken",
+            "false2": "Street Fighter",
+            "false3": "Mortal Kombat"
+        },
+        {
+            "question": "Welches der folgenden Spiele erhielt viel Kritik, weil es sehr gewaltsam und unwirklich war?",
+            "correct": "Soldier of Fortune",
+            "false1": "The Sims",
+            "false2": "Animal Crossing",
+            "false3": "Farming Simulator"
+        },
+        {
+            "question": "Welches ist KEIN Singspiel für die Konsole?",
+            "correct": "Start Singing",
+            "false1": "SingStar",
+            "false2": "Just Dance",
+            "false3": "Karaoke Revolution"
+        },
+        {
+            "question": "Welches Land war kein Schauplatz eines Levels im Spiel \"Tomb-Raider-III\"?",
+            "correct": "Italien",
+            "false1": "Indien",
+            "false2": "England",
+            "false3": "USA"
+        },
+        {
+            "question": "Welches Unternehmen veröffentlichte und vertrieb die Videospiel-Reihe \"Halo\"?",
+            "correct": "Microsoft Game Studios",
+            "false1": "Sony Interactive Entertainment",
+            "false2": "Nintendo",
+            "false3": "Electronic Arts"
+        },
+        {
+            "question": "Wie heißt das Handyspiel, bei dem der Spieler einen kleinen roten Ball steuert?",
+            "correct": "Bounce",
+            "false1": "Rolling Sphere",
+            "false2": "Red Jump",
+            "false3": "Tiny Runner"
+        },
+        {
+            "question": "Wie heißt das Smartphone-Spiel, bei dem der Spieler Obst mit einem Schwert zerteilt?",
+            "correct": "Fruit Ninja",
+            "false1": "Veggie Samurai",
+            "false2": "Sushi Slicer",
+            "false3": "Food Fighter"
+        },
+        {
+            "question": "Wer ist der Anführer der Horde und heutiger Welten-Schamane?",
+            "correct": "Thrall",
+            "false1": "Arthas",
+            "false2": "Sylvanas",
+            "false3": "Grommash"
+        },
+        {
+            "question": "Wie heißt der erste Pilz-ähnliche Feind, dem man in \"Super Mario Bros.\" (1985) begegnet?",
+            "correct": "Goombas",
+            "false1": "Koopa Troopa",
+            "false2": "Buzzy Beetle",
+            "false3": "Piranha Pflanze"
+        },
+        {
+            "question": "Wie heißt der grün gekleidete Held des Spiels \"Zelda\"?",
+            "correct": "Link",
+            "false1": "Zelda",
+            "false2": "Ganondorf",
+            "false3": "Epona"
+        },
+        {
+            "question": "Wie heißt der klassische und vielfach verkaufte Computer, der im Jahr 1982 auf dem Markt kam und dessen Spiele auf Datensätzen erhältlich waren?",
+            "correct": "Commodore 64",
+            "false1": "Atari 2600",
+            "false2": "ZX Spectrum",
+            "false3": "Amiga 500"
+        },
+        {
+            "question": "Wie heißt der Sohn von Alex Mason im Spiel \"Black Ops\" aus der Call of Duty-Reihe?",
+            "correct": "David Mason",
+            "false1": "Jason Mason",
+            "false2": "Michael Mason",
+            "false3": "Daniel Mason"
+        },
+        {
+            "question": "Wie heißt die erste Mission im Spiel \"Halo 3\"?",
+            "correct": "Arrival",
+            "false1": "Infiltration",
+            "false2": "Assault",
+            "false3": "Retribution"
+        },
+        {
+            "question": "Wie heißt die Hauptfigur im Action-RPG \"Mass Effect\"?",
+            "correct": "Commander Shepard",
+            "false1": "John Shepard",
+            "false2": "Alex Shepard",
+            "false3": "James Shepard"
+        },
+        {
+            "question": "Wie heißt die Hauptfigur im Spiel \"Final Fantasy IX\"?",
+            "correct": "Zidane Tribal",
+            "false1": "Cloud Strife",
+            "false2": "Squall Leonhart",
+            "false3": "Tidus"
+        },
+        {
+            "question": "Wie heißt die Hauptfigur im Spiel \"Grand Theft Auto: Vice City\"?",
+            "correct": "Tommy Vercetti",
+            "false1": "Niko Bellic",
+            "false2": "Carl Johnson",
+            "false3": "Trevor Philips"
+        },
+        {
+            "question": "Wie heißt die Hauptfigur in \"Resident Evil 4\"?",
+            "correct": "Leon S. Kennedy",
+            "false1": "Chris Redfield",
+            "false2": "Jill Valentine",
+            "false3": "Albert Wesker"
+        },
+        {
+            "question": "Wie heißt die parasitäre und fremde Form, welche die Menschheit in der Spiele-Serie \"Halo\" bedroht?",
+            "correct": "The Flood",
+            "false1": "The Swarm",
+            "false2": "The Infected",
+            "false3": "The Plague"
+        },
+        {
+            "question": "Wie heißt die Prinzessin in \"Super Mario Land\" für den Game Boy?",
+            "correct": "Prinzessin Daisy",
+            "false1": "Prinzessin Peach",
+            "false2": "Prinzessin Rosalina",
+            "false3": "Prinzessin Toadstool"
+        },
+        {
+            "question": "Wie heißt eine beliebte Computer- bzw. Videospielreihe, deren erster Teil im Jahr 1992 veröffentlicht wurde?",
+            "correct": "The Lost Vikings",
+            "false1": "The Mighty Warriors",
+            "false2": "The Adventurous Explorers",
+            "false3": "The Valiant Knights"
+        },
+        {
+            "question": "Wie kann man im Spiel \"The Sims 2\" NICHT sterben?",
+            "correct": "Vom Dinosaurier gegessen werden",
+            "false1": "Ertrinken im Pool",
+            "false2": "Von einem Meteor getroffen werden",
+            "false3": "An einer Überdosis essen sterben"
+        },
+        {
+            "question": "Wie lange dauerte die Entwicklung des Gratis-Spiels \"Team Fortress 2\"?",
+            "correct": "9 Jahre",
+            "false1": "5 Jahre",
+            "false2": "12 Jahre",
+            "false3": "3 Jahre"
+        },
+        {
+            "question": "Wie nennt man es, wenn sich bei World of Warcraft zwei Spieler duellieren?",
+            "correct": "PvP",
+            "false1": "PvE",
+            "false2": "RP",
+            "false3": "Co-op"
+        },
+        {
+            "question": "Wofür steht die Abkürzung \"CoD\" im Videospiel-Zusammenhang?",
+            "correct": "Call of Duty",
+            "false1": "Curse of Darkness",
+            "false2": "Champion of Darkness",
+            "false3": "Chronicles of Doom"
+        },
+        {
+            "question": "Zu welchem Ego-Shooter-Spiel macht Trent Reznor von Nine Inch Nails die Musik?",
+            "correct": "Quake",
+            "false1": "Half-Life",
+            "false2": "Doom",
+            "false3": "Unreal Tournament"
+        },
+        {
+            "question": "Zu welchem Genre zählt man das Videospiel \"Heavy Rain\"?",
+            "correct": "Action-Adventure",
+            "false1": "Survival-Horror",
+            "false2": "Rennspiel",
+            "false3": "Ego-Shooter"
+        },
+        {
+            "question": "Wie heißt der Hauptcharakter in der Videospielreihe \"Uncharted\"?",
+            "correct": "Nathan Drake",
+            "false1": "John Carter",
+            "false2": "Michael Knight",
+            "false3": "Alex Mercer"
+        },
+        {
+            "question": "Welches Spiel wird oft als Meilenstein für interaktive Erzählungen bezeichnet und stammt von Telltale Games?",
+            "correct": "The Walking Dead",
+            "false1": "Resident Evil",
+            "false2": "Left 4 Dead",
+            "false3": "Dead Space"
+        },
+        {
+            "question": "In welchem Jahr wurde das Spiel \"Pac-Man\" erstmals veröffentlicht?",
+            "correct": "1980",
+            "false1": "1978",
+            "false2": "1982",
+            "false3": "1985"
+        },
+        {
+            "question": "Welche Spiele-Serie wurde von Rockstar Games entwickelt und spielt in einer fiktiven Version der USA?",
+            "correct": "Grand Theft Auto (GTA)",
+            "false1": "Saints Row",
+            "false2": "Watch Dogs",
+            "false3": "Sleeping Dogs"
+        },
+        {
+            "question": "Welches Spiel führte die Einführung von Mario als Charakter ein?",
+            "correct": "Donkey Kong",
+            "false1": "Super Mario Bros.",
+            "false2": "The Legend of Zelda",
+            "false3": "Mega Man"
+        },
+        {
+            "question": "Welches Spiel gilt als erstes kommerziell erfolgreiches Videospiel?",
+            "correct": "Pong",
+            "false1": "Space Invaders",
+            "false2": "Pac-Man",
+            "false3": "Asteroids"
+        },
+        {
+            "question": "Welcher Charakter ist für seine legendäre \"Falcon Punch\"-Attacke bekannt?",
+            "correct": "Captain Falcon",
+            "false1": "Fox McCloud",
+            "false2": "Samus Aran",
+            "false3": "Link"
+        },
+        {
+            "question": "Welches Spiel gilt als Wegbereiter des Battle-Royale-Genres?",
+            "correct": "PlayerUnknowns Battlegrounds (PUBG)",
+            "false1": "Fortnite",
+            "false2": "Apex Legends",
+            "false3": "Call of Duty: Warzone"
+        },
+        {
+            "question": "Welche fiktive Welt ist die Heimat von Mario?",
+            "correct": "Pilzkönigreich",
+            "false1": "Hyrule",
+            "false2": "Mushroom Kingdom",
+            "false3": "Zebes"
+        },
+        {
+            "question": "Wie heißt der Hauptantagonist in der Spiele-Serie \"The Legend of Zelda\"?",
+            "correct": "Ganondorf",
+            "false1": "Bowser",
+            "false2": "Dr. Robotnik",
+            "false3": "Wario"
+        },
+        {
+            "question": "Welche der folgenden Figuren ist ein Charakter in der \"Half-Life\"-Serie?",
+            "correct": "Gordon Freeman",
+            "false1": "Adam Jensen",
+            "false2": "Geralt von Riva",
+            "false3": "Joel Miller"
+        },
+        {
+            "question": "Welches Spiel wird oft als das erste Survival-Horror-Spiel bezeichnet?",
+            "correct": "Resident Evil (Biohazard)",
+            "false1": "Silent Hill",
+            "false2": "Dead Space",
+            "false3": "Alone in the Dark"
+        },
+        {
+            "question": "Wie heißt der ikonische Bösewicht in der \"Sonic the Hedgehog\"-Serie?",
+            "correct": "Dr. Eggman",
+            "false1": "Bowser",
+            "false2": "King K. Rool",
+            "false3": "Ganondorf"
+        },
+        {
+            "question": "Welche Videospielreihe stammt von den Entwicklern Naughty Dog?",
+            "correct": "Crash Bandicoot",
+            "false1": "Spyro the Dragon",
+            "false2": "Ratchet & Clank",
+            "false3": "Jak and Daxter"
+        },
+        {
+            "question": "Welches Spiel ist bekannt für seinen epischen Soundtrack von Nobuo Uematsu?",
+            "correct": "Final Fantasy VII",
+            "false1": "The Elder Scrolls V: Skyrim",
+            "false2": "The Legend of Zelda: Ocarina of Time",
+            "false3": "Chrono Trigger"
+        },
+        {
+            "question": "In welchem Jahr wurde das erste \"Assassins Creed\"-Spiel veröffentlicht?",
+            "correct": "2007",
+            "false1": "2004",
+            "false2": "2009",
+            "false3": "2010"
+        },
+        {
+            "question": "Welche Spielereihe ist dafür bekannt, die Möglichkeit zu bieten, die Spielwelt nach Belieben zu verändern?",
+            "correct": "Minecraft",
+            "false1": "Terraria",
+            "false2": "No Mans Sky",
+            "false3": "Subnautica"
+        },
+        {
+            "question": "Welches Spiel wird oft als das erste First-Person-Shooter-Spiel angesehen?",
+            "correct": "Doom",
+            "false1": "Quake",
+            "false2": "Half-Life",
+            "false3": "Wolfenstein 3D"
+        },
+        {
+            "question": "Wie heißt der Protagonist in der Spiele-Serie \"Metal Gear Solid\"?",
+            "correct": "Solid Snake",
+            "false1": "Liquid Snake",
+            "false2": "Naked Snake",
+            "false3": "Venom Snake"
+        },
+        {
+            "question": "Welches Spiel ist bekannt für seine innovativen \"Portal\"-Mechaniken und den bösartigen KI-Gegner \"GLaDOS\"?",
+            "correct": "Portal",
+            "false1": "Half-Life",
+            "false2": "Bioshock",
+            "false3": "Mirrors Edge"
+        },
+        {
+            "question": "In welchem Jahr wurde das Rollenspiel \"The Witcher 3: Wild Hunt\" veröffentlicht?",
+            "correct": "2015",
+            "false1": "2013",
+            "false2": "2016",
+            "false3": "2017"
+        },
+        {
+            "question": "Welche Videospielreihe spielt in einer postapokalyptischen Welt und wird von Bethesda entwickelt?",
+            "correct": "Fallout",
+            "false1": "Metro",
+            "false2": "S.T.A.L.K.E.R.",
+            "false3": "Wasteland"
+        },
+        {
+            "question": "Welcher Charakter ist der Hauptgegner in der \"Mega Man\"-Serie?",
+            "correct": "Dr. Wily",
+            "false1": "Sigma",
+            "false2": "King Dedede",
+            "false3": "Ridley"
+        },
+        {
+            "question": "Welche fiktive Stadt ist der Schauplatz von \"GTA: San Andreas\"?",
+            "correct": "Los Santos",
+            "false1": "Vice City",
+            "false2": "Liberty City",
+            "false3": "San Fierro"
+        },
+        {
+            "question": "Welches Spiel hat das Battle-Royale-Genre populär gemacht und wurde von Epic Games entwickelt?",
+            "correct": "Fortnite",
+            "false1": "Apex Legends",
+            "false2": "PlayerUnknowns Battlegrounds (PUBG)",
+            "false3": "Call of Duty: Warzone"
+        },
+        {
+            "question": "Wie heißt die kultige orange Frucht in Pac-Man?",
+            "correct": "Pac-Dots (Pac-Man-Dots)",
+            "false1": "Cherries",
+            "false2": "Grapes",
+            "false3": "Strawberries"
+        },
+        {
+            "question": "Welche Videospielreihe wird oft als Vorreiter des Stealth-Genres angesehen?",
+            "correct": "Metal Gear Solid",
+            "false1": "Assassins Creed",
+            "false2": "Hitman",
+            "false3": "Splinter Cell"
+        },
+        {
+            "question": "Welches Spiel wurde berühmt für seine \"bullet time\"-Mechanik, die Actionsequenzen in Zeitlupe darstellt?",
+            "correct": "Max Payne",
+            "false1": "TimeSplitters",
+            "false2": "Singularity",
+            "false3": "Quantum Break"
+        },
+        {
+            "question": "Wie heißt der Hauptcharakter in der Spiele-Serie \"Tomb Raider\"?",
+            "correct": "Lara Croft",
+            "false1": "Indiana Jones",
+            "false2": "Nathan Drake",
+            "false3": "Samus Aran"
+        },
+        {
+            "question": "Welches Spiel ist bekannt für seine farbenfrohe und musikalische Reise durch eine psychedelische Welt?",
+            "correct": "Journey",
+            "false1": "Flower",
+            "false2": "Abzû",
+            "false3": "Oxenfree"
+        },
+        {
+            "question": "In welchem Jahr wurde das Spiel \"Street Fighter II\" erstmals veröffentlicht?",
+            "correct": "1991",
+            "false1": "1988",
+            "false2": "1994",
+            "false3": "1997"
+        },
+        {
+            "question": "Welche Videospielreihe spielt in der Welt von Tamriel und wird oft von Bethesda entwickelt?",
+            "correct": "The Elder Scrolls",
+            "false1": "Dragon Age",
+            "false2": "Dark Souls",
+            "false3": "Diablo"
+        },
+        {
+            "question": "Welches Spiel ist bekannt für seine riesige, offene Welt, in der man Abenteuer als Hauptcharakter \"Link\" erlebt?",
+            "correct": "The Legend of Zelda: Breath of the Wild",
+            "false1": "The Elder Scrolls V: Skyrim",
+            "false2": "Red Dead Redemption 2",
+            "false3": "Assassins Creed: Valhalla"
+        },
+        {
+            "question": "Welches Spiel wird oft als eines der besten Rollenspiele aller Zeiten angesehen und wurde von Bioware entwickelt?",
+            "correct": "Baldurs Gate II: Shadows of Amn",
+            "false1": "The Witcher 3: Wild Hunt",
+            "false2": "Fallout: New Vegas",
+            "false3": "Final Fantasy VII"
+        },
+        {
+            "question": "Wie heißt der Protagonist in der Spiele-Serie \"Assassins Creed\"?",
+            "correct": "Desmond Miles",
+            "false1": "Ezio Auditore",
+            "false2": "Altaïr Ibn-LaAhad",
+            "false3": "Edward Kenway"
+        },
+        {
+            "question": "Welches Spiel ist bekannt für seine tiefgründige Handlung und das moralische Entscheidungssystem?",
+            "correct": "Mass Effect",
+            "false1": "Bioshock",
+            "false2": "Deus Ex",
+            "false3": "The Outer Worlds"
+        },
+        {
+            "question": "In welchem Jahr wurde das Spiel \"Space Invaders\" erstmals veröffentlicht?",
+            "correct": "1978",
+            "false1": "1982",
+            "false2": "1975",
+            "false3": "1980"
+        },
+        {
+            "question": "Welche Videospielreihe spielt in der postapokalyptischen Welt von Sankt Petersburg und wird oft von GSC Game World entwickelt?",
+            "correct": "S.T.A.L.K.E.R.",
+            "false1": "Metro",
+            "false2": "Fallout",
+            "false3": "Bioshock"
+        },
+        {
+            "question": "Wie heißt die Hauptfigur in der Spiele-Serie \"Metroid\"?",
+            "correct": "Samus Aran",
+            "false1": "Master Chief",
+            "false2": "Isaac Clarke",
+            "false3": "Gordon Freeman"
+        },
+        {
+            "question": "Welches Spiel ist bekannt für seinen knackigen Schwierigkeitsgrad und wurde von FromSoftware entwickelt?",
+            "correct": "Dark Souls",
+            "false1": "Bloodborne",
+            "false2": "Sekiro: Shadows Die Twice",
+            "false3": "Nioh"
+        },
+        {
+            "question": "Welche Videospielreihe wird oft als Begründer des Survival-Horror-Genres angesehen?",
+            "correct": "Resident Evil (Biohazard)",
+            "false1": "Silent Hill",
+            "false2": "Dead Space",
+            "false3": "Alone in the Dark"
+        },
+        {
+            "question": "In welchem Jahr wurde das Rollenspiel \"Final Fantasy VII\" erstmals veröffentlicht?",
+            "correct": "1997",
+            "false1": "1995",
+            "false2": "1999",
+            "false3": "2000"
+        },
+        {
+            "question": "Welches Spiel ist bekannt für seine ausufernden Modding-Möglichkeiten und die offene Spielwelt?",
+            "correct": "The Elder Scrolls V: Skyrim",
+            "false1": "The Witcher 3: Wild Hunt",
+            "false2": "Red Dead Redemption 2",
+            "false3": "Assassins Creed: Valhalla"
+        },
+        {
+            "question": "Welcher Charakter ist der Hauptprotagonist in der \"Uncharted\"-Serie?",
+            "correct": "Nathan Drake",
+            "false1": "Lara Croft",
+            "false2": "Indiana Jones",
+            "false3": "Solid Snake"
+        },
+        {
+            "question": "Wie heißt der ikonische rote Igel in der Spiele-Serie \"Sonic the Hedgehog\"?",
+            "correct": "Sonic",
+            "false1": "Shadow",
+            "false2": "Knuckles",
+            "false3": "Tails"
+        },
+        {
+            "question": "Welche fiktive Stadt ist der Schauplatz von \"GTA V\"?",
+            "correct": "Los Santos",
+            "false1": "Vice City",
+            "false2": "Liberty City",
+            "false3": "San Fierro"
+        },
+        {
+            "question": "Welches Spiel wird oft als eines der besten Action-Adventures aller Zeiten angesehen und wurde von Naughty Dog entwickelt?",
+            "correct": "The Last of Us",
+            "false1": "God of War (2018)",
+            "false2": "Red Dead Redemption 2",
+            "false3": "Uncharted 4: A Thiefs End"
+        },
+        {
+            "question": "Welche Videospielreihe spielt in der postapokalyptischen Welt von Boston und wird oft von Bethesda entwickelt?",
+            "correct": "Fallout",
+            "false1": "S.T.A.L.K.E.R.",
+            "false2": "Metro",
+            "false3": "Bioshock"
+        },
+        {
+            "question": "Wie heißt der Protagonist in der Spiele-Serie \"The Witcher\"?",
+            "correct": "Geralt von Riva",
+            "false1": "Desmond Miles",
+            "false2": "John Marston",
+            "false3": "Edward Kenway"
+        },
+        {
+            "question": "Welches Spiel ist bekannt für seine packende Handlung, die in einer postapokalyptischen Welt stattfindet?",
+            "correct": "The Last of Us",
+            "false1": "Bioshock",
+            "false2": "Horizon Zero Dawn",
+            "false3": "Days Gone"
+        },
+        {
+            "question": "Welcher Charakter ist der Hauptantagonist in der \"Half-Life\"-Serie?",
+            "correct": "G-Man",
+            "false1": "GLaDOS",
+            "false2": "Nihilanth",
+            "false3": "Breen"
+        },
+        {
+            "question": "Wie heißt die berühmte Endgegnerin in der Spielreihe \"Metroid\"?",
+            "correct": "Mother Brain",
+            "false1": "Queen Metroid",
+            "false2": "Dark Samus",
+            "false3": "Kraid"
+        },
+        {
+            "question": "Welches Spiel wird oft als eines der besten Action-Rollenspiele aller Zeiten angesehen und wurde von CD Projekt Red entwickelt?",
+            "correct": "The Witcher 3: Wild Hunt",
+            "false1": "Dark Souls",
+            "false2": "Dragon Age: Inquisition",
+            "false3": "Divinity: Original Sin 2"
+        },
+        {
+            "question": "In welchem Jahr wurde das JumpnRun-Spiel \"Super Mario Bros.\" erstmals veröffentlicht?",
+            "correct": "1985",
+            "false1": "1983",
+            "false2": "1987",
+            "false3": "1990"
+        },
+        {
+            "question": "Welches Spiel wird oft als einer der Begründer des Echtzeit-Strategie-Genres angesehen und wurde von Westwood Studios entwickelt?",
+            "correct": "Command & Conquer",
+            "false1": "Age of Empires",
+            "false2": "StarCraft",
+            "false3": "Warcraft: Orcs & Humans"
+        },
+        {
+            "question": "Welche Videospielreihe wird oft als Pionier des Survival-Survival-Horror-Genres angesehen?",
+            "correct": "Silent Hill",
+            "false1": "Resident Evil (Biohazard)",
+            "false2": "Fatal Frame (Project Zero)",
+            "false3": "Dead Space"
+        },
+        {
+            "question": "Wie heißt der Hauptcharakter in der Spiele-Serie \"Metal Gear Solid\"?",
+            "correct": "Solid Snake",
+            "false1": "Big Boss",
+            "false2": "Liquid Snake",
+            "false3": "Raiden"
+        },
+        {
+            "question": "Welches Spiel ist bekannt für seine tiefgründige Handlung, die von den Entscheidungen des Spielers beeinflusst wird und wurde von Quantic Dream entwickelt?",
+            "correct": "Detroit: Become Human",
+            "false1": "Life is Strange",
+            "false2": "Heavy Rain",
+            "false3": "Beyond: Two Souls"
+        },
+        {
+            "question": "In welchem Jahr wurde das Open-World-Action-Adventure \"Grand Theft Auto: San Andreas\" veröffentlicht?",
+            "correct": "2004",
+            "false1": "2002",
+            "false2": "2006",
+            "false3": "2008"
+        },
+        {
+            "question": "Welches Spiel ist bekannt für seine komplexen Rätsel und wurde von Jonathan Blow entwickelt?",
+            "correct": "Braid",
+            "false1": "Limbo",
+            "false2": "Inside",
+            "false3": "Fez"
+        },
+        {
+            "question": "Welches Spiel wird oft als eines der besten JRPGs (japanische Rollenspiele) aller Zeiten angesehen und wurde von Squaresoft (jetzt Square Enix) entwickelt?",
+            "correct": "Final Fantasy VII",
+            "false1": "Chrono Trigger",
+            "false2": "Persona 5",
+            "false3": "Dragon Quest XI"
+        },
+        {
+            "question": "Welches Spiel wird oft als eines der besten Ego-Shooter-Spiele und Meilenstein der Videospielgeschichte angesehen?",
+            "correct": "Doom (1993)",
+            "false1": "Half-Life 2",
+            "false2": "Quake",
+            "false3": "GoldenEye 007 (Nintendo 64)"
+        },
+        {
+            "question": "In welchem Jahr wurde das erste \"Assassins Creed\"-Spiel veröffentlicht?",
+            "correct": "2007",
+            "false1": "2005",
+            "false2": "2009",
+            "false3": "2010"
+        },
+        {
+            "question": "Welche Videospielreihe ist bekannt für ihre herausfordernden Bosskämpfe und wurde von FromSoftware entwickelt?",
+            "correct": "Souls (Demons Souls, Dark Souls, Bloodborne, Sekiro: Shadows Die Twice)",
+            "false1": "Ninja Gaiden",
+            "false2": "Devil May Cry",
+            "false3": "God of War"
+        },
+        {
+            "question": "In welchem Jahr wurde das Sci-Fi-Rollenspiel \"Mass Effect 2\" veröffentlicht?",
+            "correct": "2010",
+            "false1": "2008",
+            "false2": "2012",
+            "false3": "2014"
+        },
+        {
+            "question": "Welches Spiel ist bekannt für seine düstere Atmosphäre und seinen einzigartigen Art-Style und wurde von StudioMDHR entwickelt?",
+            "correct": "Cuphead",
+            "false1": "Hollow Knight",
+            "false2": "Little Nightmares",
+            "false3": "Bendy and the Ink Machine"
+        },
+        {
+            "question": "Wie heißt der Protagonist in der \"Legend of Zelda\"-Serie?",
+            "correct": "Link",
+            "false1": "Zelda",
+            "false2": "Ganondorf",
+            "false3": "Epona"
+        },
+        {
+            "question": "Welches Spiel ist bekannt für seinen innovativen Schleichmechanismus und wurde von IO Interactive entwickelt?",
+            "correct": "Hitman",
+            "false1": "Splinter Cell",
+            "false2": "Assassins Creed",
+            "false3": "Metal Gear Solid"
+        },
+        {
+            "question": "In welchem Jahr wurde das Sci-Fi-Action-Rollenspiel \"Deus Ex\" veröffentlicht?",
+            "correct": "2000",
+            "false1": "1998",
+            "false2": "2002",
+            "false3": "2004"
+        },
+        {
+            "question": "Welches Spiel wird oft als eines der besten Point-and-Click-Adventures aller Zeiten angesehen und wurde von LucasArts entwickelt?",
+            "correct": "The Secret of Monkey Island",
+            "false1": "Grim Fandango",
+            "false2": "Day of the Tentacle",
+            "false3": "Full Throttle"
+        },
+        {
+            "question": "Wie heißt der ikonische weiße Wächter in der Spiele-Serie \"Halo\"?",
+            "correct": "343 Guilty Spark",
+            "false1": "Cortana",
+            "false2": "Master Chief",
+            "false3": "Arbiter"
+        },
+        {
+            "question": "In welchem Jahr wurde das Action-Adventure-Spiel \"The Legend of Zelda: Ocarina of Time\" erstmals veröffentlicht?",
+            "correct": "1998",
+            "false1": "1996",
+            "false2": "2000",
+            "false3": "2002"
+        },
+        {
+            "question": "Welches Spiel ist bekannt für seine zeitlose Pixelgrafik und wurde von Toby Fox entwickelt?",
+            "correct": "Undertale",
+            "false1": "Celeste",
+            "false2": "Stardew Valley",
+            "false3": "Terraria"
+        },
+        {
+            "question": "Wie heißt der Protagonist in der \"Half-Life\"-Serie?",
+            "correct": "Gordon Freeman",
+            "false1": "Adrian Shephard",
+            "false2": "Isaac Clarke",
+            "false3": "Alex Vance"
+        },
+        {
+            "question": "In welchem Jahr wurde das Action-Rollenspiel \"Dark Souls\" erstmals veröffentlicht?",
+            "correct": "2011",
+            "false1": "2009",
+            "false2": "2013",
+            "false3": "2015"
+        },
+        {
+            "question": "Welches Spiel wird oft als eines der besten Rennspiele aller Zeiten angesehen und wurde von Polyphony Digital entwickelt?",
+            "correct": "Gran Turismo",
+            "false1": "Need for Speed: Most Wanted (2005)",
+            "false2": "Forza Motorsport",
+            "false3": "Burnout Paradise"
+        },
+        {
+            "question": "In welchem Jahr wurde das Open-World-Action-Rollenspiel \"The Elder Scrolls V: Skyrim\" veröffentlicht?",
+            "correct": "2011",
+            "false1": "2009",
+            "false2": "2013",
+            "false3": "2015"
+        },
+        {
+            "question": "Welches Spiel ist bekannt für seine filmreife Inszenierung und wurde von Naughty Dog entwickelt?",
+            "correct": "Uncharted 4: A Thiefs End",
+            "false1": "The Last of Us",
+            "false2": "God of War (2018)",
+            "false3": "Horizon Zero Dawn"
+        },
+        {
+            "question": "In welchem Jahr wurde das Action-Adventure-Spiel \"Super Metroid\" erstmals veröffentlicht?",
+            "correct": "1994",
+            "false1": "1992",
+            "false2": "1996",
+            "false3": "1998"
+        },
+        {
+            "question": "Welches Spiel ist bekannt für seine offene Spielwelt und wurde von Rockstar Games entwickelt?",
+            "correct": "Red Dead Redemption",
+            "false1": "Far Cry 3",
+            "false2": "The Witcher 3: Wild Hunt",
+            "false3": "Assassins Creed IV: Black Flag"
+        },
+        {
+            "question": "Wie heißt der Protagonist in der \"Metal Gear Solid\"-Serie, der auch als Naked Snake bekannt ist?",
+            "correct": "Big Boss",
+            "false1": "Solid Snake",
+            "false2": "Liquid Snake",
+            "false3": "Raiden"
+        },
+        {
+            "question": "In welchem Jahr wurde das Action-Adventure-Spiel \"The Legend of Zelda: A Link to the Past\" erstmals veröffentlicht?",
+            "correct": "1991",
+            "false1": "1989",
+            "false2": "1993",
+            "false3": "1995"
+        },
+        {
+            "question": "Welches Spiel ist bekannt für seine dichte Atmosphäre und wurde von Capcom entwickelt?",
+            "correct": "Resident Evil (Biohazard)",
+            "false1": "Dead Space",
+            "false2": "Silent Hill",
+            "false3": "The Evil Within"
+        },
+        {
+            "question": "Wie heißt der Protagonist in der \"God of War\"-Serie?",
+            "correct": "Kratos",
+            "false1": "Ares",
+            "false2": "Zeus",
+            "false3": "Hades"
+        },
+        {
+            "question": "Welches Spiel ist bekannt für seine herausfordernden und kreativen Rätsel und wurde von Valve entwickelt?",
+            "correct": "Portal",
+            "false1": "Limbo",
+            "false2": "Braid",
+            "false3": "The Witness"
+        },
+        {
+            "question": "In welchem Jahr wurde das Stealth-Action-Adventure \"Metal Gear Solid\" erstmals veröffentlicht?",
+            "correct": "1998",
+            "false1": "1996",
+            "false2": "2000",
+            "false3": "2002"
+        },
+        {
+            "question": "Welches Spiel ist bekannt für seine packende Handlung und wurde von Rocksteady Studios entwickelt?",
+            "correct": "Batman: Arkham City",
+            "false1": "Spider-Man (2018)",
+            "false2": "Infamous",
+            "false3": "Watch Dogs"
+        },
+        {
+            "question": "In welchem Jahr wurde das Survival-Horror-Spiel \"Silent Hill 2\" erstmals veröffentlicht?",
+            "correct": "2001",
+            "false1": "1999",
+            "false2": "2003",
+            "false3": "2005"
+        },
+        {
+            "question": "Welches Spiel ist bekannt für seine liebevolle Gestaltung der Spielwelt und wurde von Nintendo entwickelt?",
+            "correct": "Super Mario Odyssey",
+            "false1": "Rayman Legends",
+            "false2": "Sonic Mania",
+            "false3": "A Hat in Time"
+        },
+        {
+            "question": "Wie heißt der Protagonist in der \"Devil May Cry\"-Serie?",
+            "correct": "Dante",
+            "false1": "Vergil",
+            "false2": "Nero",
+            "false3": "Kratos"
+        },
+        {
+            "question": "In welchem Jahr wurde das Open-World-Action-Adventure \"The Legend of Zelda: Breath of the Wild\" veröffentlicht?",
+            "correct": "2017",
+            "false1": "2015",
+            "false2": "2019",
+            "false3": "2021"
+        },
+        {
+            "question": "Welches Spiel ist bekannt für seinen charmanten Humor und wurde von Double Fine Productions entwickelt?",
+            "correct": "Psychonauts",
+            "false1": "Beyond Good & Evil",
+            "false2": "Brütal Legend",
+            "false3": "Broken Age"
+        },
+        {
+            "question": "In welchem Jahr wurde das Action-Rollenspiel \"Diablo II\" erstmals veröffentlicht?",
+            "correct": "2000",
+            "false1": "1998",
+            "false2": "2002",
+            "false3": "2004"
+        },
+        {
+            "question": "Welches Spiel ist bekannt für seinen atmosphärischen Soundtrack und wurde von Supergiant Games entwickelt?",
+            "correct": "Transistor",
+            "false1": "Celeste",
+            "false2": "Hyper Light Drifter",
+            "false3": "Bastion"
+        },
+        {
+            "question": "In welchem Jahr wurde das Science-Fiction-Action-Rollenspiel \"Fallout 3\" veröffentlicht?",
+            "correct": "2008",
+            "false1": "2006",
+            "false2": "2010",
+            "false3": "2012"
+        },
+        {
+            "question": "Welches Spiel ist bekannt für seine dynamische und intensive Spielerfahrung und wurde von id Software entwickelt?",
+            "correct": "Quake III Arena",
+            "false1": "Unreal Tournament",
+            "false2": "Halo: Combat Evolved",
+            "false3": "Doom (2016)"
+        },
+        {
+            "question": "In welchem Jahr wurde das Action-Adventure-Spiel \"Super Mario 64\" erstmals veröffentlicht?",
+            "correct": "1996",
+            "false1": "1994",
+            "false2": "1998",
+            "false3": "2000"
+        },
+        {
+            "question": "Welches Spiel ist bekannt für seine tiefgründige Handlung und wurde von Yoko Taro entwickelt?",
+            "correct": "Nier: Automata",
+            "false1": "Persona 5",
+            "false2": "Xenoblade Chronicles",
+            "false3": "NieR"
+        },
+        {
+            "question": "In welchem Jahr wurde das Action-Adventure-Spiel \"The Legend of Zelda: Twilight Princess\" erstmals veröffentlicht?",
+            "correct": "2006",
+            "false1": "2004",
+            "false2": "2008",
+            "false3": "2010"
+        },
+        {
+            "question": "Welches Spiel ist bekannt für seine komplexen und emotionalen Entscheidungen und wurde von Dontnod Entertainment entwickelt?",
+            "correct": "Life is Strange",
+            "false1": "Firewatch",
+            "false2": "Oxenfree",
+            "false3": "Gone Home"
+        },
+        {
+            "question": "In welchem Jahr wurde das Action-Rollenspiel \"Dark Souls III\" erstmals veröffentlicht?",
+            "correct": "2016",
+            "false1": "2014",
+            "false2": "2018",
+            "false3": "2020"
+        },
+        {
+            "question": "Welches Spiel ist bekannt für seine kreative Levelgestaltung und wurde von Media Molecule entwickelt?",
+            "correct": "LittleBigPlanet",
+            "false1": "Super Mario Maker",
+            "false2": "Minecraft",
+            "false3": "Terraria"
+        },
+        {
+            "question": "In welchem Jahr wurde das Action-Rollenspiel \"The Witcher 3: Wild Hunt\" veröffentlicht?",
+            "correct": "2015",
+            "false1": "2013",
+            "false2": "2017",
+            "false3": "2019"
+        },
+        {
+            "question": "Welches Spiel ist bekannt für seine innovative Zeitreise-Mechanik und wurde von Remedy Entertainment entwickelt?",
+            "correct": "Quantum Break",
+            "false1": "Life is Strange",
+            "false2": "Prince of Persia: The Sands of Time",
+            "false3": "Braid"
+        },
+        {
+            "question": "In welchem Jahr wurde das Action-Adventure-Spiel \"The Legend of Zelda: Majoras Mask\" erstmals veröffentlicht?",
+            "correct": "2000",
+            "false1": "1998",
+            "false2": "2002",
+            "false3": "2004"
+        },
+        {
+            "question": "Welches Spiel ist bekannt für seine packende Handlung und wurde von Naughty Dog entwickelt?",
+            "correct": "The Last of Us",
+            "false1": "Red Dead Redemption 2",
+            "false2": "God of War (2018)",
+            "false3": "Horizon Zero Dawn"
+        },
+        {
+            "question": "In welchem Jahr wurde das Survival-Horror-Spiel \"Resident Evil 4\" erstmals veröffentlicht?",
+            "correct": "2005",
+            "false1": "2003",
+            "false2": "2007",
+            "false3": "2009"
+        },
+        {
+            "question": "Welches Spiel ist bekannt für seine offene Welt und wurde von Rockstar Games entwickelt?",
+            "correct": "Grand Theft Auto V",
+            "false1": "Saints Row IV",
+            "false2": "Watch Dogs",
+            "false3": "Sleeping Dogs"
+        },
+        {
+            "question": "In welchem Jahr wurde das Action-Rollenspiel \"Dark Souls II\" erstmals veröffentlicht?",
+            "correct": "2014",
+            "false1": "2012",
+            "false2": "2016",
+            "false3": "2018"
+        },
+        {
+            "question": "Welches Spiel ist bekannt für seine herausragende Musik und wurde von Cavia entwickelt?",
+            "correct": "NieR",
+            "false1": "Silent Hill",
+            "false2": "Journey",
+            "false3": "Transistor"
+        },
+        {
+            "question": "In welchem Jahr wurde das Action-Adventure-Spiel \"The Legend of Zelda: The Wind Waker\" erstmals veröffentlicht?",
+            "correct": "2002",
+            "false1": "2000",
+            "false2": "2004",
+            "false3": "2006"
+        },
+        {
+            "question": "Welches Spiel ist bekannt für seine dynamische Spielwelt und wurde von Nintendo entwickelt?",
+            "correct": "The Legend of Zelda: Breath of the Wild",
+            "false1": "Horizon Zero Dawn",
+            "false2": "Red Dead Redemption 2",
+            "false3": "The Witcher 3: Wild Hunt"
+        },
+        {
+            "question": "Wie heißt die Protagonistin in der \"Tomb Raider\"-Serie?",
+            "correct": "Lara Croft",
+            "false1": "Samus Aran",
+            "false2": "Aloy",
+            "false3": "Fiona Belli"
+        },
+        {
+            "question": "In welchem Jahr wurde das Survival-Horror-Spiel \"Silent Hill 3\" erstmals veröffentlicht?",
+            "correct": "2003",
+            "false1": "2001",
+            "false2": "2005",
+            "false3": "2007"
+        },
+        {
+            "question": "Welches Spiel ist bekannt für seine innovative Spielmechanik und wurde von Jonathan Blow entwickelt?",
+            "correct": "The Witness",
+            "false1": "Braid",
+            "false2": "Limbo",
+            "false3": "Inside"
+        },
+        {
+            "question": "In welchem Jahr wurde das Action-Rollenspiel \"Bloodborne\" erstmals veröffentlicht?",
+            "correct": "2015",
+            "false1": "2013",
+            "false2": "2017",
+            "false3": "2019"
+        },
+        {
+            "question": "Welches Spiel ist bekannt für seinen einzigartigen Art-Style und wurde von Playdead entwickelt?",
+            "correct": "Limbo",
+            "false1": "Braid",
+            "false2": "Inside",
+            "false3": "Little Nightmares"
+        },
+        {
+            "question": "In welchem Jahr wurde das Action-Adventure-Spiel \"The Legend of Zelda: Skyward Sword\" erstmals veröffentlicht?",
+            "correct": "2011",
+            "false1": "2009",
+            "false2": "2013",
+            "false3": "2015"
+        },
+        {
+            "question": "Welches Spiel ist bekannt für seine tiefgründige Handlung und wurde von Hideo Kojima entwickelt?",
+            "correct": "Metal Gear Solid",
+            "false1": "Splinter Cell",
+            "false2": "Hitman",
+            "false3": "Deus Ex"
+        },
+        {
+            "question": "In welchem Jahr wurde das Action-Rollenspiel \"Nioh\" erstmals veröffentlicht?",
+            "correct": "2017",
+            "false1": "2015",
+            "false2": "2019",
+            "false3": "2021"
+        },
+        {
+            "question": "Welches Spiel ist bekannt für seine tiefgründige Handlung und wurde von CD Projekt Red entwickelt?",
+            "correct": "Cyberpunk 2077",
+            "false1": "The Witcher 3: Wild Hunt",
+            "false2": "Mass Effect 2",
+            "false3": "Fallout 4"
+        },
+        {
+            "question": "In welchem Jahr wurde das Action-Adventure-Spiel \"Shadow of the Colossus\" erstmals veröffentlicht?",
+            "correct": "2005",
+            "false1": "2003",
+            "false2": "2007",
+            "false3": "2009"
+        },
+        {
+            "question": "Wie heißt der Protagonist in der \"Pokemon\"-Serie?",
+            "correct": "Red",
+            "false1": "Ash",
+            "false2": "Blue",
+            "false3": "Green"
+        },
+        {
+            "question": "In welchem Jahr wurde das Rollenspiel \"Pokemon Red & Green\" (in Europa \"Pokemon Rote & Blaue Edition\") für den Game Boy erstmals veröffentlicht?",
+            "correct": "1996",
+            "false1": "1994",
+            "false2": "1998",
+            "false3": "2000"
+        },
+        {
+            "question": "Welche der folgenden Typen ist einer der ursprünglichen 15 Typen von Pokemon?",
+            "correct": "Fee",
+            "false1": "Drache",
+            "false2": "Geist",
+            "false3": "Stahl"
+        },
+        {
+            "question": "Welche der folgenden Attacken ist keine typische Attacke, die Pikachu erlernen kann?",
+            "correct": "Vine Whip",
+            "false1": "Thunderbolt",
+            "false2": "Quick Attack",
+            "false3": "Iron Tail"
+        },
+        {
+            "question": "Welches der folgenden Pokemon ist ein legendäres Pokemon der Sinnoh-Region?",
+            "correct": "Dialga",
+            "false1": "Rayquaza",
+            "false2": "Xerneas",
+            "false3": "Lugia"
+        },
+        {
+            "question": "Wie heißt der Rivale des Protagonisten in den Spielen der ersten Generation (Pokemon Red & Blue)?",
+            "correct": "Gary",
+            "false1": "Ash",
+            "false2": "Blue",
+            "false3": "Red"
+        },
+        {
+            "question": "Welches Pokemon ist bekannt für seine Fähigkeit \"Surfer\" und wird oft als Transportmittel über Wasser genutzt?",
+            "correct": "Lapras",
+            "false1": "Vaporeon",
+            "false2": "Gyarados",
+            "false3": "Milotic"
+        },
+        {
+            "question": "Welcher der folgenden Pokemon-Typen ist besonders effektiv gegenüber dem Pflanzen-Typ?",
+            "correct": "Feuer",
+            "false1": "Wasser",
+            "false2": "Elektro",
+            "false3": "Flug"
+        },
+        {
+            "question": "Wie viele verschiedene Pokemon-Typen gibt es insgesamt?",
+            "correct": "18",
+            "false1": "15",
+            "false2": "20",
+            "false3": "22"
+        },
+        {
+            "question": "Welcher der folgenden Pokemon-Typen ist nicht effektiv gegenüber dem Drachen-Typ?",
+            "correct": "Gestein",
+            "false1": "Drache",
+            "false2": "Fee",
+            "false3": "Eis"
+        },
+        {
+            "question": "Wie heißt die Weiterentwicklung von Pikachu?",
+            "correct": "Raichu",
+            "false1": "Pichu",
+            "false2": "Voltorb",
+            "false3": "Jolteon"
+        },
+        {
+            "question": "Welches der folgenden Pokemon ist ein legendäres Pokemon der Kanto-Region?",
+            "correct": "Mewtwo",
+            "false1": "Articuno",
+            "false2": "Entei",
+            "false3": "Rayquaza"
+        },
+        {
+            "question": "Welche der folgenden Attacken ist die Spezialattacke von Glurak?",
+            "correct": "Flammenwurf",
+            "false1": "Fliegen",
+            "false2": "Rasierblatt",
+            "false3": "Knirscher"
+        },
+        {
+            "question": "In welcher Region spielt die Handlung der Spiele \"Pokemon Diamant\" und \"Pokemon Perl\"?",
+            "correct": "Sinnoh",
+            "false1": "Johto",
+            "false2": "Kanto",
+            "false3": "Unova"
+        },
+        {
+            "question": "Welches Pokemon ist bekannt für seine hohe Geschwindigkeit und wird oft als Starter-Pokemon in den Spielen gewählt?",
+            "correct": "Glumanda",
+            "false1": "Schiggy",
+            "false2": "Bisasam",
+            "false3": "Relaxo"
+        },
+        {
+            "question": "Welche der folgenden Positionen ist keine klassische Position in League of Legends?",
+            "correct": "Captain",
+            "false1": "Top-Lane",
+            "false2": "Mid-Lane",
+            "false3": "Jungle"
+        },
+        {
+            "question": "Wie viele Spieler sind in einem Team bei einem regulären League of Legends Spiel?",
+            "correct": "5",
+            "false1": "4",
+            "false2": "6",
+            "false3": "7"
+        },
+        {
+            "question": "Welche der folgenden Karten ist die Hauptkarte in League of Legends?",
+            "correct": "Summoners Rift",
+            "false1": "Twisted Treeline",
+            "false2": "Howling Abyss",
+            "false3": "Crystal Scar"
+        },
+        {
+            "question": "Welcher Champion hat die Fähigkeit \"Vault Breaker\", die ihn schnell über eine kurze Distanz bewegt und Schaden verursacht?",
+            "correct": "Vi",
+            "false1": "Garen",
+            "false2": "Ashe",
+            "false3": "Zed"
+        },
+        {
+            "question": "Welche Rolle wird typischerweise auf der Bot-Lane in League of Legends gespielt?",
+            "correct": "AD Carry",
+            "false1": "Tank",
+            "false2": "Support",
+            "false3": "Mage"
+        },
+        {
+            "question": "Welches \"League of Legends\" Monster vergibt einen Buff für Champions und Minions für einen gewissen Zeitraum?",
+            "correct": "Baron Nashor",
+            "false1": "Dragon",
+            "false2": "Rift Herald",
+            "false3": "Elder Dragon"
+        },
+        {
+            "question": "Welche der folgenden Positionen in \"League of Legends\" hat die Hauptaufgabe, die Verbündeten zu heilen und zu unterstützen?",
+            "correct": "Support",
+            "false1": "Jungle",
+            "false2": "Mid-Lane",
+            "false3": "Top-Lane"
+        },
+        {
+            "question": "Welcher Champion ist bekannt für seine Fähigkeit, sich schnell über die Karte zu bewegen und Gegner zu überraschen?",
+            "correct": "Twisted Fate",
+            "false1": "Yasuo",
+            "false2": "Jinx",
+            "false3": "Teemo"
+        },
+        {
+            "question": "Wie heißt die Fähigkeit von Zed, die eine Schattenklinge erschafft und Zeds Fähigkeiten dupliziert?",
+            "correct": "Living Shadow",
+            "false1": "Death Mark",
+            "false2": "Razor Shuriken",
+            "false3": "Shadow Slash"
+        },
+        {
+            "question": "Welche Rolle wird typischerweise auf der Top-Lane in League of Legends gespielt?",
+            "correct": "Bruiser",
+            "false1": "Assassin",
+            "false2": "ADC",
+            "false3": "Support"
+        },
+        {
+            "question": "Welcher Champion ist bekannt für seine Fähigkeit, in der Unsichtbarkeit zu verschwinden und seine Gegner aus dem Hinterhalt zu attackieren?",
+            "correct": "Twitch",
+            "false1": "Ahri",
+            "false2": "Lux",
+            "false3": "Syndra"
+        },
+        {
+            "question": "Wie heißt die Fähigkeit von Yasuo, die Projektile abwehrt und seinen nächsten Angriff verstärkt?",
+            "correct": "Wind Wall",
+            "false1": "Steel Tempest",
+            "false2": "Last Breath",
+            "false3": "Gathering Storm"
+        },
+        {
+            "question": "Welche der folgenden Positionen hat die Hauptaufgabe, die gegnerischen Jungler zu bekämpfen und Verbündete zu unterstützen?",
+            "correct": "Jungle",
+            "false1": "Support",
+            "false2": "ADC",
+            "false3": "Top-Lane"
+        },
+        {
+            "question": "Welcher Champion ist bekannt für seine Fähigkeit, auf weite Entfernungen starke Schläge auszuteilen und in einigen Sekunden zu verschwinden?",
+            "correct": "Jayce",
+            "false1": "Vayne",
+            "false2": "Malphite",
+            "false3": "Katarina"
+        },
+        {
+            "question": "Wie heißt die Fähigkeit von Jinx, die sie schneller beweglich macht und Schaden verursacht, nachdem sie einen Champion eliminiert hat?",
+            "correct": "Get Excited!",
+            "false1": "Super Mega Death Rocket!",
+            "false2": "Flame Chompers!",
+            "false3": "Zap!"
+        },
+        {
+            "question": "Welche Rolle wird typischerweise in der Mitte der Karte (Mid-Lane) in League of Legends gespielt?",
+            "correct": "Mage",
+            "false1": "Tank",
+            "false2": "ADC",
+            "false3": "Bruiser"
+        },
+        {
+            "question": "Welcher Champion ist bekannt für seine Fähigkeit, große Wellen von Feuer und Flammen zu entfesseln?",
+            "correct": "Brand",
+            "false1": "Nautilus",
+            "false2": "Leona",
+            "false3": "Rammus"
+        },
+        {
+            "question": "Wie heißt die Fähigkeit von Lux, die einen starken Lichtstrahl auf eine Linie entlang der Karte feuert?",
+            "correct": "Final Spark",
+            "false1": "Final Destination",
+            "false2": "Finales Funkeln",
+            "false3": "Finales Feuerwerk"
+        },
+        {
+            "question": "Welche der folgenden Positionen hat die Hauptaufgabe, die gegnerischen Angriffe abzuwehren und Verbündete zu schützen?",
+            "correct": "Tank",
+            "false1": "ADC",
+            "false2": "Mid-Lane",
+            "false3": "Jungle"
+        }
+    ]
+}

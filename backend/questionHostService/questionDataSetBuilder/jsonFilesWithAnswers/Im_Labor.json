@@ -1,0 +1,76 @@
+{
+    "category": "Im Labor",
+    "questionCount": 112,
+    "questionList": [
+        {
+            "question": "Aerographit wurde 2012 als weltweit leichtestes Material vorgestellt. Woraus besteht es?",
+            "correct": "Kohlenstoff",
+            "false1": "Stickstoff",
+            "false2": "Silizium",
+            "false3": "Wasserstoff"
+        },
+        {
+            "question": "Am 6. Juni 2012 kam es zu welchem seltenen astronomischen Ereignis, das erst wieder im Jahr 2117 eintreten wird?",
+            "correct": "Venus-Transit",
+            "false1": "Mars-Perihel",
+            "false2": "Jupiter-Konjunktion",
+            "false3": "Saturn-Opposition"
+        },
+        {
+            "question": "Auf welcher Skala wird Windgeschwindigkeit gemessen?",
+            "correct": "Beaufort-Skala",
+            "false1": "Kelvin-Skala",
+            "false2": "Celsius-Skala",
+            "false3": "Fahrenheit-Skala"
+        },
+        {
+            "question": "Aus welcher Zahl lässt sich keine natürliche Zahl mittels Wurzel bilden?",
+            "correct": "380",
+            "false1": "144",
+            "false2": "225",
+            "false3": "64"
+        },
+        {
+            "question": "Aus wie vielen Atomen besteht ein Wasser-Molekül?",
+            "correct": "3",
+            "false1": "2",
+            "false2": "4",
+            "false3": "5"
+        },
+        {
+            "question": "Das Element Strontium hat im Periodensystem die Ordnungszahl 38. Es gehört damit zu den...?",
+            "correct": "Erdalkalimetallen",
+            "false1": "Halogene",
+            "false2": "Übergangsmetalle",
+            "false3": "Noble Gase"
+        },
+        {
+            "question": "Das SI-System ist das internationale System für Maßeinheiten. In welcher Einheit misst man Masse im SI-System?",
+            "correct": "Kilogramm",
+            "false1": "Meter",
+            "false2": "Sekunde",
+            "false3": "Coulomb"
+        },
+        {
+            "question": "Die drei Aggregatzustände sind fest, flüssig und gasförmig. Was wird auch als der vierte Aggregatzustand bezeichnet?",
+            "correct": "Plasma",
+            "false1": "Kondensat",
+            "false2": "Äther",
+            "false3": "Quark-Gluon-Plasma"
+        },
+        {
+            "question": "Die Erde dreht sich während eines Jahres nicht in einem \"perfekten\" Kreis um die Sonne. In welchem Monat ist sie am weitesten von der Sonne entfernt?",
+            "correct": "Juli",
+            "false1": "Januar",
+            "false2": "April",
+            "false3": "Oktober"
+        },
+        {
+            "question": "Die scheinbare Helligkeit welchen Himmelskörpers ist am größten?",
+            "correct": "Venus",
+            "false1": "Mars",
+            "false2": "Jupiter",
+            "false3": "Saturn"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model category {
+  id       Int        @id @default(autoincrement())
+  name     String
+  question question[]
+}
+
+model question {
+  id             Int       @id @default(autoincrement())
+  question_text  String
+  correct_answer String
+  false_answer1  String
+  false_answer2  String
+  false_answer3  String
+  category_id    Int
+  category       category? @relation(fields: [category_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+}

@@ -1,0 +1,566 @@
+{
+    "category": "Draussen im Grünen",
+    "questionCount": 190,
+    "questionList": [
+        {
+            "question": "Aus welchem Land kommt das Fjordpferd?",
+            "correct": "Norwegen",
+            "false1": "Schweden",
+            "false2": "Island",
+            "false3": "Dänemark"
+        },
+        {
+            "question": "Aus welchem Land stammt die Hunderasse \"Mops\"?",
+            "correct": "China",
+            "false1": "Japan",
+            "false2": "Indien",
+            "false3": "Thailand"
+        },
+        {
+            "question": "Aus welchem Teilgebiet der Biologie ist Carl von Linne nicht mehr wegzudenken?",
+            "correct": "Taxonomie",
+            "false1": "Genetik",
+            "false2": "Ökologie",
+            "false3": "Evolution"
+        },
+        {
+            "question": "Aus welcher Bluete wird das Gewuerz Safran gewonnen?",
+            "correct": "Krokus",
+            "false1": "Rose",
+            "false2": "Lilie",
+            "false3": "Sonnenblume"
+        },
+        {
+            "question": "Aus welcher Pflanze wird Heroin gewonnen?",
+            "correct": "Mohn",
+            "false1": "Hanf",
+            "false2": "Kokastrauch",
+            "false3": "Opiummohn"
+        },
+        {
+            "question": "Der Eisbaer ist eines der weltweit groessten Landraubtiere. Wie gross kann der werden (Kopf-Rumpf-Laenge)?",
+            "correct": "3,3 Meter",
+            "false1": "2,5 Meter",
+            "false2": "4,5 Meter",
+            "false3": "5,8 Meter"
+        },
+        {
+            "question": "Der grosse Tuemmler ist ein Delfin. Unter welchem der auch folgenden Namen ist er auch bekannt?",
+            "correct": "Flaschennasen-delfin",
+            "false1": "Rundkopfdelfin",
+            "false2": "Buckeldelfin",
+            "false3": "Schwertwal"
+        },
+        {
+            "question": "Die Ordnung der Ruesseltiere entstand vor etwa 55 Mio. Jahren. Welches der folgenden Tiere gehoert zu den Ruesseltieren?",
+            "correct": "Afrikanischer Elefant",
+            "false1": "Braunbär",
+            "false2": "Giraffe",
+            "false3": "Koala"
+        },
+        {
+            "question": "Die Fruechte welchen Laubbaumes werden auch als Maroni oder Maronen bezeichnet?",
+            "correct": "Edelkastanie",
+            "false1": "Buche",
+            "false2": "Eiche",
+            "false3": "Ahorn"
+        },
+        {
+            "question": "Die Wildform des Dromedars ist leider ausgestoreb, aber als Nutz-und Lastentiere existieren sie noch reichlich. Wie viele Hoecker hat ein Dromedar?",
+            "correct": "Einen",
+            "false1": "Zwei",
+            "false2": "Drei",
+            "false3": "Keinen"
+        },
+        {
+            "question": "Eine der weltweit groessten Kroeten lebt in Suedamerika. Wie heisst sie?",
+            "correct": "Blombergkroete",
+            "false1": "Bachkroete",
+            "false2": "Gartenkroete",
+            "false3": "Braunkroete"
+        },
+        {
+            "question": "In welchem Alter werden die meisten Katzenrassen geschlechtsreif?",
+            "correct": "6-8 Monate",
+            "false1": "3-4 Monate",
+            "false2": "9-12 Monate",
+            "false3": "1-2 Jahre"
+        },
+        {
+            "question": "Katzen vermitteln mit ihrem Schwanz Gefuehle. Wofuer gebrauchen sie ihn noch?",
+            "correct": "Fuer eine bessere Balance",
+            "false1": "Als Waffe",
+            "false2": "Zum Kuscheln",
+            "false3": "Zum Greifen"
+        },
+        {
+            "question": "Unter welchem Namen ist die Herkulesstaude auch bekannt?",
+            "correct": "Riesen-Baerenklau",
+            "false1": "Gigantische Pusteblume",
+            "false2": "Monster-Brennnessel",
+            "false3": "Titanische Löwenzahn"
+        },
+        {
+            "question": "Von welchem Hai wird die Haut haeufig als Material fuer Schuhe verwendet?",
+            "correct": "Tigerhai",
+            "false1": "Hammerhai",
+            "false2": "Weißer Hai",
+            "false3": "Bullenhai"
+        },
+        {
+            "question": "Von welchem Tier wurde man wahrscheinlich gebissen, wenn man Borreliose, Babesiose oder FSME erkrankt?",
+            "correct": "Zecke",
+            "false1": "Floh",
+            "false2": "Mücke",
+            "false3": "Spinne"
+        },
+        {
+            "question": "Vor welchem Tier sollten sich Jungfuechse besonders in Acht nehmen?",
+            "correct": "Uhu",
+            "false1": "Waschbär",
+            "false2": "Fuchs",
+            "false3": "Eule"
+        },
+        {
+            "question": "Wann ist das letzte bekannte Exemplar eines Beutelwolfs, auch Tasmaninischer Tiger genannt, gestorben?",
+            "correct": "1936",
+            "false1": "1955",
+            "false2": "1901",
+            "false3": "1978"
+        },
+        {
+            "question": "Was definiert eine sogenannte \"Glueckskatze\"?",
+            "correct": "Drei verschiedene Fellfarben",
+            "false1": "Sechs Zehen an den Pfoten",
+            "false2": "Getigertes Fell",
+            "false3": "Gelbe Augen"
+        },
+        {
+            "question": "Was fuer ein Tier ist ein \"Waran\"?",
+            "correct": "Eine Echse",
+            "false1": "Eine Schlange",
+            "false2": "Ein Vogel",
+            "false3": "Ein Säugetier"
+        },
+        {
+            "question": "Was gehoert nicht zu den Lieblingsspeisen des Seeotters?",
+            "correct": "Algen",
+            "false1": "Muscheln",
+            "false2": "Krabben",
+            "false3": "Schnecken"
+        },
+        {
+            "question": "Was gehoert nicht zur Gattung der Pappeln?",
+            "correct": "Wasser-Pappel",
+            "false1": "Zitter-Pappel",
+            "false2": "Schwarz-Pappel",
+            "false3": "Silber-Pappel"
+        },
+        {
+            "question": "Was haben alle Hirscharten gemeinsam?",
+            "correct": "Sie sind Wiederkaeuer",
+            "false1": "Sie sind Allesfresser",
+            "false2": "Sie leben in Herden",
+            "false3": "Sie haben Geweihe"
+        },
+        {
+            "question": "Was haelt sich gerne am Grund von Gewaessern auf?",
+            "correct": "Armleuchteralge",
+            "false1": "Seerosen",
+            "false2": "Wasserschnecken",
+            "false3": "Kies"
+        },
+        {
+            "question": "Was ist Bambus?",
+            "correct": "Ein Gras",
+            "false1": "Ein Baum",
+            "false2": "Ein Strauch",
+            "false3": "Ein Kraut"
+        },
+        {
+            "question": "Was ist bei den Insekten eine Drohne?",
+            "correct": "Maennliche Biene",
+            "false1": "Weibliche Biene",
+            "false2": "Königin",
+            "false3": "Ameise"
+        },
+        {
+            "question": "Was ist Blubber?",
+            "correct": "Fettschicht von Walen & Robben",
+            "false1": "Ein Tropischer Sturm",
+            "false2": "Ein Vulkanischer Ausbruch",
+            "false3": "Ein Algenblüte"
+        },
+        {
+            "question": "Was ist das Hauptnahrungsmittel des Pandabaeren?",
+            "correct": "Bambus",
+            "false1": "Bambussprossen",
+            "false2": "Fische",
+            "false3": "Honig"
+        },
+        {
+            "question": "Was ist die weltweit giftigste Landschlange?",
+            "correct": "Inlandtaipan",
+            "false1": "Kobramamushi",
+            "false2": "Schwarze Mamba",
+            "false3": "Grüne Baumpython"
+        },
+        {
+            "question": "Was ist ein anderer Name fuer ein weisses Pferd?",
+            "correct": "Schimmel",
+            "false1": "Fuchs",
+            "false2": "Rappe",
+            "false3": "Palomino"
+        },
+        {
+            "question": "Was ist ein \"Haliplankton\"?",
+            "correct": "Meerwasser-plankton",
+            "false1": "Luft-plankton",
+            "false2": "Boden-plankton",
+            "false3": "Süsswasser-plankton"
+        },
+        {
+            "question": "Was ist ein Komondor?",
+            "correct": "Ungarischer Hirtenhund",
+            "false1": "Russischer Jagdhund",
+            "false2": "Amerikanischer Rettungshund",
+            "false3": "Chinesischer Schäferhund"
+        },
+        {
+            "question": "Was ist ein Mara?",
+            "correct": "Pampashase",
+            "false1": "Südamerikanische Ratte",
+            "false2": "Brasilianische Eidechse",
+            "false3": "Argentinische Katze"
+        },
+        {
+            "question": "Was ist ein Nordkaper?",
+            "correct": "Eine Walart",
+            "false1": "Eine Robbenart",
+            "false2": "Eine Vogelart",
+            "false3": "Eine Fischart"
+        },
+        {
+            "question": "Was ist ein Pangolin?",
+            "correct": "Ein schuppiges Saeugetier",
+            "false1": "Eine Schlangenart",
+            "false2": "Ein Vogel",
+            "false3": "Ein Reptil"
+        },
+        {
+            "question": "Was ist ein \"Pomeranian\"?",
+            "correct": "Hund",
+            "false1": "Katze",
+            "false2": "Kaninchen",
+            "false3": "Vogel"
+        },
+        {
+            "question": "Was ist ein Saebelschnabler?",
+            "correct": "Ein Vogel",
+            "false1": "Ein Fisch",
+            "false2": "Ein Säugetier",
+            "false3": "Ein Reptil"
+        },
+        {
+            "question": "Was ist ein \"Tuerkisch Van\"?",
+            "correct": "Katzenrasse",
+            "false1": "Hunderasse",
+            "false2": "Pferderasse",
+            "false3": "Vogelart"
+        },
+        {
+            "question": "Was ist eine Pistazie?",
+            "correct": "Steinfrucht",
+            "false1": "Nuss",
+            "false2": "Samen",
+            "false3": "Beere"
+        },
+        {
+            "question": "Was ist eine \"Quitte\"?",
+            "correct": "Frucht",
+            "false1": "Gemüse",
+            "false2": "Gewürz",
+            "false3": "Blume"
+        },
+        {
+            "question": "Was ist eine \"Tuerkisch Van\"?",
+            "correct": "Katzenrasse",
+            "false1": "Hunderasse",
+            "false2": "Pferderasse",
+            "false3": "Vogelart"
+        },
+        {
+            "question": "Was ist fuer den Amerikaner ein \"Ladybug\"?",
+            "correct": "Marienkaefer",
+            "false1": "Fliege",
+            "false2": "Käfer",
+            "false3": "Spinne"
+        },
+        {
+            "question": "Was ist fuer den Amerikaner ein \"Ladybug\"? Antwort. Marienkaefer Was ist Gabbro?",
+            "correct": "Gestein",
+            "false1": "Edelstein",
+            "false2": "Mineral",
+            "false3": "Fossil"
+        },
+        {
+            "question": "Was ist KEIN Plattfisch?",
+            "correct": "Seeteufel",
+            "false1": "Scholle",
+            "false2": "Flunder",
+            "false3": "Kliesche"
+        },
+        {
+            "question": "Was ist KEINE Meisenart?",
+            "correct": "Buchenmeise",
+            "false1": "Kohlmeise",
+            "false2": "Blaumeise",
+            "false3": "Tannenmeise"
+        },
+        {
+            "question": "Was ist KEINE Pferdegangart?",
+            "correct": "Pardon",
+            "false1": "Trab",
+            "false2": "Galopp",
+            "false3": "Schritt"
+        },
+        {
+            "question": "Was ist keine Zuchtform des Karpfens?",
+            "correct": "Kreuzkarpfen",
+            "false1": "Spiegelkarpfen",
+            "false2": "Schuppenkarpfen",
+            "false3": "Lederkarpfen"
+        },
+        {
+            "question": "Was ist Myrrhe, welches man von der Geschichte der Heiligen Drei Koenige kennt?",
+            "correct": "Balsam-gewaechs",
+            "false1": "Kräuter",
+            "false2": "Harz",
+            "false3": "Blumen"
+        },
+        {
+            "question": "Was ist Ornithologie?",
+            "correct": "Vogelkunde",
+            "false1": "Insektenkunde",
+            "false2": "Pflanzenkunde",
+            "false3": "Geologie"
+        },
+        {
+            "question": "Was kann an einer Palme wachsen?",
+            "correct": "Kokosnuss",
+            "false1": "Erdbeeren",
+            "false2": "Kirschen",
+            "false3": "Äpfel"
+        },
+        {
+            "question": "Was macht ein Pflusspferd nie?",
+            "correct": "Fische essen",
+            "false1": "Schwimmen",
+            "false2": "Grasen",
+            "false3": "Tauchen"
+        },
+        {
+            "question": "Was trifft auf den Berglemming zu?",
+            "correct": "Mit der Gattung der Wuehlmaeuse verwandt",
+            "false1": "Mit der Gattung der Lemuren verwandt",
+            "false2": "Mit der Gattung der Biber verwandt",
+            "false3": "Mit der Gattung der Füchse verwandt"
+        },
+        {
+            "question": "Was trifft aus das Wildschwein zu?",
+            "correct": "Die Frischlinge sind gestreift",
+            "false1": "Die Frischlinge sind gefleckt",
+            "false2": "Die Frischlinge sind einfarbig",
+            "false3": "Die Frischlinge sind gefleckt und gestreift"
+        },
+        {
+            "question": "Was trifft NICHT auf die Hausratte zu?",
+            "correct": "Doppelt so gross wie die Wanderratte",
+            "false1": "Lebt oft in menschlicher Nähe",
+            "false2": "Überträger von Krankheiten",
+            "false3": "Klettert gut"
+        },
+        {
+            "question": "Was zaehlt nicht zur Familie der Suessgraeser?",
+            "correct": "Buchweizen",
+            "false1": "Roggen",
+            "false2": "Weizen",
+            "false3": "Gerste"
+        },
+        {
+            "question": "Welche Art von Tier ist ein/eine \"Maine Coon\"?",
+            "correct": "Katze",
+            "false1": "Hund",
+            "false2": "Pferd",
+            "false3": "Fisch"
+        },
+        {
+            "question": "Welche Aussage trifft auf die meisten Moewenarten zu?",
+            "correct": "Haben einen gelblichen Schnabel",
+            "false1": "Sind Allesfresser",
+            "false2": "Brüten in Bäumen",
+            "false3": "Leben ausschließlich in Süßwasser"
+        },
+        {
+            "question": "Welche Aussage ueber Baeren stimmt nicht?",
+            "correct": "Herdentier",
+            "false1": "Allesfresser",
+            "false2": "Leben in unterschiedlichen Lebensräumen",
+            "false3": "Können gut schwimmen"
+        },
+        {
+            "question": "Welche Aussage ueber die Banane stimmt NICHT?",
+            "correct": "Ist ein Pilz",
+            "false1": "Ist eine Beere",
+            "false2": "Wächst an einer Staude",
+            "false3": "Ist reich an Kalium"
+        },
+        {
+            "question": "Welche Aussage ueber Krokodile ist richtig?",
+            "correct": "Sie koennen nicht kauen",
+            "false1": "Sie legen ihre Eier im Wasser ab",
+            "false2": "Sie können bis zu 3 Wochen ohne Nahrung auskommen",
+            "false3": "Sie sind reine Fleischfresser"
+        },
+        {
+            "question": "Welche Blume gehoert zur Familie der Kreuzbluetler?",
+            "correct": "Goldlack",
+            "false1": "Sonnenblume",
+            "false2": "Rosen",
+            "false3": "Tulpen"
+        },
+        {
+            "question": "Welche der folgenden Arten ist nahezu ausgerottet?",
+            "correct": "Orientalischer Zwergfalke",
+            "false1": "Amerikanischer Adler",
+            "false2": "Südafrikanischer Strauß",
+            "false3": "Australischer Emu"
+        },
+        {
+            "question": "Welche der folgenden Pflanzen ist KEIN Schwimmblatt?",
+            "correct": "Schilfrohr",
+            "false1": "Seerose",
+            "false2": "Seekanne",
+            "false3": "Teichrose"
+        },
+        {
+            "question": "Welche der folgenden Tiere ist ein Insekt?",
+            "correct": "Floh",
+            "false1": "Spinne",
+            "false2": "Eidechse",
+            "false3": "Skorpion"
+        },
+        {
+            "question": "Welche der folgenden Tiere ist ein Mollusk?",
+            "correct": "Auster",
+            "false1": "Krake",
+            "false2": "Kugelfisch",
+            "false3": "Tintenfisch"
+        },
+        {
+            "question": "Welche der folgenden Tiere ist ein Wiederkäuer?",
+            "correct": "Ziege",
+            "false1": "Schwein",
+            "false2": "Hase",
+            "false3": "Huhn"
+        },
+        {
+            "question": "Welche der genannten Haifischarten gilt als gefaehrlich für den Menschen?",
+            "correct": "Weißer Hai",
+            "false1": "Walhai",
+            "false2": "Leopardhai",
+            "false3": "Hammerhai"
+        },
+        {
+            "question": "Welche der genannten Pflanzen gehoert zur Familie der Orchideen?",
+            "correct": "Vanille",
+            "false1": "Basilikum",
+            "false2": "Rosmarin",
+            "false3": "Salbei"
+        },
+        {
+            "question": "Welche der genannten Tiere ist ein Fleischfresser?",
+            "correct": "Bussard",
+            "false1": "Kuh",
+            "false2": "Schwein",
+            "false3": "Ziege"
+        },
+        {
+            "question": "Welche der genannten Tiere ist ein Insekt?",
+            "correct": "Wanze",
+            "false1": "Spinne",
+            "false2": "Skorpion",
+            "false3": "Eidechse"
+        },
+        {
+            "question": "Welche der folgenden Tiere ist ein Wiederkäuer?",
+            "correct": "Ziege",
+            "false1": "Schwein",
+            "false2": "Hase",
+            "false3": "Huhn"
+        },
+        {
+            "question": "Welche Farbe hat ein Flamingo bei seiner Geburt?",
+            "correct": "Grau",
+            "false1": "Rosa",
+            "false2": "Blau",
+            "false3": "Braun"
+        },
+        {
+            "question": "Welche Farbe hat der Saft der Kaktusfeige?",
+            "correct": "Rot",
+            "false1": "Gelb",
+            "false2": "Grün",
+            "false3": "Orange"
+        },
+        {
+            "question": "Welche Farbe haben die Blueten des Heidekrauts?",
+            "correct": "Weiß",
+            "false1": "Blau",
+            "false2": "Rot",
+            "false3": "Gelb"
+        },
+        {
+            "question": "Welche Farbe haben die Augen eines Kanarienvogels?",
+            "correct": "Dunkel",
+            "false1": "Blau",
+            "false2": "Rot",
+            "false3": "Grün"
+        },
+        {
+            "question": "Welche Farbe hat ein Albinotier?",
+            "correct": "Weiß",
+            "false1": "Schwarz",
+            "false2": "Rot",
+            "false3": "Gelb"
+        },
+        {
+            "question": "Welche Farbe hat ein Orca unter seinem Bauch?",
+            "correct": "Weiß",
+            "false1": "Schwarz",
+            "false2": "Blau",
+            "false3": "Grau"
+        },
+        {
+            "question": "Welche Farbe haben die Blueten der \"Roten Waldbeere\"?",
+            "correct": "Weiße",
+            "false1": "Rote",
+            "false2": "Blaue",
+            "false3": "Gelbe"
+        },
+        {
+            "question": "Welche Farbe haben die Streifen auf dem Fell von Zebras?",
+            "correct": "Schwarz",
+            "false1": "Weiß",
+            "false2": "Braun",
+            "false3": "Grau"
+        },
+        {
+            "question": "Welche Farbe hat die Blume des Wiesenschaumkrauts?",
+            "correct": "Weiß",
+            "false1": "Blau",
+            "false2": "Gelb",
+            "false3": "Rot"
+        }
+    ]
+}

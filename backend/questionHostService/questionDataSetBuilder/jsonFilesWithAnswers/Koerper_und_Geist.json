@@ -1,0 +1,76 @@
+{
+    "category": "Körper und Geist",
+    "questionCount": 153,
+    "questionList": [
+        {
+            "question": "Ab welchem Wert im Body-Mass-Index spricht man von einer Adipositas?",
+            "correct": "30",
+            "false1": "25",
+            "false2": "20",
+            "false3": "35"
+        },
+        {
+            "question": "An welchem Körperteil wird ein sogenanntes Labret-Piercing üblicherweise angebracht?",
+            "correct": "Lippe",
+            "false1": "Nase",
+            "false2": "Bauchnabel",
+            "false3": "Ohr"
+        },
+        {
+            "question": "Aus welchem Land kam der größte je gemessene Mensch?",
+            "correct": "USA",
+            "false1": "Russland",
+            "false2": "China",
+            "false3": "Deutschland"
+        },
+        {
+            "question": "Aus wie vielen Knochen besteht eine menschliche Hand?",
+            "correct": "27",
+            "false1": "20",
+            "false2": "24",
+            "false3": "30"
+        },
+        {
+            "question": "Aus wie vielen Wirbeln besteht die menschliche Brustwirbelsäule?",
+            "correct": "12",
+            "false1": "10",
+            "false2": "14",
+            "false3": "16"
+        },
+        {
+            "question": "Aus wie vielen Zähnen besteht das menschliche Milchgebiss?",
+            "correct": "20",
+            "false1": "24",
+            "false2": "18",
+            "false3": "22"
+        },
+        {
+            "question": "Das Kahnbein sitzt in der Hand. Aber es befindet sich auch noch an einem anderen Ort. Wo?",
+            "correct": "Im Fuß",
+            "false1": "Im Oberschenkel",
+            "false2": "Im Unterarm",
+            "false3": "Im Schädel"
+        },
+        {
+            "question": "Der frühere sowjetische Präsident Gorbatschow hatte eine \"Naevus flammeus\" am Kopf. Was ist der gewöhnliche Name hierfür?",
+            "correct": "Feuermal",
+            "false1": "Leberfleck",
+            "false2": "Warze",
+            "false3": "Mol"
+        },
+        {
+            "question": "Der Intrinsic-Faktor bewirkt, dass ein bestimmtes Vitamin vom Körper aufgenommen werden kann. Welches?",
+            "correct": "Vitamin B12",
+            "false1": "Vitamin C",
+            "false2": "Vitamin D",
+            "false3": "Vitamin A"
+        },
+        {
+            "question": "Die Alternative Medizin hat keine wissenschaftlich nachgewiesenen Wirkungen. Ein kleiner Effekt wird jedoch immer wieder nachgewiesen. Wie nennt man diesen Effekt?",
+            "correct": "Placebo-Effekt",
+            "false1": "Nocebo-Effekt",
+            "false2": "Heilungsreaktion",
+            "false3": "Eskalationseffekt"
+        }
+    ]
+}

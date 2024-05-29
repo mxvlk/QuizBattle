@@ -1,0 +1,601 @@
+{
+    "category": "Comics",
+    "questionCount": 85,
+    "questionList": [
+        {
+            "question": "Aus welchem Land kommen Manga-Comics?",
+            "correct": "Japan",
+            "false1": "China",
+            "false2": "Südkorea",
+            "false3": "Thailand"
+        },
+        {
+            "question": "Aus welchem Land stammt Primus von Quack, der Onkel von Donald Duck, ursprünglich?",
+            "correct": "Österreich",
+            "false1": "Schweiz",
+            "false2": "Deutschland",
+            "false3": "Niederlande"
+        },
+        {
+            "question": "Der Zeichner von \"Asterix\" heißt Albert Uderzo. Wie hieß der Autor der Comics?",
+            "correct": "René Goscinny",
+            "false1": "Hergé",
+            "false2": "Maurice de Bevere",
+            "false3": "Franquin"
+        },
+        {
+            "question": "In der Manga-Serie \"One Piece\" ist \"Monkey D. Ruffy\" einer der Protagonisten. Welche Eigenschaft hat er?",
+            "correct": "Er ist ein Gummi-Mensch",
+            "false1": "Er kann Feuer kontrollieren",
+            "false2": "Er ist ein Cyborg",
+            "false3": "Er kann sich unsichtbar machen"
+        },
+        {
+            "question": "In welchem Film des Animationsregisseurs Hayao Miyazaki handelt es sich um einen schweinsköpfigen Piloten?",
+            "correct": "Porco Rosso",
+            "false1": "Chihiros Reise ins Zauberland",
+            "false2": "Das Schloss im Himmel",
+            "false3": "Prinzessin Mononoke"
+        },
+        {
+            "question": "Wie ist der Held aus dem Comic \"Watchmen\" bekannt, der nach einem Laborunfall entstanden ist?",
+            "correct": "Dr. Manhattan",
+            "false1": "Captain America",
+            "false2": "Green Lantern",
+            "false3": "Wolverine"
+        },
+        {
+            "question": "Wann treten die Superkräfte der Mutanten in X-Men überwiegend auf?",
+            "correct": "In der Pubertät",
+            "false1": "Im Kindesalter",
+            "false2": "Im Erwachsenenalter",
+            "false3": "Im Seniorenalter"
+        },
+        {
+            "question": "Was ist NICHT blau?",
+            "correct": "Hauben der Schlümpfe",
+            "false1": "Papa Schlumpf",
+            "false2": "Schlumpfine",
+            "false3": "Gargamel"
+        },
+        {
+            "question": "Welche Aussage über die Comicserie \"Spawn\" ist wahr?",
+            "correct": "Dunkel und gewalttätig",
+            "false1": "Bunt und fröhlich",
+            "false2": "Historisch und lehrreich",
+            "false3": "Romantisch und kitschig"
+        },
+        {
+            "question": "Welche der folgenden Figuren in \"Asterix\" ist körperlich am stärksten?",
+            "correct": "Obelix",
+            "false1": "Asterix",
+            "false2": "Miraculix",
+            "false3": "Troubadix"
+        },
+        {
+            "question": "Welche Farbe hat die Schleife von \"Hello Kitty\" im Original?",
+            "correct": "Rot",
+            "false1": "Blau",
+            "false2": "Pink",
+            "false3": "Gelb"
+        },
+        {
+            "question": "Welche Farben haben die Mützen von Tick, Trick und Track?",
+            "correct": "Grün, Rot, Blau",
+            "false1": "Rot, Gelb, Blau",
+            "false2": "Blau, Grün, Gelb",
+            "false3": "Gelb, Blau, Rot"
+        },
+        {
+            "question": "Welche Figur in Entenhausen hat der Karikaturist Carl Barks NICHT erschaffen?",
+            "correct": "Daisy Duck",
+            "false1": "Donald Duck",
+            "false2": "Daniel Düsentrieb",
+            "false3": "Gustav Gans"
+        },
+        {
+            "question": "Welche Figur tritt NICHT bei Lars, dem Eisbären auf?",
+            "correct": "Orca Friedrich",
+            "false1": "Pinguin Pablo",
+            "false2": "Eisbär Lars",
+            "false3": "Robbe Robby"
+        },
+        {
+            "question": "Welche Rasse ist der Zeichentrickhund \"Marmaduke\"?",
+            "correct": "Dänische Dogge",
+            "false1": "Golden Retriever",
+            "false2": "Chihuahua",
+            "false3": "Beagle"
+        },
+        {
+            "question": "Welches Comic-Duo besteht aus zwei Spionen, die sich ständig versuchen, sich gegenseitig zu töten?",
+            "correct": "Spion & Spion",
+            "false1": "Tom & Jerry",
+            "false2": "Tim & Struppi",
+            "false3": "Calvin & Hobbes"
+        },
+        {
+            "question": "Welches der folgenden Zeichentrick-Alben hat Alan Moore NICHT erschaffen?",
+            "correct": "300",
+            "false1": "V wie Vendetta",
+            "false2": "Watchmen",
+            "false3": "From Hell"
+        },
+        {
+            "question": "Welche Serie heißt: \"... - Und die Masters of the Universe\"?",
+            "correct": "He-Man",
+            "false1": "ThunderCats",
+            "false2": "G.I. Joe",
+            "false3": "Teenage Mutant Ninja Turtles"
+        },
+        {
+            "question": "Wer schuf den Comic \"Spawn\" (1992)?",
+            "correct": "Todd McFarlane",
+            "false1": "Stan Lee",
+            "false2": "Rob Liefeld",
+            "false3": "Jack Kirby"
+        },
+        {
+            "question": "Wer verbringt das Festmahl am Ende der \"Asterix\"-Comics meist geknebelt oder gefesselt?",
+            "correct": "Troubadix",
+            "false1": "Majestix",
+            "false2": "Idefix",
+            "false3": "Cäsar"
+        },
+        {
+            "question": "Welches Tier ist SpongeBobs Freundin \"Sandy Cheeks\"?",
+            "correct": "Eichhörnchen",
+            "false1": "Seeigel",
+            "false2": "Seestern",
+            "false3": "Krabbe"
+        },
+        {
+            "question": "Wie bekam Spider-Man seine Superkräfte?",
+            "correct": "Wurde von einer radioaktiven Spinne gebissen",
+            "false1": "Wurde von einem außerirdischen Artefakt berührt",
+            "false2": "Wurde von einem Zauberer verflucht",
+            "false3": "Wurde durch ein wissenschaftliches Experiment modifiziert"
+        },
+        {
+            "question": "Wie heißt der Gegner, der die hauptsächlichen Ermittlungen gegen Kira aus der Anime-Serie \"Death Note\" durchführt?",
+            "correct": "L",
+            "false1": "K",
+            "false2": "M",
+            "false3": "N"
+        },
+        {
+            "question": "Wie heißt der jüngere Bruder des Detektivs \"Kerry Drake\"?",
+            "correct": "Lefty Drake",
+            "false1": "Rusty Drake",
+            "false2": "Lucky Drake",
+            "false3": "Rocky Drake"
+        },
+        {
+            "question": "Wie heißt der Kapitän, der ein Freund von Tim in \"Tim und Struppi\" ist?",
+            "correct": "Kapitän Haddock",
+            "false1": "Kapitän Nemo",
+            "false2": "Kapitän Ahab",
+            "false3": "Kapitän Hook"
+        },
+        {
+            "question": "Wie heißt der Schöpfer der Serie, die von der Nervensäge \"Dennis\" handelt?",
+            "correct": "Hank Ketcham",
+            "false1": "Charles Schulz",
+            "false2": "Jim Davis",
+            "false3": "Bill Watterson"
+        },
+        {
+            "question": "Wie heißt der Torhüter und Kapitän in der deutschen Variante der Zeichentrickserie \"Die Kickers\"?",
+            "correct": "Mario",
+            "false1": "Luigi",
+            "false2": "Marco",
+            "false3": "Michael"
+        },
+        {
+            "question": "Wie heißt die Lieblingswaffe von Modesty Blaise?",
+            "correct": "Kongo",
+            "false1": "Katana",
+            "false2": "Katar",
+            "false3": "Kris"
+        },
+        {
+            "question": "Wie heißt Mandrakes treuer Freund und Kumpel?",
+            "correct": "Lothar",
+            "false1": "Kaspar",
+            "false2": "Lars",
+            "false3": "Lenny"
+        },
+        {
+            "question": "Wie heißt die Nachfolgeserie von \"Avatar: Der Herr der Elemente\"?",
+            "correct": "Die Legende von Korra",
+            "false1": "Der Aufstieg von Aang",
+            "false2": "Das Vermächtnis der Meister",
+            "false3": "Die Erben der Elemente"
+        },
+        {
+            "question": "Wie heißt Supermans Hund?",
+            "correct": "Krypto",
+            "false1": "Rex",
+            "false2": "Bolt",
+            "false3": "Ace"
+        },
+        {
+            "question": "Wie heißt Willie Garvins Pub im Comic \"Modesty Blaise\"?",
+            "correct": "The Treadmill",
+            "false1": "The Hideout",
+            "false2": "The Hangout",
+            "false3": "The Lair"
+        },
+        {
+            "question": "Wie wird Dagobert Duck oft von Donald Duck genannt?",
+            "correct": "Onkel Dagobert",
+            "false1": "Opa Dagobert",
+            "false2": "Vetter Dagobert",
+            "false3": "Nachbar Dagobert"
+        },
+        {
+            "question": "Wo finden die meisten Handlungen der Marvel-Comics statt?",
+            "correct": "Earth-616",
+            "false1": "Earth-999",
+            "false2": "Earth-333",
+            "false3": "Earth-777"
+        },
+        {
+            "question": "Wo findet seit 1992 eine jährliche Messe für Comics und Cartoons, die \"Cartoomics\" statt?",
+            "correct": "Mailand",
+            "false1": "Paris",
+            "false2": "Berlin",
+            "false3": "Barcelona"
+        },
+        {
+            "question": "Wer ist der Schöpfer der Comicfigur \"Spider-Man\"?",
+            "correct": "Stan Lee",
+            "false1": "Jack Kirby",
+            "false2": "Bob Kane",
+            "false3": "Steve Ditko"
+        },
+        {
+            "question": "In welchem Jahr wurde die Comicfigur \"Superman\" erstmals veröffentlicht?",
+            "correct": "1938",
+            "false1": "1941",
+            "false2": "1945",
+            "false3": "1950"
+        },
+        {
+            "question": "Wie lautet der bürgerliche Name von Batman?",
+            "correct": "Bruce Wayne",
+            "false1": "Clark Kent",
+            "false2": "Peter Parker",
+            "false3": "Tony Stark"
+        },
+        {
+            "question": "Welcher Comicverlag ist für die Veröffentlichung der X-Men-Comics bekannt?",
+            "correct": "Marvel Comics",
+            "false1": "DC Comics",
+            "false2": "Image Comics",
+            "false3": "Dark Horse Comics"
+        },
+        {
+            "question": "In welcher Stadt ist die fiktive Heimatstadt von Spider-Man?",
+            "correct": "New York City",
+            "false1": "Gotham City",
+            "false2": "Metropolis",
+            "false3": "Central City"
+        },
+        {
+            "question": "Wie heißt der Erzfeind von Batman?",
+            "correct": "Joker",
+            "false1": "Green Goblin",
+            "false2": "Lex Luthor",
+            "false3": "Doctor Octopus"
+        },
+        {
+            "question": "Welcher Comiccharakter ist der Pilot des Raumschiffs \"Millennium Falcon\"?",
+            "correct": "Han Solo",
+            "false1": "Luke Skywalker",
+            "false2": "Princess Leia",
+            "false3": "Obi-Wan Kenobi"
+        },
+        {
+            "question": "Wie lautet der Spitzname von Natasha Romanoff, der Marvel-Superheldin?",
+            "correct": "Black Widow",
+            "false1": "Scarlet Witch",
+            "false2": "Captain Marvel",
+            "false3": "Storm"
+        },
+        {
+            "question": "In welchem Jahr erschien die erste Ausgabe von \"Wonder Woman\"?",
+            "correct": "1941",
+            "false1": "1950",
+            "false2": "1945",
+            "false3": "1938"
+        },
+        {
+            "question": "Wie heißt der Verlag, der die Comicreihe \"The Walking Dead\" veröffentlichte?",
+            "correct": "Image Comics",
+            "false1": "DC Comics",
+            "false2": "Marvel Comics",
+            "false3": "Dark Horse Comics"
+        },
+        {
+            "question": "Welcher Comiccharakter hat den Spitznamen \"Menschliche Fackel\"?",
+            "correct": "Johnny Storm",
+            "false1": "Peter Parker",
+            "false2": "Reed Richards",
+            "false3": "Scott Summers"
+        },
+        {
+            "question": "Welche Superheldin hat die Kräfte eines Gottes und stammt von der Amazoneninsel Themyscira?",
+            "correct": "Wonder Woman",
+            "false1": "Catwoman",
+            "false2": "Supergirl",
+            "false3": "Storm"
+        },
+        {
+            "question": "Welcher Comiccharakter ist als \"Symbiote\" bekannt und war vorübergehend der schwarze Anzug von Spider-Man?",
+            "correct": "Venom",
+            "false1": "Carnage",
+            "false2": "Green Goblin",
+            "false3": "Doctor Octopus"
+        },
+        {
+            "question": "In welchem Jahr wurde die erste Ausgabe der X-Men-Comics veröffentlicht?",
+            "correct": "1963",
+            "false1": "1965",
+            "false2": "1961",
+            "false3": "1967"
+        },
+        {
+            "question": "Welcher Comiccharakter ist der Prinz von Wakanda und hat den Titel \"Black Panther\"?",
+            "correct": "T Challa",
+            "false1": "Luke Cage",
+            "false2": "Falcon",
+            "false3": "Blade"
+        },
+        {
+            "question": "Welcher Marvel-Superheld trägt eine Rüstung mit einem leuchtenden Arc-Reaktor in seiner Brust?",
+            "correct": "Iron Man",
+            "false1": "Captain America",
+            "false2": "Thor",
+            "false3": "Hulk"
+        },
+        {
+            "question": "Wie heißt der kosmische Schurke, der das Infinity Gauntlet in den Marvel-Comics trägt?",
+            "correct": "Thanos",
+            "false1": "Darkseid",
+            "false2": "Apocalypse",
+            "false3": "Galactus"
+        },
+        {
+            "question": "Wie lautet der echte Name von Thor?",
+            "correct": "Thor Odinson",
+            "false1": "Loki Laufeyson",
+            "false2": "Tony Stark",
+            "false3": "Steven Rogers"
+        },
+        {
+            "question": "In welcher Ausgabe trat der Joker zum ersten Mal in den Batman-Comics auf?",
+            "correct": "Batman #1",
+            "false1": "Batman #100",
+            "false2": "Batman #50",
+            "false3": "Batman #10"
+        },
+        {
+            "question": "Welcher Comiccharakter ist der mutierte Telepath, der als Anführer der X-Men bekannt ist?",
+            "correct": "Professor X",
+            "false1": "Cyclops",
+            "false2": "Wolverine",
+            "false3": "Magneto"
+        },
+        {
+            "question": "Wie lautet der echte Name des Hulk?",
+            "correct": "Bruce Banner",
+            "false1": "Peter Parker",
+            "false2": "Clark Kent",
+            "false3": "Tony Stark"
+        },
+        {
+            "question": "Welcher Bösewicht ist auch bekannt als \"Der Schnappkiefer\" und ist der Erzfeind von Aquaman?",
+            "correct": "Black Manta",
+            "false1": "Red Skull",
+            "false2": "Mysterio",
+            "false3": "Kingpin"
+        },
+        {
+            "question": "Welcher Superheld ist bekannt für seinen riesigen grünen Körper und seine immense Stärke?",
+            "correct": "Hulk",
+            "false1": "Colossus",
+            "false2": "Juggernaut",
+            "false3": "Beast"
+        },
+        {
+            "question": "Wie lautet der bürgerliche Name von Captain America?",
+            "correct": "Steven Rogers",
+            "false1": "Tony Stark",
+            "false2": "Bruce Wayne",
+            "false3": "Peter Parker"
+        },
+        {
+            "question": "Welche Superheldin ist auch bekannt als \"Ororo Munroe\" und kann das Wetter kontrollieren?",
+            "correct": "Storm",
+            "false1": "Rogue",
+            "false2": "Jean Grey",
+            "false3": "Scarlet Witch"
+        },
+        {
+            "question": "Welcher Bösewicht ist ein genialer Wissenschaftler und der Erzfeind von den Fantastic Four?",
+            "correct": "Doctor Doom",
+            "false1": "Green Goblin",
+            "false2": "Lex Luthor",
+            "false3": "Joker"
+        },
+        {
+            "question": "Welcher Comiccharakter ist als \"Sorcerer Supreme\" bekannt und ist der Meister der mystischen Künste?",
+            "correct": "Doctor Strange",
+            "false1": "Doctor Fate",
+            "false2": "Swamp Thing",
+            "false3": "Constantine"
+        },
+        {
+            "question": "Wie heißt der Schöpfer der Comicfigur \"Wonder Woman\"?",
+            "correct": "William Moulton Marston",
+            "false1": "Stan Lee",
+            "false2": "Bob Kane",
+            "false3": "Jack Kirby"
+        },
+        {
+            "question": "Welche Superheldin ist auch bekannt als \"Jean Grey\" und besitzt die mächtige Phoenix-Kraft?",
+            "correct": "Phoenix",
+            "false1": "Mystique",
+            "false2": "Rogue",
+            "false3": "Scarlet Witch"
+        },
+        {
+            "question": "Wie lautet der bürgerliche Name von Black Widow?",
+            "correct": "Natasha Romanoff",
+            "false1": "Jessica Jones",
+            "false2": "Carol Danvers",
+            "false3": "Elektra Natchios"
+        },
+        {
+            "question": "Welcher Bösewicht ist der geniale Erzfeind von den Fantastic Four, der aus Gummibärchen besteht?",
+            "correct": "Mister Fantastic",
+            "false1": "Doctor Doom",
+            "false2": "Green Goblin",
+            "false3": "Lex Luthor"
+        },
+        {
+            "question": "Wie heißt der Butler von Batman?",
+            "correct": "Alfred Pennyworth",
+            "false1": "James Gordon",
+            "false2": "Harvey Bullock",
+            "false3": "Lucius Fox"
+        },
+        {
+            "question": "Welcher Superheld hat den Spitznamen \"Menschliche Fackel\"?",
+            "correct": "Johnny Storm",
+            "false1": "Bobby Drake",
+            "false2": "Reed Richards",
+            "false3": "Scott Summers"
+        },
+        {
+            "question": "Welcher Comiccharakter ist der König von Atlantis und der Superheld Aquaman?",
+            "correct": "Arthur Curry",
+            "false1": "Clark Kent",
+            "false2": "Bruce Wayne",
+            "false3": "Peter Parker"
+        },
+        {
+            "question": "Wie lautet der bürgerliche Name von Green Lantern?",
+            "correct": "Hal Jordan",
+            "false1": "John Stewart",
+            "false2": "Kyle Rayner",
+            "false3": "Guy Gardner"
+        },
+        {
+            "question": "Welcher Bösewicht ist der Erzfeind von den Teenage Mutant Ninja Turtles und ein böser Ninja-Krieger?",
+            "correct": "Shredder",
+            "false1": "Joker",
+            "false2": "Lex Luthor",
+            "false3": "Doctor Doom"
+        },
+        {
+            "question": "Welcher Comiccharakter ist der Anführer der X-Men und hat die Fähigkeit, Optikstrahlen aus seinen Augen zu schießen?",
+            "correct": "Cyclops",
+            "false1": "Wolverine",
+            "false2": "Jean Grey",
+            "false3": "Professor X"
+        },
+        {
+            "question": "Wie heißt der Schöpfer der Comicfigur \"Thor\"?",
+            "correct": "Stan Lee",
+            "false1": "Jack Kirby",
+            "false2": "Bob Kane",
+            "false3": "Steve Ditko"
+        },
+        {
+            "question": "Welcher Comiccharakter ist als \"Wally West\" bekannt und trägt den Titel \"Flash\"?",
+            "correct": "Flash",
+            "false1": "Speedy",
+            "false2": "Quicksilver",
+            "false3": "Quickdraw"
+        },
+        {
+            "question": "Wie lautet der bürgerliche Name von Iron Man?",
+            "correct": "Tony Stark",
+            "false1": "Bruce Wayne",
+            "false2": "Clark Kent",
+            "false3": "Peter Parker"
+        },
+        {
+            "question": "Welcher Bösewicht ist ein rücksichtsloser Anwalt und der Erzfeind von Daredevil?",
+            "correct": "Kingpin",
+            "false1": "Doctor Octopus",
+            "false2": "Green Goblin",
+            "false3": "Lex Luthor"
+        },
+        {
+            "question": "Welcher Comiccharakter ist als \"Wade Wilson\" bekannt?",
+            "correct": "Deadpool",
+            "false1": "Deathstroke",
+            "false2": "Taskmaster",
+            "false3": "Slade Wilson"
+        },
+        {
+            "question": "Wie heißt der Schöpfer der Comicfigur \"Hulk\"?",
+            "correct": "Stan Lee",
+            "false1": "Jack Kirby",
+            "false2": "Bob Kane",
+            "false3": "Steve Ditko"
+        },
+        {
+            "question": "Welche Superheldin ist auch bekannt als \"Carol Danvers\" und hat die Kräfte einer menschlichen-Kree-Hybriden?",
+            "correct": "Captain Marvel",
+            "false1": "Rogue",
+            "false2": "Jean Grey",
+            "false3": "Scarlet Witch"
+        },
+        {
+            "question": "Wie lautet der bürgerliche Name von Wolverine?",
+            "correct": "James Howlett",
+            "false1": "Logan Wayne",
+            "false2": "Bruce Parker",
+            "false3": "Peter Rogers"
+        },
+        {
+            "question": "Welcher Bösewicht ist auch bekannt als \"Cletus Kasady\" und ist der Erzfeind von Venom?",
+            "correct": "Carnage",
+            "false1": "Green Goblin",
+            "false2": "Lex Luthor",
+            "false3": "Joker"
+        },
+        {
+            "question": "Welcher Comiccharakter ist ein brillanter Wissenschaftler und der Anführer der Fantastic Four?",
+            "correct": "Reed Richards",
+            "false1": "Doctor Doom",
+            "false2": "Green Goblin",
+            "false3": "Lex Luthor"
+        },
+        {
+            "question": "Wie heißt der Schöpfer der Comicfigur \"Wonder Woman\"?",
+            "correct": "William Moulton Marston",
+            "false1": "Stan Lee",
+            "false2": "Bob Kane",
+            "false3": "Jack Kirby"
+        },
+        {
+            "question": "Welche Superheldin ist auch bekannt als \"Jean Grey\" und besitzt die mächtige Phoenix-Kraft?",
+            "correct": "Phoenix",
+            "false1": "Mystique",
+            "false2": "Rogue",
+            "false3": "Scarlet Witch"
+        },
+        {
+            "question": "Wie lautet der bürgerliche Name von Black Widow?",
+            "correct": "Natasha Romanoff",
+            "false1": "Jessica Jones",
+            "false2": "Carol Danvers",
+            "false3": "Elektra Natchios"
+        }
+    ]
+}

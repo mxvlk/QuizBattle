@@ -1,0 +1,73 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Game {
+  id                Int                @id @default(autoincrement())
+  uuid              String             @unique
+  user1             String
+  user2             String
+  questions         Question[]
+  finished          Boolean
+  currentPlayer     String?
+  task              Int
+  pickedCategory    Int?
+  currentQuestion   currentQuestions?
+  currentCategories currentCategories?
+}
+
+model Question {
+  id            Int      @id @default(autoincrement())
+  game          Game     @relation(fields: [gameId], references: [id])
+  gameId        Int
+  category      Int
+  questionsId1 Int
+  questionsId2 Int
+  questionsId3 Int
+  user1_answer1 Boolean?
+  user1_answer2 Boolean?
+  user1_answer3 Boolean?
+  user2_answer1 Boolean?
+  user2_answer2 Boolean?
+  user2_answer3 Boolean?
+}
+
+model currentQuestions {
+  id            Int    @id @default(autoincrement())
+  game          Game   @relation(fields: [gameId], references: [id])
+  gameId        Int    @unique
+  category      Int
+  categoryQuestions categoryQuestion[]
+}
+
+model categoryQuestion {
+  id Int @id @default(autoincrement())
+  currentQuestions currentQuestions @relation(fields: [currentQuestionsId], references: [id])
+  currentQuestionsId Int
+  questionId Int
+  questionText String
+  correctAnswer String
+  falseAnswer1 String
+  falseAnswer2 String
+  falseAnswer3 String
+}
+
+model currentCategories {
+  id            Int    @id @default(autoincrement())
+  game          Game   @relation(fields: [gameId], references: [id])
+  gameId        Int    @unique
+  category1     String
+  category1_id  Int
+  category2     String
+  category2_id  Int
+  category3     String
+  category3_id  Int
+}

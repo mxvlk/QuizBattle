@@ -1,0 +1,76 @@
+{
+    "category": "Kinofilme",
+    "questionCount": 130,
+    "questionList": [
+        {
+            "question": "Aus welchem Film von \"Loriot\" stammt der legendaere Satz \"Ein Apfel ist ein Apfel und eine Birne ist eine Birne.\"?",
+            "correct": "Pappa ante Portas",
+            "false1": "Ödipussi",
+            "false2": "Die Ente bleibt draußen",
+            "false3": "Symon macht Abitur"
+        },
+        {
+            "question": "Aus welchem Jahr stammt \"Otto - der Film\"?",
+            "correct": "1985",
+            "false1": "1982",
+            "false2": "1987",
+            "false3": "1989"
+        },
+        {
+            "question": "Aus welchem Land stammt Al Pachinos Charakter Tony Montana ursprünglich im Film \"Scarface\" (1983)?",
+            "correct": "Kuba",
+            "false1": "Kolumbien",
+            "false2": "Venezuela",
+            "false3": "Mexiko"
+        },
+        {
+            "question": "Barbra Streisand ist eine berühmte Schauspielerin und Sängerin. Mit welchem Film debütierte sie?",
+            "correct": "Funny Girl",
+            "false1": "A Star Is Born",
+            "false2": "Hello, Dolly!",
+            "false3": "Die oberen Zehntausend"
+        },
+        {
+            "question": "Barbra Streisand ist eine berühmte Schauspielerin und Sängerin? Mit welchem Film debütierte sie?",
+            "correct": "Funny Girl",
+            "false1": "Hello, Dolly!",
+            "false2": "A Star Is Born",
+            "false3": "Die oberen Zehntausend"
+        },
+        {
+            "question": "Die Leser welcher Zeitschrift stimmen über die Vergabe der \"Goldenen Kamera\" ab?",
+            "correct": "Hörzu",
+            "false1": "Bunte",
+            "false2": "Gala",
+            "false3": "InTouch"
+        },
+        {
+            "question": "Ein 10 Jahre altes Mädchen und ihre Eltern gehen in einen Tunnel, der sich als spukender Freizeitpark entpuppt. Die Eltern verwandeln sich in Schweine. Wie heißt der Film?",
+            "correct": "Chihiros Reise ins Zauberland",
+            "false1": "Das wandelnde Schloss",
+            "false2": "Mein Nachbar Totoro",
+            "false3": "Prinzessin Mononoke"
+        },
+        {
+            "question": "Ein halbitalienischer Mafioso verrät viele seiner Mafiafreunde an das FBI und wird dann in ein Zeugenschutz-Programm berufen. Welcher Film ist gemeint?",
+            "correct": "Good Fellas",
+            "false1": "Der Pate",
+            "false2": "Casino",
+            "false3": "Scarface"
+        },
+        {
+            "question": "Ein Mafiakiller wird gebeten, die Freundin eines Mafia-Bosses einen Abend lang zu unterhalten. Sie nimmt eine Überdosis Heroin zu sich. Um welchen Film geht es?",
+            "correct": "Pulp Fiction",
+            "false1": "Sin City",
+            "false2": "Inglourious Basterds",
+            "false3": "The Big Lebowski"
+        },
+        {
+            "question": "\"Goldie, wie oft habe ich euch gesagt, dass ihr hier im Flugzeug nicht rumalbern sollt.\" Aus welchem Film stammt das Zitat?",
+            "correct": "Dr. Strangelove",
+            "false1": "Airplane!",
+            "false2": "Top Gun",
+            "false3": "Airport"
+        }
+    ]
+}

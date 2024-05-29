@@ -1,0 +1,1924 @@
+{
+    "category": "Essen und Trinken",
+    "questionCount": 274,
+    "questionList": [
+        {
+            "question": "Auf welchem biotechnologischen Verfahren basiert das Erfrischungsgetränk \"Bionade\"?",
+            "correct": "Fermentation",
+            "false1": "Destillation",
+            "false2": "Filtration",
+            "false3": "Kondensation"
+        },
+        {
+            "question": "Aufgrund welches Gewürzes war eine kleine Inselgruppe in den Molukken zwischen England und den Niederlanden erbittert umkämpft?",
+            "correct": "Muskatnuss",
+            "false1": "Zimt",
+            "false2": "Vanille",
+            "false3": "Kardamom"
+        },
+        {
+            "question": "Aus dem Blütenstand welchen Laubbaumes kann man einen schmackhaften Tee zubereiten?",
+            "correct": "Linde",
+            "false1": "Ahorn",
+            "false2": "Kastanie",
+            "false3": "Buche"
+        },
+        {
+            "question": "Aus welchem Land kommen Rösti und Fondue?",
+            "correct": "Schweiz",
+            "false1": "Deutschland",
+            "false2": "Österreich",
+            "false3": "Frankreich"
+        },
+        {
+            "question": "Aus welchem Land kommt das Bier Skol?",
+            "correct": "Brasilien",
+            "false1": "Schweden",
+            "false2": "Polen",
+            "false3": "Kanada"
+        },
+        {
+            "question": "Aus welchem Land kommt das Bier \"Corona\"?",
+            "correct": "Mexiko",
+            "false1": "Spanien",
+            "false2": "Italien",
+            "false3": "Griechenland"
+        },
+        {
+            "question": "Aus welchem Land kommt das Gericht \"Korma\"?",
+            "correct": "Indien",
+            "false1": "Thailand",
+            "false2": "Marokko",
+            "false3": "China"
+        },
+        {
+            "question": "Aus welchem Land kommt das Gericht \"Nasi Goreng\"?",
+            "correct": "Indonesien",
+            "false1": "Vietnam",
+            "false2": "Philippinen",
+            "false3": "Malaysia"
+        },
+        {
+            "question": "Aus welchem Land kommt das Gericht \"Tom Yum Gai\"?",
+            "correct": "Thailand",
+            "false1": "Japan",
+            "false2": "Korea",
+            "false3": "Indien"
+        },
+        {
+            "question": "Aus welchem Land kommt das Getränk \"Caipirinha\"?",
+            "correct": "Brasilien",
+            "false1": "Kuba",
+            "false2": "Mexiko",
+            "false3": "Portugal"
+        },
+        {
+            "question": "Aus welchem Land kommt das Langos-Brot?",
+            "correct": "Ungarn",
+            "false1": "Griechenland",
+            "false2": "Türkei",
+            "false3": "Italien"
+        },
+        {
+            "question": "Aus welchem Land kommt der \"Apfelstrudel\"?",
+            "correct": "Österreich",
+            "false1": "Deutschland",
+            "false2": "Tschechien",
+            "false3": "Schweden"
+        },
+        {
+            "question": "Aus welchem Land kommt der Wein \"Barolo\"?",
+            "correct": "Italien",
+            "false1": "Spanien",
+            "false2": "Frankreich",
+            "false3": "Portugal"
+        },
+        {
+            "question": "Aus welchem Land kommt die Biermarke \"Red Stripe\"?",
+            "correct": "Jamaika",
+            "false1": "Barbados",
+            "false2": "Trinidad und Tobago",
+            "false3": "Haiti"
+        },
+        {
+            "question": "Aus welchem Land kommt die Schokolade \"Lindt\"?",
+            "correct": "Schweiz",
+            "false1": "Belgien",
+            "false2": "Deutschland",
+            "false3": "Niederlande"
+        },
+        {
+            "question": "Aus welchem Land kommt \"Gyros\"?",
+            "correct": "Griechenland",
+            "false1": "Türkei",
+            "false2": "Libanon",
+            "false3": "Ägypten"
+        },
+        {
+            "question": "Aus welchem Land stammt das Gericht Champurue?",
+            "correct": "Japan",
+            "false1": "China",
+            "false2": "Korea",
+            "false3": "Thailand"
+        },
+        {
+            "question": "Aus welchem Land stammt die tablettenförmige Süßigkeit PEZ, die gerne aus Automaten geholt wird?",
+            "correct": "Österreich",
+            "false1": "Schweiz",
+            "false2": "Deutschland",
+            "false3": "Italien"
+        },
+        {
+            "question": "Aus welcher deutschen Region stammt das Erfrischungsgetränk \"Bionade\"?",
+            "correct": "Rhön",
+            "false1": "Schwarzwald",
+            "false2": "Allgäu",
+            "false3": "Harz"
+        },
+        {
+            "question": "Aus welcher Frucht wird ein \"Williams\" gebrannt?",
+            "correct": "Birne",
+            "false1": "Apfel",
+            "false2": "Pflaume",
+            "false3": "Kirsche"
+        },
+        {
+            "question": "Aus welcher Stadt stammt die italienische Pizza?",
+            "correct": "Neapel",
+            "false1": "Rom",
+            "false2": "Mailand",
+            "false3": "Venedig"
+        },
+        {
+            "question": "Bei der Herstellung welchen Getränks kommt das Pot-Still-Verfahren zum Einsatz?",
+            "correct": "Whisk(e)y",
+            "false1": "Rum",
+            "false2": "Wodka",
+            "false3": "Tequila"
+        },
+        {
+            "question": "Bei welchem schlecht zubereiteten Fleisch ist das Risiko am höchsten, sich Trichinen einzufangen?",
+            "correct": "Schwein",
+            "false1": "Rind",
+            "false2": "Geflügel",
+            "false3": "Lamm"
+        },
+        {
+            "question": "Bis 2013 kam das stärkste Bier der Welt aus der fränkischen Brauerei Schorschbräu. Wie heißt es?",
+            "correct": "Schorschbock",
+            "false1": "Braunbier",
+            "false2": "Hopfenweizen",
+            "false3": "Malzbier"
+        },
+        {
+            "question": "Cayennepfeffer, Koriander, Kurkuma und Muskatnuss sind alles Bestandteile wovon?",
+            "correct": "Currypulver",
+            "false1": "Gulaschgewürz",
+            "false2": "Chilipulver",
+            "false3": "Paprikapulver"
+        },
+        {
+            "question": "China, Indien und Kenia sind die drei weltgrößten Teeproduzenten (2010). Welches Land belegt den vierten Platz?",
+            "correct": "Sri Lanka",
+            "false1": "Vietnam",
+            "false2": "Türkei",
+            "false3": "Japan"
+        },
+        {
+            "question": "Das Fruchtfleisch ist weich und gelblich bis hellgrün, die Schale ist grün bis dunkelgrün und in der Mitte befindet sich ein großer Kern - was ist das?",
+            "correct": "Avocado",
+            "false1": "Mango",
+            "false2": "Papaya",
+            "false3": "Kiwi"
+        },
+        {
+            "question": "Der Casu Marzu ist ein spezieller Käse aus Sardinien. Was ist so besonders an ihm?",
+            "correct": "Er reift, bis er Maden enthält",
+            "false1": "Er wird mit Schimmel überzogen",
+            "false2": "Er wird in Wein eingelegt",
+            "false3": "Er wird mit Kräutern verfeinert"
+        },
+        {
+            "question": "Die Alltagsdroge \"Khat\" ist im Nahen Osten und Teilen Ostafrikas sehr beliebt. Wie wird sie konsumiert?",
+            "correct": "Kauen",
+            "false1": "Rauchen",
+            "false2": "Injizieren",
+            "false3": "Dampfen"
+        },
+        {
+            "question": "Die rote Traube \"Syrah\" wird in Frankreich angebaut. Welcher Name wird für die Traube in der \"Neuen Welt\" verwendet?",
+            "correct": "Shiraz",
+            "false1": "Merlot",
+            "false2": "Cabernet Sauvignon",
+            "false3": "Pinot Noir"
+        },
+        {
+            "question": "Die schwedische Spezialität \"surströmming\" besteht aus welchem vergorenen Fisch?",
+            "correct": "Hering",
+            "false1": "Lachs",
+            "false2": "Heilbutt",
+            "false3": "Dorsch"
+        },
+        {
+            "question": "Die Zitrusfrucht Chironka ist eine Kreuzung aus der Orange und der Grapefruit. Aus welchem Land stammt sie?",
+            "correct": "Puerto Rico",
+            "false1": "Kolumbien",
+            "false2": "Thailand",
+            "false3": "Brasilien"
+        },
+        {
+            "question": "Einige Lebensmittel werden auf 70-80 Grad erhitzt, um Bakterien abzutöten. Wie heißt dieser Prozess?",
+            "correct": "Pasteurisierung",
+            "false1": "Sterilisation",
+            "false2": "Filtration",
+            "false3": "Konservierung"
+        },
+        {
+            "question": "Gehacktes Schweinefleisch heißt in den meisten Teilen Deutschlands \"Mett\". Wie nennen es Berliner?",
+            "correct": "Hackepeter",
+            "false1": "Schnetzel",
+            "false2": "Bratwurst",
+            "false3": "Leberkäse"
+        },
+        {
+            "question": "In Frankreich ist \"Escargot\" ein beliebtes Gericht. Woraus besteht es?",
+            "correct": "Schnecken",
+            "false1": "Krebse",
+            "false2": "Austern",
+            "false3": "Muscheln"
+        },
+        {
+            "question": "In welchem deutschen Bundesland befindet sich das Weinanbaugebiet Rheinhessen?",
+            "correct": "Rheinland-Pfalz",
+            "false1": "Baden-Württemberg",
+            "false2": "Hessen",
+            "false3": "Saarland"
+        },
+        {
+            "question": "In welchem Gefäß wird der Apfelwein in hessischen Lokalen typischerweise ausgeschenkt?",
+            "correct": "Bembel",
+            "false1": "Krügel",
+            "false2": "Krug",
+            "false3": "Kännchen"
+        },
+        {
+            "question": "In welchem Jahrhundert kam die Kartoffel nach Europa?",
+            "correct": "16. Jahrhundert",
+            "false1": "17. Jahrhundert",
+            "false2": "15. Jahrhundert",
+            "false3": "18. Jahrhundert"
+        },
+        {
+            "question": "In welchem Land, das einst eine deutsche Kolonie war, werden die Biere \"Hansa\" und \"Windhoek\" gebraut?",
+            "correct": "Namibia",
+            "false1": "Tansania",
+            "false2": "Kenia",
+            "false3": "Ruanda"
+        },
+        {
+            "question": "In welchem Land ist das Nationalgericht Feijoada?",
+            "correct": "Brasilien",
+            "false1": "Argentinien",
+            "false2": "Chile",
+            "false3": "Peru"
+        },
+        {
+            "question": "In welchem Land ist das Nationalgericht Haggis?",
+            "correct": "Schottland",
+            "false1": "Irland",
+            "false2": "Wales",
+            "false3": "England"
+        },
+        {
+            "question": "In welchem Land ist \"Dim sum\" ein Nationalgericht?",
+            "correct": "China",
+            "false1": "Japan",
+            "false2": "Thailand",
+            "false3": "Südkorea"
+        },
+        {
+            "question": "In welchem Land ist Milchtee das Nationalgetränk?",
+            "correct": "Mongolei",
+            "false1": "Tibet",
+            "false2": "Nepal",
+            "false3": "Bhutan"
+        },
+        {
+            "question": "In welchem Land liegt das Weinbaugebiet Victoria?",
+            "correct": "Australien",
+            "false1": "Südafrika",
+            "false2": "Neuseeland",
+            "false3": "Argentinien"
+        },
+        {
+            "question": "In welchem Land serviert man an Neujahr sieben Gerichte, die mit \"S\" beginnen?",
+            "correct": "Iran",
+            "false1": "Ägypten",
+            "false2": "Indien",
+            "false3": "Griechenland"
+        },
+        {
+            "question": "In welchem Land werden \"Pelmeni\" häufig verzehrt?",
+            "correct": "Russland",
+            "false1": "Ukraine",
+            "false2": "Polen",
+            "false3": "Litauen"
+        },
+        {
+            "question": "In welcher Esskultur gibt es viele würzige Gemüse- und Fleischgerichte, das Chilipulver \"Berbere\" und den Zwiebel-basierten Eintopf \"Wat\"?",
+            "correct": "Äthiopische Küche",
+            "false1": "Marokkanische Küche",
+            "false2": "Tunesische Küche",
+            "false3": "Südafrikanische Küche"
+        },
+        {
+            "question": "In welcher Esskultur sind die folgenden Zutaten wesentliche Bestandteile: die Gewürzmischung \"Garam Masala\", Tamarinden, Basmatireis und Roti?",
+            "correct": "Indische Küche",
+            "false1": "Thailändische Küche",
+            "false2": "Vietnamesische Küche",
+            "false3": "Malaysische Küche"
+        },
+        {
+            "question": "In welcher Esskultur sind Shabu-Shabu, Motsunambe, Oden und Nabemongo wichtige Begriffe?",
+            "correct": "Japanische Küche",
+            "false1": "Chinesische Küche",
+            "false2": "Koreanische Küche",
+            "false3": "Thailändische Küche"
+        },
+        {
+            "question": "In welcher Stadt befindet sich das Restaurant Noma, das vom \"Restaurant Magazine\" zum weltbesten Restaurant gewählt wurde?",
+            "correct": "Kopenhagen",
+            "false1": "Paris",
+            "false2": "Rom",
+            "false3": "New York City"
+        },
+        {
+            "question": "In welcher Stadt wurde die Weisswurst entwickelt?",
+            "correct": "München",
+            "false1": "Berlin",
+            "false2": "Frankfurt",
+            "false3": "Hamburg"
+        },
+        {
+            "question": "\"Kir\" wird aus Cassis und dem Weißwein welcher Traube hergestellt?",
+            "correct": "Aligote",
+            "false1": "Chardonnay",
+            "false2": "Sauvignon Blanc",
+            "false3": "Riesling"
+        },
+        {
+            "question": "Kopi Luwak ist der weltweit teuerste Kaffee. Wo werden die besten Bohnen des Kaffees \"geerntet\"?",
+            "correct": "Südostasien",
+            "false1": "Südamerika",
+            "false2": "Afrika",
+            "false3": "Karibik"
+        },
+        {
+            "question": "Reis und das Bohnengericht Congris sind die Nationalgerichte welchen Landes?",
+            "correct": "Kuba",
+            "false1": "Dominikanische Republik",
+            "false2": "Puerto Rico",
+            "false3": "Costa Rica"
+        },
+        {
+            "question": "Wann erschien der erste deutschsprachige Restaurantführer \"Guide Michelin\"?",
+            "correct": "1910",
+            "false1": "1895",
+            "false2": "1925",
+            "false3": "1950"
+        },
+        {
+            "question": "Was bedeutet \"bardieren\"?",
+            "correct": "Mit Speck umwickeln",
+            "false1": "Marinieren",
+            "false2": "Panieren",
+            "false3": "Räuchern"
+        },
+        {
+            "question": "Was bedeutet \"Creme brulee\"?",
+            "correct": "Gebrannte Creme",
+            "false1": "Gefrorene Creme",
+            "false2": "Gekochte Creme",
+            "false3": "Geklärte Creme"
+        },
+        {
+            "question": "Was bedeutet es, ein Gericht zu \"kandieren\"?",
+            "correct": "Mit flüssigem Zucker übergießen",
+            "false1": "Mit Schokolade überziehen",
+            "false2": "Mit Salz bestreuen",
+            "false3": "Mit Essig marinieren"
+        },
+        {
+            "question": "Was bedeutet es, wenn man im Restaurant nach dem Essen das Besteck in die \"20 nach 4-Stellung\" bringt?",
+            "correct": "Ich bin fertig",
+            "false1": "Ich möchte noch mehr",
+            "false2": "Ich möchte bezahlen",
+            "false3": "Ich möchte den Tisch wechseln"
+        },
+        {
+            "question": "Was bedeutet es, wenn man Lebensmittel pochiert?",
+            "correct": "Im Wasser garen",
+            "false1": "Im Ofen backen",
+            "false2": "In Fett braten",
+            "false3": "In Sauce ertränken"
+        },
+        {
+            "question": "Was bedeutet \"gastros\" im Griechischen, wovon unser Wort Gastronomie abgeleitet ist?",
+            "correct": "Magen",
+            "false1": "Essen",
+            "false2": "Gast",
+            "false3": "Genuss"
+        },
+        {
+            "question": "Was bedeutet \"Mise en Place\" in der Gastronomie?",
+            "correct": "Vorbereiten",
+            "false1": "Servieren",
+            "false2": "Kochen",
+            "false3": "Aufräumen"
+        },
+        {
+            "question": "Was bekam man in der DDR serviert, wenn man eine \"Griletta\" bestellte?",
+            "correct": "Ein Art Hamburger",
+            "false1": "Eine Pizza",
+            "false2": "Ein Dessert",
+            "false3": "Ein Bier"
+        },
+        {
+            "question": "Was bedeutet die Abkürzung \"Fett i. Tr.\" bei der Käseproduktion?",
+            "correct": "Fett in der Trockenmasse",
+            "false1": "Frisch und Tragbar",
+            "false2": "Fett im Transport",
+            "false3": "Fett in der Torte"
+        },
+        {
+            "question": "Was befindet sich üblicherweise NICHT auf dem Teller, wenn man das Gericht \"Labskaus\" bestellt?",
+            "correct": "Brot",
+            "false1": "Rote Bete",
+            "false2": "Matjeshering",
+            "false3": "Spiegelei"
+        },
+        {
+            "question": "Was bekommen Sie, wenn Sie in Italien \"latte\" bestellen?",
+            "correct": "Milch",
+            "false1": "Kaffee",
+            "false2": "Bier",
+            "false3": "Wasser"
+        },
+        {
+            "question": "Was bekommen Sie, wenn Sie um eine Flasche \"Lagavulin\" bitten?",
+            "correct": "Whisky",
+            "false1": "Wein",
+            "false2": "Bier",
+            "false3": "Schnaps"
+        },
+        {
+            "question": "Was bekommt man, wenn man im Eisgeschäft \"Heisse Liebe\" bestellt?",
+            "correct": "Vanilleeis & warme Himbeeren",
+            "false1": "Schokoladeneis & heiße Schokolade",
+            "false2": "Erdbeereis & heiße Erdbeeren",
+            "false3": "Zitroneneis & heiße Zitrone"
+        },
+        {
+            "question": "Was bekommt man, wenn man in einem chilenischen Restaurant \"pollo\" bestellt?",
+            "correct": "Hühnchen",
+            "false1": "Rindfleisch",
+            "false2": "Schweinefleisch",
+            "false3": "Fisch"
+        },
+        {
+            "question": "Was bekommt man, wenn man \"Taboule\" in einem Restaurant bestellt?",
+            "correct": "Einen Salat",
+            "false1": "Eine Suppe",
+            "false2": "Ein Dessert",
+            "false3": "Eine Pasta"
+        },
+        {
+            "question": "Was bezeichnet man als \"Krakauer\"?",
+            "correct": "Wurst",
+            "false1": "Kuchen",
+            "false2": "Käse",
+            "false3": "Getränk"
+        },
+        {
+            "question": "Was bezeichnet man auch als \"loeffelfeste saure Sahne\"?",
+            "correct": "Schmand",
+            "false1": "Sauerrahm",
+            "false2": "Crème fraîche",
+            "false3": "Buttermilch"
+        },
+        {
+            "question": "Was bezeichnet man auch als Maggikraut?",
+            "correct": "Liebstöckel",
+            "false1": "Basilikum",
+            "false2": "Oregano",
+            "false3": "Thymian"
+        },
+        {
+            "question": "Was bezeichnet man in weiten Teilen des bayerischen und österreichischen Sprachraums auch als \"Selchen\"?",
+            "correct": "Räuchern",
+            "false1": "Einfrieren",
+            "false2": "Einlegen",
+            "false3": "Kochen"
+        },
+        {
+            "question": "Was bildet die Grundlage für einen Armagnac (Brandy)?",
+            "correct": "Weißwein",
+            "false1": "Rotwein",
+            "false2": "Sekt",
+            "false3": "Bier"
+        },
+        {
+            "question": "Was erfand Frank Epperson 1905 per Zufall?",
+            "correct": "Eis am Stiel",
+            "false1": "Schokoladeneis",
+            "false2": "Eiscreme",
+            "false3": "Eistüte"
+        },
+        {
+            "question": "Was erhält man, wenn man Eigelb, Öl, Salz, Pfeffer, ein wenig Senf und Essig verrührt?",
+            "correct": "Mayonnaise",
+            "false1": "Tomatensoße",
+            "false2": "Erdnussbutter",
+            "false3": "Honigsenf"
+        },
+        {
+            "question": "Was findet man oft in einer Profi-Küche?",
+            "correct": "Salamander",
+            "false1": "Kühlschrank",
+            "false2": "Geschirrspüler",
+            "false3": "Kaffeemaschine"
+        },
+        {
+            "question": "Was gehört nicht in das italienische Gericht \"Saltimbocca\"?",
+            "correct": "Mozzarella",
+            "false1": "Kalbsschnitzel",
+            "false2": "Sageblatt",
+            "false3": "Parmaschinken"
+        },
+        {
+            "question": "Was gehört NICHT in die ostpreußische Spezialität \"Königsberger Klopse\"?",
+            "correct": "Essiggurken",
+            "false1": "Kapern",
+            "false2": "Zwiebeln",
+            "false3": "Anchovis"
+        },
+        {
+            "question": "Was gehört NICHT in eine Bechamelsauce?",
+            "correct": "Eier",
+            "false1": "Butter",
+            "false2": "Mehl",
+            "false3": "Milch"
+        },
+        {
+            "question": "Was gehört NICHT in eine Bolognese-Sauce?",
+            "correct": "Fenchel",
+            "false1": "Tomaten",
+            "false2": "Karotten",
+            "false3": "Sellerie"
+        },
+        {
+            "question": "Was gehört NICHT zur Absolut Vodka-Serie?",
+            "correct": "Sour Apple",
+            "false1": "Citron",
+            "false2": "Mango",
+            "false3": "Pears"
+        },
+        {
+            "question": "Was gilt als vegetarische Alternative zum Fleisch?",
+            "correct": "Quorn",
+            "false1": "Tofu",
+            "false2": "Seitan",
+            "false3": "Tempeh"
+        },
+        {
+            "question": "Was haben die Nudelsorten Tortellini, Ravioli und Cappelletti gemeinsam?",
+            "correct": "Gefüllte Nudeln",
+            "false1": "Bandnudeln",
+            "false2": "Spaghettini",
+            "false3": "Penne"
+        },
+        {
+            "question": "Was hat einen Anteil von knapp 40% in Sojabohnen?",
+            "correct": "Eiweiße",
+            "false1": "Kohlenhydrate",
+            "false2": "Fette",
+            "false3": "Ballaststoffe"
+        },
+        {
+            "question": "Was hat man im Mund, wenn man \"Weetabix\" isst?",
+            "correct": "Getreide",
+            "false1": "Eis",
+            "false2": "Obst",
+            "false3": "Käse"
+        },
+        {
+            "question": "Was ist auf keine Fall in Nocken (Gnocchi) enthalten?",
+            "correct": "Pilze",
+            "false1": "Kartoffeln",
+            "false2": "Mehl",
+            "false3": "Ei"
+        },
+        {
+            "question": "Was ist \"Beurre manie\"?",
+            "correct": "Mehlbutter",
+            "false1": "Erdnussbutter",
+            "false2": "Kräuterbutter",
+            "false3": "Kartoffelbutter"
+        },
+        {
+            "question": "Was ist Bouillabaisse?",
+            "correct": "Eine Fischsuppe",
+            "false1": "Ein Fleischeintopf",
+            "false2": "Eine Gemüsesuppe",
+            "false3": "Eine Cremesuppe"
+        },
+        {
+            "question": "Was ist \"Creme de Cassis\"?",
+            "correct": "Ein Likör",
+            "false1": "Eine Sauce",
+            "false2": "Eine Creme",
+            "false3": "Ein Dessert"
+        },
+        {
+            "question": "Was ist \"Croque monsieur\"?",
+            "correct": "Ein warmes Sandwich",
+            "false1": "Ein italienisches Gericht",
+            "false2": "Ein Dessert",
+            "false3": "Ein alkoholisches Getränk"
+        },
+        {
+            "question": "Was ist \"Foie Gras\"?",
+            "correct": "Stopfleber",
+            "false1": "Ein Käse",
+            "false2": "Ein Wein",
+            "false3": "Ein Dessert"
+        },
+        {
+            "question": "Was ist die gängigste Bezeichnung für ein Butterbrot in Sachsen, Sachsen-Anhalt und Thüringen?",
+            "correct": "Bemme",
+            "false1": "Schnitte",
+            "false2": "Stulle",
+            "false3": "Butterweck"
+        },
+        {
+            "question": "Was ist die Hauptzutat des arabischen Gerichtes \"Falafel\"?",
+            "correct": "Kichererbsen",
+            "false1": "Linsen",
+            "false2": "Erbsen",
+            "false3": "Bohnen"
+        },
+        {
+            "question": "Was ist die wichtigste Zutat im Fleischersatz Tofu?",
+            "correct": "Sojaprotein",
+            "false1": "Weizeneiweiß",
+            "false2": "Linseneiweiß",
+            "false3": "Erbseneiweiß"
+        },
+        {
+            "question": "Was ist die wichtigste Zutat in einer \"Guacamole\"?",
+            "correct": "Avocado",
+            "false1": "Tomate",
+            "false2": "Zwiebel",
+            "false3": "Knoblauch"
+        },
+        {
+            "question": "Was ist eine(e) \"Bavaria Blue\"?",
+            "correct": "Weichkäse",
+            "false1": "Bier",
+            "false2": "Wurst",
+            "false3": "Schnaps"
+        },
+        {
+            "question": "Was ist eine/e \"Focaccia\"?",
+            "correct": "Italienisches Fladenbrot",
+            "false1": "Französisches Croissant",
+            "false2": "Deutsches Roggenbrot",
+            "false3": "Mexikanische Tortilla"
+        },
+        {
+            "question": "Was ist \"Galette\"?",
+            "correct": "Buchweizen-Pfannkuchen",
+            "false1": "Schokoladenkuchen",
+            "false2": "Obstkuchen",
+            "false3": "Käsekuchen"
+        },
+        {
+            "question": "Was ist ein \"Chartreuse\"?",
+            "correct": "Kräuterlikör",
+            "false1": "Weißwein",
+            "false2": "Schokolade",
+            "false3": "Kaffeegetränk"
+        },
+        {
+            "question": "Was ist ein Hallimasch?",
+            "correct": "Pilz",
+            "false1": "Obst",
+            "false2": "Getreide",
+            "false3": "Kräutertee"
+        },
+        {
+            "question": "Was ist ein \"Kalter Hunde\"?",
+            "correct": "Süßspeise",
+            "false1": "Eiskaffee",
+            "false2": "Eiscreme",
+            "false3": "Eistorte"
+        },
+        {
+            "question": "Was ist ein Pfifferling?",
+            "correct": "Ein Pilz",
+            "false1": "Eine Beere",
+            "false2": "Ein Gemüse",
+            "false3": "Ein Kräutergewächs"
+        },
+        {
+            "question": "Was ist eine bekannte Speise?",
+            "correct": "Arme Ritter",
+            "false1": "Reiche Ritter",
+            "false2": "Stolze Ritter",
+            "false3": "Faulige Ritter"
+        },
+        {
+            "question": "Was ist eine Minneola?",
+            "correct": "Zitrusfrucht",
+            "false1": "Apfelfrucht",
+            "false2": "Bananenfrucht",
+            "false3": "Kiwi"
+        },
+        {
+            "question": "Was ist eine \"Sauteuse\"?",
+            "correct": "Eine Pfannenart",
+            "false1": "Eine Kasserolle",
+            "false2": "Ein Topf",
+            "false3": "Ein Backblech"
+        },
+        {
+            "question": "Was ist für die Herstellung von Marzipan unverzichtbar?",
+            "correct": "Mandeln",
+            "false1": "Erdnüsse",
+            "false2": "Walnüsse",
+            "false3": "Haselnüsse"
+        },
+        {
+            "question": "Was ist \"Galette\"?",
+            "correct": "Buchweizen-Pfannkuchen",
+            "false1": "Schokoladenkuchen",
+            "false2": "Obstkuchen",
+            "false3": "Käsekuchen"
+        },
+        {
+            "question": "Was ist \"Gazpacho\"?",
+            "correct": "Eine Suppe",
+            "false1": "Ein Salat",
+            "false2": "Ein Dessert",
+            "false3": "Ein Getränk"
+        },
+        {
+            "question": "Was ist in Spanien mit \"Merienda\" gemeint?",
+            "correct": "Zwischenmahlzeit",
+            "false1": "Frühstück",
+            "false2": "Mittagessen",
+            "false3": "Abendessen"
+        },
+        {
+            "question": "Was ist KEIN bekanntes Getränk?",
+            "correct": "White Garden",
+            "false1": "Red Bull",
+            "false2": "Coca-Cola",
+            "false3": "Sprite"
+        },
+        {
+            "question": "Was ist keine Art von Schaumwein?",
+            "correct": "Partina",
+            "false1": "Champagner",
+            "false2": "Prosecco",
+            "false3": "Sekt"
+        },
+        {
+            "question": "Was ist KEINE deutsche Weisswein-Rebsorte?",
+            "correct": "Portugieser",
+            "false1": "Riesling",
+            "false2": "Grauburgunder",
+            "false3": "Müller-Thurgau"
+        },
+        {
+            "question": "Was ist KEINE Eissorte von Ben & Jerrys?",
+            "correct": "Tiramisu Coco",
+            "false1": "Chocolate Fudge Brownie",
+            "false2": "Cookie Dough",
+            "false3": "Strawberry Cheesecake"
+        },
+        {
+            "question": "Was ist KEINE typische Zutat der Vorspeise \"Russische Eier\"?",
+            "correct": "Sahne",
+            "false1": "Eier",
+            "false2": "Mayonnaise",
+            "false3": "Senf"
+        },
+        {
+            "question": "Was ist Makulan?",
+            "correct": "Ein Pfeffergewächs",
+            "false1": "Ein Obst",
+            "false2": "Ein Getränk",
+            "false3": "Ein Fisch"
+        },
+        {
+            "question": "Was ist \"Monervois\"?",
+            "correct": "Ein französisches Weingebiet",
+            "false1": "Ein italienischer Käse",
+            "false2": "Ein spanisches Dessert",
+            "false3": "Ein deutsches Bier"
+        },
+        {
+            "question": "Was ist \"Naga Jolikia\"?",
+            "correct": "Eine sehr scharfe Chilischote",
+            "false1": "Eine scharfe Jalapeno",
+            "false2": "Eine milde Paprika",
+            "false3": "Eine süße Peperoni"
+        },
+        {
+            "question": "Was ist NICHT im Getränk \"White Russian\" enthalten?",
+            "correct": "Rum",
+            "false1": "Wodka",
+            "false2": "Kaffeelikör",
+            "false3": "Milch"
+        },
+        {
+            "question": "Was ist \"Panir\" in der indischen Küche?",
+            "correct": "Frischkäse",
+            "false1": "Geräucherter Fisch",
+            "false2": "Gefülltes Teiggebäck",
+            "false3": "Gewürzter Reis"
+        },
+        {
+            "question": "Was ist Tahini?",
+            "correct": "Paste aus Sesamsamen",
+            "false1": "Kichererbsenpüree",
+            "false2": "Petersiliensoße",
+            "false3": "Mohnfüllung"
+        },
+        {
+            "question": "Was ist Teil einer \"Aioli\"?",
+            "correct": "Knoblauch",
+            "false1": "Ingwer",
+            "false2": "Essig",
+            "false3": "Honig"
+        },
+        {
+            "question": "Was ist \"Tetrazzini\"?",
+            "correct": "Ein Spaghetti-Gericht",
+            "false1": "Ein Fischragout",
+            "false2": "Ein Kartoffelgratin",
+            "false3": "Ein Fleischbraten"
+        },
+        {
+            "question": "Was kann als Nationalgetränk Ungarns bezeichnet werden?",
+            "correct": "Palinka",
+            "false1": "Wein",
+            "false2": "Bier",
+            "false3": "Wodka"
+        },
+        {
+            "question": "Was kann man nicht essen?",
+            "correct": "Holzpflaumen",
+            "false1": "Himbeeren",
+            "false2": "Aprikosen",
+            "false3": "Pfirsiche"
+        },
+        {
+            "question": "Was kommt in der Regel NICHT in einem Baba Ganoush vor?",
+            "correct": "Kichererbsen",
+            "false1": "Auberginen",
+            "false2": "Tahini",
+            "false3": "Knoblauch"
+        },
+        {
+            "question": "Was kommt normalerweise NICHT im Gericht \"Labskaus\" vor?",
+            "correct": "Brot",
+            "false1": "Rote Bete",
+            "false2": "Corned Beef",
+            "false3": "Gurke"
+        },
+        {
+            "question": "Was nimmt man hauptsächlich zu sich, wenn man Nudeln isst?",
+            "correct": "Kohlenhydrate",
+            "false1": "Proteine",
+            "false2": "Fette",
+            "false3": "Vitamine"
+        },
+        {
+            "question": "Was sind die wichtigsten Zutaten im thailändischen Nationalgericht Pad Thai?",
+            "correct": "Fleisch/Tofu, Nudeln und Eier",
+            "false1": "Fisch, Reis und Gemüse",
+            "false2": "Huhn, Couscous und Tomaten",
+            "false3": "Schweinefleisch, Reisnudeln und Sojasprossen"
+        },
+        {
+            "question": "Was sind Köttbullar?",
+            "correct": "Fleischbällchen",
+            "false1": "Kartoffelpuffer",
+            "false2": "Käsespätzle",
+            "false3": "Hähnchenschenkel"
+        },
+        {
+            "question": "Was sind russische Blinis?",
+            "correct": "Buchweizen-Pfannkuchen",
+            "false1": "Kartoffelknödel",
+            "false2": "Gefüllte Teigtaschen",
+            "false3": "Gerollte Kuchen"
+        },
+        {
+            "question": "Was sind Thundertea IPA, Lion Lager und Coopers & Tiger?",
+            "correct": "Biersorten",
+            "false1": "Weinsorten",
+            "false2": "Cocktailsorten",
+            "false3": "Whiskysorten"
+        },
+        {
+            "question": "Was sollte man NICHT zu sich nehmen, wenn man glutenintolerant ist?",
+            "correct": "Weizen",
+            "false1": "Reis",
+            "false2": "Mais",
+            "false3": "Kartoffeln"
+        },
+        {
+            "question": "Was sollte Rindfleisch auf jeden Fall sein, wenn man daraus Carpaccio machen will?",
+            "correct": "Hauchdünn geschnitten",
+            "false1": "Gekocht",
+            "false2": "Gebraten",
+            "false3": "Mariniert"
+        },
+        {
+            "question": "Was versteht man in der Küche unter \"Rumfort\"?",
+            "correct": "Resteverwertung",
+            "false1": "Marinade",
+            "false2": "Kochtechnik",
+            "false3": "Verkochen"
+        },
+        {
+            "question": "Was verwendet man, wenn man ein Gericht flambiert?",
+            "correct": "Alkohol",
+            "false1": "Wasser",
+            "false2": "Öl",
+            "false3": "Essig"
+        },
+        {
+            "question": "Was wird als \"die fünfte Geschmacksrichtung\" bezeichnet?",
+            "correct": "Umami",
+            "false1": "Bitter",
+            "false2": "Süß",
+            "false3": "Sauer"
+        },
+        {
+            "question": "Was wird in weiten Teilen Österreichs und Südtirol als \"Paradeiser\" bezeichnet?",
+            "correct": "Tomaten",
+            "false1": "Kartoffeln",
+            "false2": "Gurken",
+            "false3": "Paprika"
+        },
+        {
+            "question": "Was wurde waehrend der Prohibition in den USA (1919-1933) populaer?",
+            "correct": "Cocktail",
+            "false1": "Moonshine",
+            "false2": "Ginger Ale",
+            "false3": "Eistee"
+        },
+        {
+            "question": "Welche Art von Alkohol ist im Getraenk \"Old Fashioned\" enthalten?",
+            "correct": "Bourbon",
+            "false1": "Rum",
+            "false2": "Gin",
+            "false3": "Wodka"
+        },
+        {
+            "question": "Welche Aussage ueber das Getraenk \"Screwdriver\" ist wahr?",
+            "correct": "Enthaelt immer Saft",
+            "false1": "Wird mit Limonade gemischt",
+            "false2": "Ist ein Trockengetraenk",
+            "false3": "Wird warm serviert"
+        },
+        {
+            "question": "Welche Beere gibt dem Getraenk \"Gin\" seinen kraeftigen Geschmack?",
+            "correct": "Wacholderbeere",
+            "false1": "Himbeere",
+            "false2": "Heidelbeere",
+            "false3": "Erdbeere"
+        },
+        {
+            "question": "Welche der folgenden Alternativen bezeichnet einen Geschmack?",
+            "correct": "Umani",
+            "false1": "Knusprig",
+            "false2": "Schaumig",
+            "false3": "Scharf"
+        },
+        {
+            "question": "Welche der folgenden Alternativen ist KEIN Getreideerzeugnis?",
+            "correct": "Schmohn",
+            "false1": "Reis",
+            "false2": "Haferflocken",
+            "false3": "Gerstengraupen"
+        },
+        {
+            "question": "Welche der folgenden Alternativen ist KEINE Bezeichnung fuer Kaviar?",
+            "correct": "Karandia",
+            "false1": "Beluga",
+            "false2": "Osietra",
+            "false3": "Sevruga"
+        },
+        {
+            "question": "Welche der folgenden Biermarken kommt aus Suedafrika?",
+            "correct": "Castle",
+            "false1": "Heineken",
+            "false2": "Guinness",
+            "false3": "Corona"
+        },
+        {
+            "question": "Welche der folgenden Brauereien stammt NICHT aus Muenchen?",
+            "correct": "Thurn und Taxis",
+            "false1": "Paulaner",
+            "false2": "Hofbraeu",
+            "false3": "Augustiner"
+        },
+        {
+            "question": "Welche der folgenden Brotsorten ist typisch fuer die aethiopische Kueche?",
+            "correct": "Injera",
+            "false1": "Ciabatta",
+            "false2": "Baguette",
+            "false3": "Pumpernickel"
+        },
+        {
+            "question": "Welche der folgenden Fruechte enthaelt pro 100 Gramm das meiste Vitamin C?",
+            "correct": "Kiwi",
+            "false1": "Orange",
+            "false2": "Banane",
+            "false3": "Apfel"
+        },
+        {
+            "question": "Welche der folgenden Fruechte ist eine Steinfrucht?",
+            "correct": "Mango",
+            "false1": "Apfel",
+            "false2": "Birne",
+            "false3": "Erdbeere"
+        },
+        {
+            "question": "Welche der folgenden Kaesesorten ist KEIN Blauschimmelkaese?",
+            "correct": "Morbier",
+            "false1": "Roquefort",
+            "false2": "Gorgonzola",
+            "false3": "Stilton"
+        },
+        {
+            "question": "Welche der folgenden Rebsorten ist blau?",
+            "correct": "Corvina Veronese",
+            "false1": "Chardonnay",
+            "false2": "Sauvignon Blanc",
+            "false3": "Riesling"
+        },
+        {
+            "question": "Welche der folgenden Whiskysorten stammt aus Japan?",
+            "correct": "Suntory",
+            "false1": "Jack Daniels",
+            "false2": "Jameson",
+            "false3": "Glenfiddich"
+        },
+        {
+            "question": "Welche der folgenden Zutaten gehoert in eine echte Schwarzwaelder Kirschtorte?",
+            "correct": "Kirschwasser",
+            "false1": "Eierlikoer",
+            "false2": "Amaretto",
+            "false3": "Baileys"
+        },
+        {
+            "question": "Welche der folgenden Zutaten ist Bestandteil des Getraenks \"Mojito\"?",
+            "correct": "Minze",
+            "false1": "Basilikum",
+            "false2": "Rosmarin",
+            "false3": "Petersilie"
+        },
+        {
+            "question": "Welche der folgenden Zutaten ist NICHT im franzoesischen Gebaeck \"Makronen\" enthalten?",
+            "correct": "Mehl",
+            "false1": "Mandelmasse",
+            "false2": "Eiweiß",
+            "false3": "Puderzucker"
+        },
+        {
+            "question": "Welche der folgenden Zutaten kommt in einem Grundrezept fuer Lebkuchen vor?",
+            "correct": "Gewuerznelken",
+            "false1": "Vanillezucker",
+            "false2": "Zimt",
+            "false3": "Kardamom"
+        },
+        {
+            "question": "Welche der folgenden Zutaten kommt in klassichen Waffeln vor?",
+            "correct": "Ei",
+            "false1": "Schokolade",
+            "false2": "Honig",
+            "false3": "Vanille"
+        },
+        {
+            "question": "Welche deutsche Brauerei wurde im Jahr 1040 gegruendet und ist somit die aelteste Brauerei der Welt?",
+            "correct": "Weihenstephaner",
+            "false1": "Augustiner",
+            "false2": "Paulaner",
+            "false3": "Hofbraeuhaus"
+        },
+        {
+            "question": "Welche deutsche Spezialtaet liess der fruehere Bundeskanzler Helmut Kohl bei Staatsbesuchen servieren?",
+            "correct": "Saumagen",
+            "false1": "Sauerbraten",
+            "false2": "Currywurst",
+            "false3": "Rouladen"
+        },
+        {
+            "question": "Welche dieser Biermarken kommt aus Belgien?",
+            "correct": "Hoegaarden",
+            "false1": "Becks",
+            "false2": "Budweiser",
+            "false3": "Heineken"
+        },
+        {
+            "question": "Welche Eigenschaft wird Kaffee zugeschrieben?",
+            "correct": "Anregend",
+            "false1": "Beruhigend",
+            "false2": "Einschlaefernd",
+            "false3": "Erfrischend"
+        },
+        {
+            "question": "Welche \"E-Nummer\" hat die Milchsaeure?",
+            "correct": "E 270",
+            "false1": "E 621",
+            "false2": "E 330",
+            "false3": "E 951"
+        },
+        {
+            "question": "Welche Esskultur verbindet man mit dem Sumagewuerz, dem Gericht Shish Kafta ma jibne und Fitile ghanam?",
+            "correct": "Libanesische Kueche",
+            "false1": "Chinesische Kueche",
+            "false2": "Italienische Kueche",
+            "false3": "Indische Kueche"
+        },
+        {
+            "question": "Welche Fleischsorten sind im handelsueblichen gemischten Hackfleisch enthalten?",
+            "correct": "Rind- und Schweinefleisch",
+            "false1": "Huhn und Pute",
+            "false2": "Lamm und Ziege",
+            "false3": "Ente und Gans"
+        },
+        {
+            "question": "Welche Frucht enthaelt die Enzyme Bromelin?",
+            "correct": "Ananas",
+            "false1": "Papaya",
+            "false2": "Kiwi",
+            "false3": "Mango"
+        },
+        {
+            "question": "Welche Hauptzutaten gehoeren traditionell in schwaebische Maultaschen?",
+            "correct": "Braet und Spinat",
+            "false1": "Kartoffeln und Kraut",
+            "false2": "Rote Beete und Kohlrabi",
+            "false3": "Karotten und Erbsen"
+        },
+        {
+            "question": "Welche Rebsorte findet man in der Regel in einem Weisswein von der Mosel?",
+            "correct": "Riesling",
+            "false1": "Merlot",
+            "false2": "Chardonnay",
+            "false3": "Cabernet Sauvignon"
+        },
+        {
+            "question": "Welche Wurst gibt es NICHT?",
+            "correct": "Braunwurst",
+            "false1": "Bratwurst",
+            "false2": "Weisswurst",
+            "false3": "Knackwurst"
+        },
+        {
+            "question": "Welche Zutat darf in einem \"Reuben-Sandwich\" NICHT fehlen?",
+            "correct": "Sauerkraut",
+            "false1": "Corned Beef",
+            "false2": "Swiss Cheese",
+            "false3": "Thousand Island Dressing"
+        },
+        {
+            "question": "Welche Zutat findet man im klassisch zubereiteten Gericht \"Spaghetti alla carbonara\" normalerweise NICHT?",
+            "correct": "Pilze",
+            "false1": "Speck",
+            "false2": "Ei",
+            "false3": "Pecorino-Kaese"
+        },
+        {
+            "question": "Welche Zutat gehoert nicht in ein \"Baba Ghanoush\"?",
+            "correct": "Kichererbsen",
+            "false1": "Auberginen",
+            "false2": "Tahini",
+            "false3": "Knoblauch"
+        },
+        {
+            "question": "Welche Zutat gehoert normalerweise nicht in eine Sauce bernaise?",
+            "correct": "Olivenoel",
+            "false1": "Eigelb",
+            "false2": "Butter",
+            "false3": "Estragon"
+        },
+        {
+            "question": "Welche Zutat sollte sich unbedingt auf einer Pizza Funghi befinden?",
+            "correct": "Pilze",
+            "false1": "Ananas",
+            "false2": "Artischocken",
+            "false3": "Schinken"
+        },
+        {
+            "question": "Welche Zutaten befinden sich auf einer klassischen Pizza Margherita?",
+            "correct": "Tomaten, Mozzarella, Basilikum",
+            "false1": "Salami, Kase, Paprika",
+            "false2": "Schinken, Ananas, Champignons",
+            "false3": "Spinat, Feta, Oliven"
+        },
+        {
+            "question": "Welcher der folgenden Weine kommt NICHT aus dem Weinbaugebiet Bordeaux?",
+            "correct": "Chateu Musar",
+            "false1": "Chateau Margaux",
+            "false2": "Chateau Latour",
+            "false3": "Chateau Haut-Brion"
+        },
+        {
+            "question": "Welcher japanische Begriff beschreibt rohe, in duenne Scheiben geschnittene Speisen, die mit Dips und einfachen Beilagen, jedoch ohne Reis, serviert werden?",
+            "correct": "Sashimi",
+            "false1": "Sushi",
+            "false2": "Miso",
+            "false3": "Tempura"
+        },
+        {
+            "question": "Welcher Likoer ist eine Spezialitaet auf den Kanarischen Inseln?",
+            "correct": "Ron Miel",
+            "false1": "Baileys",
+            "false2": "Amaretto",
+            "false3": "Kahlua"
+        },
+        {
+            "question": "Welcher Pflanzenteil des Hopfens wird zum Bierbrauen verwendet?",
+            "correct": "Dolden",
+            "false1": "Blueten",
+            "false2": "Wurzeln",
+            "false3": "Blatter"
+        },
+        {
+            "question": "Welcher Spitzenkoch wurde 2007 zum \"Professeur de la Cuisine\" an die Universitaet Oerebro berufen?",
+            "correct": "Eckart Witzigmann",
+            "false1": "Gordon Ramsay",
+            "false2": "Jamie Oliver",
+            "false3": "Heston Blumenthal"
+        },
+        {
+            "question": "Welcher Tee enthaelt kein Koffein?",
+            "correct": "Rooibos",
+            "false1": "Schwarztee",
+            "false2": "Gruener Tee",
+            "false3": "Oolong Tee"
+        },
+        {
+            "question": "Welcher Wein wird im Bocksbeutel verkauft?",
+            "correct": "Frankenwein",
+            "false1": "Rheinwein",
+            "false2": "Moselwein",
+            "false3": "Pfalzwein"
+        },
+        {
+            "question": "Welches alkoholische Getraenk wird meist beim \"Dry Martini\" verwendet?",
+            "correct": "Gin",
+            "false1": "Wodka",
+            "false2": "Rum",
+            "false3": "Whisky"
+        },
+        {
+            "question": "Welches der folgenden Biere kommt aus Belgien?",
+            "correct": "Stella Artois",
+            "false1": "Carlsberg",
+            "false2": "Peroni",
+            "false3": "Corona"
+        },
+        {
+            "question": "Welches der folgenden Biere kommt aus Tschechien?",
+            "correct": "Pilsner Urquell",
+            "false1": "Guinness",
+            "false2": "Heineken",
+            "false3": "Budweiser"
+        },
+        {
+            "question": "Welches der folgenden Gerichte kommt aus Oesterreich?",
+            "correct": "Apfelstrudel",
+            "false1": "Lasagne",
+            "false2": "Paella",
+            "false3": "Moussaka"
+        },
+        {
+            "question": "Welches der folgenden Getraenle ist ein kalt aufgeschaeumter Kaffee mit Eiswuerfeln?",
+            "correct": "Cafe Frappe",
+            "false1": "Espresso",
+            "false2": "Latte Macchiato",
+            "false3": "Cappuccino"
+        },
+        {
+            "question": "Welches der folgenden Lebensmittel enthaelt die meisten Kalorien pro 100 Gramm?",
+            "correct": "Haselnuesse",
+            "false1": "Wassermelone",
+            "false2": "Erdbeeren",
+            "false3": "Zucchini"
+        },
+        {
+            "question": "Welches der folgenden Lebensmittel besteht aus Hartweizen?",
+            "correct": "Couscous",
+            "false1": "Quinoa",
+            "false2": "Hirse",
+            "false3": "Reis"
+        },
+        {
+            "question": "Welches der folgenden Woerter bedeutet Feinschmecker?",
+            "correct": "Gourmet",
+            "false1": "Koch",
+            "false2": "Genießer",
+            "false3": "Gourmand"
+        },
+        {
+            "question": "Welches Fleisch wird von den Deutschen mengenmaessig am meisten verzehrt?",
+            "correct": "Schweinefleisch",
+            "false1": "Rindfleisch",
+            "false2": "Huhn",
+            "false3": "Lammfleisch"
+        },
+        {
+            "question": "Welches Gemuese ist in \"Tzatziki\" enthalten?",
+            "correct": "Gurke",
+            "false1": "Tomate",
+            "false2": "Zucchini",
+            "false3": "Karotte"
+        },
+        {
+            "question": "Welches Gericht erfand Herta Heuwer 1949?",
+            "correct": "Currywurst",
+            "false1": "Döner Kebab",
+            "false2": "Pizza",
+            "false3": "Sushi"
+        },
+        {
+            "question": "Welches Gericht wird üblichweise NICHT in einem polnischen Restaurant serviert?",
+            "correct": "Mousakas",
+            "false1": "Pierogi",
+            "false2": "Bigos",
+            "false3": "Kotlet schabowy"
+        },
+        {
+            "question": "Welches Getreide wird für die Herstellung von Mallt Whisky verwendet?",
+            "correct": "Gerste",
+            "false1": "Weizen",
+            "false2": "Roggen",
+            "false3": "Hafer"
+        },
+        {
+            "question": "Welches ist das weltweit meistverkaufte Bier?",
+            "correct": "Snow",
+            "false1": "Budweiser",
+            "false2": "Heineken",
+            "false3": "Corona"
+        },
+        {
+            "question": "Welches ist der weltgrößte Kakaoproduzent?",
+            "correct": "Elfenbeinküste",
+            "false1": "Brasilien",
+            "false2": "Ghana",
+            "false3": "Indonesien"
+        },
+        {
+            "question": "Welches ist kein obergäriges Bier?",
+            "correct": "Schwarzbier",
+            "false1": "Weizenbier",
+            "false2": "Pale Ale",
+            "false3": "Belgisches Tripel"
+        },
+        {
+            "question": "Welches Kaffeegetränk beinhaltet Selters, Espresso und Kirschsaft-Konzentrat?",
+            "correct": "Skyscraper",
+            "false1": "Americano",
+            "false2": "Iced Latte",
+            "false3": "Flat White"
+        },
+        {
+            "question": "Welches Land hatte im Jahr 2011 den höchsten durchschnittlichen Pro-Kopf-Konsum von Bier?",
+            "correct": "Tschechien",
+            "false1": "Deutschland",
+            "false2": "Irland",
+            "false3": "Belgien"
+        },
+        {
+            "question": "Welches Land verbindet man mit Gerichten wie Tikka Masala, Rogan Josh, Naan-Brot und Tandoori?",
+            "correct": "Indien",
+            "false1": "Thailand",
+            "false2": "Mexiko",
+            "false3": "Griechenland"
+        },
+        {
+            "question": "Welches Nahrungsmittel kann jemand zu sich nehmen, der sich glutenfrei ernährt?",
+            "correct": "Kartoffeln",
+            "false1": "Weizenbrot",
+            "false2": "Haferflocken",
+            "false3": "Gerstensuppe"
+        },
+        {
+            "question": "Welches Tier wurde 2010 im weltberühmten Luxus-Restaurant Noma in Kopenhagen zu einer Delikatesse?",
+            "correct": "Biber",
+            "false1": "Ente",
+            "false2": "Krokodil",
+            "false3": "Rentier"
+        },
+        {
+            "question": "Welches Unternehmen ist der weltweit größte Spirituosenhersteller?",
+            "correct": "Diageo",
+            "false1": "Pernod Ricard",
+            "false2": "Bacardi",
+            "false3": "Beam Suntory"
+        },
+        {
+            "question": "Wer ist weltweit der größte Knoblauchproduzent?",
+            "correct": "China",
+            "false1": "Spanien",
+            "false2": "Indien",
+            "false3": "Mexiko"
+        },
+        {
+            "question": "Wer oder was ist Rakija?",
+            "correct": "Alkohol aus vergorenen Früchten",
+            "false1": "Traditionelles Tanzritual",
+            "false2": "Gewürz",
+            "false3": "Tibetisches Gebäck"
+        },
+        {
+            "question": "Wer produziert den Champagner Dom Pérignon?",
+            "correct": "Moët & Chandon",
+            "false1": "Veuve Clicquot",
+            "false2": "Krug",
+            "false3": "Louis Roederer"
+        },
+        {
+            "question": "Wer produziert die dreieckige Schokolade \"Toblerone\"?",
+            "correct": "Mondelez",
+            "false1": "Nestlé",
+            "false2": "Ferrero",
+            "false3": "Hersheys"
+        },
+        {
+            "question": "Wie heißt das ägyptische Gericht, das u.a. aus Nudeln, Reis, Tomatensauce, Kichererbsen und gerösteten Zwiebeln besteht?",
+            "correct": "Koshari",
+            "false1": "Moussaka",
+            "false2": "Falafel",
+            "false3": "Couscous"
+        },
+        {
+            "question": "Wie heißt das aus dem Kaukasus stammende, dickflüssige Sauermilchgetränk?",
+            "correct": "Kefir",
+            "false1": "Lassi",
+            "false2": "Ayran",
+            "false3": "Kombucha"
+        },
+        {
+            "question": "Wie heißt das japanische alkoholische Getränk, das aus poliertem Reis gebraut wird?",
+            "correct": "Sake",
+            "false1": "Soju",
+            "false2": "Umeshu",
+            "false3": "Shochu"
+        },
+        {
+            "question": "Wie heißt das Nationalgericht von Spanien?",
+            "correct": "Paella",
+            "false1": "Lasagne",
+            "false2": "Wiener Schnitzel",
+            "false3": "Gyros"
+        },
+        {
+            "question": "Wie heißt das spanische Kaffeegetränk, das eine Mischung aus Espresso und etwas warmer Milch ist?",
+            "correct": "Cortado",
+            "false1": "Cappuccino",
+            "false2": "Espresso Macchiato",
+            "false3": "Café au lait"
+        },
+        {
+            "question": "Wie heißt die älteste Sektkellerei Deutschlands?",
+            "correct": "Kessler",
+            "false1": "Henkell",
+            "false2": "Rotkäppchen",
+            "false3": "Jules Mumm"
+        },
+        {
+            "question": "Wie heißt ein Getränk aus Molke, das in der Schweiz hergestellt wird?",
+            "correct": "Rivella",
+            "false1": "Sanbittèr",
+            "false2": "Fanta",
+            "false3": "Sprite"
+        },
+        {
+            "question": "Wie heißt ein Gericht, das aus Stampfkartoffeln und Apfelmus besteht und oft mit Blut- oder Grützwurst serviert wird?",
+            "correct": "Himmel und Erde",
+            "false1": "Bauernfrühstück",
+            "false2": "Kartoffelpuffer",
+            "false3": "Reibekuchen"
+        },
+        {
+            "question": "Wie heißt ein Küchengerät zum Schmelzen oder Warmhalten von Speisen?",
+            "correct": "Bain-Marie",
+            "false1": "Toaster",
+            "false2": "Mikrowelle",
+            "false3": "Backofen"
+        },
+        {
+            "question": "Wie heißt ein Schokoriegel mit Kokosgeschmack?",
+            "correct": "Bounty",
+            "false1": "Mars",
+            "false2": "Twix",
+            "false3": "Snickers"
+        },
+        {
+            "question": "Wie heißt eine Mischung aus 1/4 Espresso, 3/4 heißer Milch und Schaum?",
+            "correct": "Latte macchiato",
+            "false1": "Caffè latte",
+            "false2": "Flat White",
+            "false3": "Cappuccino"
+        },
+        {
+            "question": "Wie heißt eine philippinische Biermarke?",
+            "correct": "Red Horse Beer",
+            "false1": "Tiger Beer",
+            "false2": "San Miguel",
+            "false3": "Singha Beer"
+        },
+        {
+            "question": "Wie heißt eine pikante Beilage, die zu einem traditionellen englischen \"Sunday Roast\" serviert wird?",
+            "correct": "Yorkshire Pudding",
+            "false1": "Bubble and Squeak",
+            "false2": "Black Pudding",
+            "false3": "Scotch Egg"
+        },
+        {
+            "question": "Wie heißt eine ungarische Spezialität aus Schmalzgebäck, die traditionell mit Sauerrahm und Käse gegessen wird?",
+            "correct": "Langos",
+            "false1": "Chimney Cake",
+            "false2": "Goulasch",
+            "false3": "Strudel"
+        },
+        {
+            "question": "Wie heißt eine würzige, süß-saure und oft auch scharf-pikante Sauce der indischen Küche mit püreeartiger Konsistenz?",
+            "correct": "Chutney",
+            "false1": "Korma",
+            "false2": "Tikka Masala",
+            "false3": "Vindaloo"
+        },
+        {
+            "question": "Wie hieß der Schokoriegel \"Twix\" vor seiner Umbenennung im Jahr 1991?",
+            "correct": "Raider",
+            "false1": "Marathon",
+            "false2": "Boost",
+            "false3": "Snickers"
+        },
+        {
+            "question": "Wie hießen \"Werthers Original\" bis 1998 in Deutschland?",
+            "correct": "Werthers Echte",
+            "false1": "Werthers Beste",
+            "false2": "Werthers Feine",
+            "false3": "Werthers Klassiker"
+        },
+        {
+            "question": "Wie hoch muss der Kakaoanteil einer Schokolade laut europäischer Verordnung sein, damit sie Milchschokolade genannt werden darf?",
+            "correct": "25%",
+            "false1": "30%",
+            "false2": "35%",
+            "false3": "40%"
+        },
+        {
+            "question": "Wie ist der Name des Kochs, der 2008 mit seinen Restaurants insgesamt 18 Michelin-Sterne führte?",
+            "correct": "Joel Robuchon",
+            "false1": "Gordon Ramsay",
+            "false2": "Alain Ducasse",
+            "false3": "Thomas Keller"
+        },
+        {
+            "question": "Wie lautet der Name einer grünen Rebsorte?",
+            "correct": "Moscatel",
+            "false1": "Cabernet Sauvignon",
+            "false2": "Chardonnay",
+            "false3": "Merlot"
+        },
+        {
+            "question": "Wie lautet der Name einer italienischen Eissorte?",
+            "correct": "Stracciatella",
+            "false1": "Tiramisu",
+            "false2": "Panna Cotta",
+            "false3": "Cannoli"
+        },
+        {
+            "question": "Wie lautet der Name eines Champagner-Produzenten?",
+            "correct": "Maison Krug",
+            "false1": "Veuve Clicquot",
+            "false2": "Moët & Chandon",
+            "false3": "Louis Roederer"
+        },
+        {
+            "question": "Wie lautet der richtige Name des \"Naked Chef\"?",
+            "correct": "Jamie Oliver",
+            "false1": "Gordon Ramsay",
+            "false2": "Anthony Bourdain",
+            "false3": "Bobby Flay"
+        },
+        {
+            "question": "Wie nennt man Biere, bei denen die Hefe nach dem Gärungsprozess auf den Boden des Gärtanks sinkt?",
+            "correct": "Untergärige Biere",
+            "false1": "Obergärige Biere",
+            "false2": "Mischbiere",
+            "false3": "Nicht fermentierte Biere"
+        },
+        {
+            "question": "Wie nennt man das Öffnen von Champagnerflaschen mit einem Säbel?",
+            "correct": "Sabrieren",
+            "false1": "Entkorken",
+            "false2": "Enthaupten",
+            "false3": "Aufschlagen"
+        },
+        {
+            "question": "Wie nennt man den Käse, der häufig für Pizzabelag verwendet wird und nicht oder kaum aus Milch hergestellt wird?",
+            "correct": "Analogkäse",
+            "false1": "Mozzarella",
+            "false2": "Parmesan",
+            "false3": "Cheddar"
+        },
+        {
+            "question": "Wie nennt man den Vorgang, wenn man Eigelb zu einer Sauce hinzufügt, um dieser die richtige Konsistenz zu geben?",
+            "correct": "Legieren",
+            "false1": "Emulgieren",
+            "false2": "Reduzieren",
+            "false3": "Montieren"
+        },
+        {
+            "question": "Wie nennt man den Vorgang, wenn man Flüssigkeiten zum Bratensatz hinzugibt, um daraus eine Sauce herzustellen?",
+            "correct": "Deglacieren",
+            "false1": "Reduzieren",
+            "false2": "Flambieren",
+            "false3": "Blanchieren"
+        },
+        {
+            "question": "Wie nennt man ein Schaumweinglas, das hochgezogen und am Rand leicht ausgestülpt ist?",
+            "correct": "Flöte",
+            "false1": "Tulpe",
+            "false2": "Kelch",
+            "false3": "Becher"
+        },
+        {
+            "question": "Wie nennt man eine auf der Milchsäuregärung basierende Zubereitungsart von Gemüse in der koreanischen Küche?",
+            "correct": "Kimchi",
+            "false1": "Sauerkraut",
+            "false2": "Tsukemono",
+            "false3": "Escabeche"
+        },
+        {
+            "question": "Wie nennt man eine kleine französische Gastwirtschaft?",
+            "correct": "Bistro",
+            "false1": "Brasserie",
+            "false2": "Café",
+            "false3": "Patisserie"
+        },
+        {
+            "question": "Wie viel Alkohol darf ein alkoholfreies Bier maximal enthalten?",
+            "correct": "0,5 %",
+            "false1": "0,1 %",
+            "false2": "1,0 %",
+            "false3": "2,0 %"
+        },
+        {
+            "question": "Wie viel Gramm Zucker enthält 0,33 Liter Coca-Cola?",
+            "correct": "35",
+            "false1": "25",
+            "false2": "45",
+            "false3": "55"
+        },
+        {
+            "question": "Wie viel Volumenprozent Alkohol muss ein Korn mindestens haben, um als Kornbrand bezeichnet werden zu können?",
+            "correct": "37,5%",
+            "false1": "30%",
+            "false2": "40%",
+            "false3": "45%"
+        },
+        {
+            "question": "Wie viele Jahre wurde ein Cognac mit der Kennzeichnung \"XO\" laut Gesetz mindestens gelagert?",
+            "correct": "6",
+            "false1": "10",
+            "false2": "12",
+            "false3": "15"
+        },
+        {
+            "question": "Wie viele kcal sind in einer normalen 33 cl Coca-Cola-Dose enthalten?",
+            "correct": "140",
+            "false1": "100",
+            "false2": "120",
+            "false3": "160"
+        },
+        {
+            "question": "Wie viele Kräuter werden bei der Ramazzotti-Herstellung verwendet?",
+            "correct": "33",
+            "false1": "20",
+            "false2": "25",
+            "false3": "30"
+        },
+        {
+            "question": "Wie viele Sterne kann man im Guide Michelin maximal bekommen?",
+            "correct": "3",
+            "false1": "4",
+            "false2": "5",
+            "false3": "2"
+        },
+        {
+            "question": "Wie viele verschiedene Rebsorten (grün und rot) sind in Wein aus \"Châteauneuf-du-Pape\" erlaubt?",
+            "correct": "13",
+            "false1": "10",
+            "false2": "15",
+            "false3": "20"
+        },
+        {
+            "question": "Wie werden die im süddeutschen Raum beliebten Eierteigwaren aus Frischei mit unregelmäßiger Form und rauer, poriger Oberfläche genannt?",
+            "correct": "Spätzle",
+            "false1": "Gnocchi",
+            "false2": "Tagliatelle",
+            "false3": "Farfalle"
+        },
+        {
+            "question": "Wie wird der Prozess genannt, wenn man geschmacksstarke Rohwaren vor der Zubereitung einige Zeit lang in Wasser legt?",
+            "correct": "Auslaugen",
+            "false1": "Einweichen",
+            "false2": "Abschrecken",
+            "false3": "Marinieren"
+        },
+        {
+            "question": "Wie wird die Folie genannt, mit dem der Korken und Flaschenhals einer Weinflasche verpackt sein kann?",
+            "correct": "Stanniol",
+            "false1": "Folie",
+            "false2": "Kapsel",
+            "false3": "Verschluss"
+        },
+        {
+            "question": "Wie wird die Frucht \"Pitaya\" auch genannt?",
+            "correct": "Drachenfrucht",
+            "false1": "Passionsfrucht",
+            "false2": "Guave",
+            "false3": "Kiwi"
+        },
+        {
+            "question": "Wie wird es genannt, wenn man eine Flasche Schaumwein mit einem Schwert öffnet?",
+            "correct": "Sabrieren",
+            "false1": "Entkorken",
+            "false2": "Enthaupten",
+            "false3": "Aufschlagen"
+        },
+        {
+            "question": "Wo bekommt man ein \"Happy Meal\"?",
+            "correct": "McDonalds",
+            "false1": "Burger King",
+            "false2": "KFC",
+            "false3": "Subway"
+        },
+        {
+            "question": "Wo isst man Sprouts, Plum Pudding und Truthahn zu Weihnachten?",
+            "correct": "Großbritannien",
+            "false1": "USA",
+            "false2": "Deutschland",
+            "false3": "Frankreich"
+        },
+        {
+            "question": "Wo liegt das Weingut \"Concha y Toro\"?",
+            "correct": "Chile",
+            "false1": "Spanien",
+            "false2": "Italien",
+            "false3": "Argentinien"
+        },
+        {
+            "question": "Wo wachsen Kaffeebohnen?",
+            "correct": "An Sträuchern",
+            "false1": "An Bäumen",
+            "false2": "An Reben",
+            "false3": "An Stauden"
+        },
+        {
+            "question": "Wo wird ein Hangi, ein traditionelles Gericht der neuseeländischen Ureinwohner, gegart?",
+            "correct": "In einem Loch im Boden",
+            "false1": "Über offenem Feuer",
+            "false2": "In einer Erdgrube mit heißen Steinen",
+            "false3": "In einem speziellen Holzofen"
+        },
+        {
+            "question": "Wo wurde die Currywurst erfunden?",
+            "correct": "Deutschland",
+            "false1": "Indien",
+            "false2": "Großbritannien",
+            "false3": "USA"
+        },
+        {
+            "question": "Wodurch erhält eine klassische Brezel ihre braune Farbe?",
+            "correct": "Eintauchen in Natronlauge",
+            "false1": "Backen im Ofen",
+            "false2": "Bestreichen mit Karamell",
+            "false3": "Hinzufügen von Kakao"
+        },
+        {
+            "question": "Wofür steht das \"TS\" im Hamburger \"Royal TS\"?",
+            "correct": "Tomate & Salat",
+            "false1": "Thunfisch & Sardellen",
+            "false2": "Tartar & Senf",
+            "false3": "Tofu & Sesam"
+        },
+        {
+            "question": "Wofür steht die Abkürzung der Biersorte \"IPA\"?",
+            "correct": "India Pale Ale",
+            "false1": "Irish Pub Ale",
+            "false2": "International Pilsner Ale",
+            "false3": "Italian Porter Ale"
+        },
+        {
+            "question": "Woher kommt die Biermarke Guinness?",
+            "correct": "Irland",
+            "false1": "Schottland",
+            "false2": "Kanada",
+            "false3": "Australien"
+        },
+        {
+            "question": "Wonach schmeckt \"Licor 43\"?",
+            "correct": "Vanille",
+            "false1": "Zimt",
+            "false2": "Anis",
+            "false3": "Orangen"
+        },
+        {
+            "question": "Wonach schmeckt Löwenzahn-Sirup?",
+            "correct": "Honig",
+            "false1": "Zuckerrohr",
+            "false2": "Minze",
+            "false3": "Ingwer"
+        },
+        {
+            "question": "Worauf entfällt der größte Teil des getrunkenen Alkohols in Deutschland?",
+            "correct": "Bier",
+            "false1": "Wein",
+            "false2": "Whisky",
+            "false3": "Wodka"
+        },
+        {
+            "question": "Woraus besteht das Gericht \"Berliner Schnitzel\"?",
+            "correct": "Schweinefleisch",
+            "false1": "Rindfleisch",
+            "false2": "Hühnchen",
+            "false3": "Seitan"
+        },
+        {
+            "question": "Woraus besteht Lachsschinken?",
+            "correct": "Lachs",
+            "false1": "Schweinefleisch",
+            "false2": "Rindfleisch",
+            "false3": "Putenschinken"
+        },
+        {
+            "question": "Woraus werden Glasnudeln der ostasiatischen Küche üblicherweise hergestellt?",
+            "correct": "Stärke",
+            "false1": "Reis",
+            "false2": "Sojabohnen",
+            "false3": "Hirse"
+        },
+        {
+            "question": "Woraus wird Rosewein hergestellt?",
+            "correct": "Rotwein",
+            "false1": "Weißwein",
+            "false2": "Roséwein",
+            "false3": "Sekt"
+        },
+        {
+            "question": "Woraus wird \"Tapioka\" hergestellt?",
+            "correct": "Maniokwurzel",
+            "false1": "Kartoffeln",
+            "false2": "Mais",
+            "false3": "Reis"
+        },
+        {
+            "question": "Worum handelt es sich bei Obstsorte \"Cripps Pink\"?",
+            "correct": "Apfel",
+            "false1": "Orange",
+            "false2": "Pfirsich",
+            "false3": "Banane"
+        },
+        {
+            "question": "Zu welcher Teesorte zählt \"Sencha\"?",
+            "correct": "Grüner Tee",
+            "false1": "Schwarzer Tee",
+            "false2": "Weißer Tee",
+            "false3": "Oolong-Tee"
+        },
+        {
+            "question": "Woraus besteht die typische Zutat von \"Caesar Salad\"?",
+            "correct": "Anchovis",
+            "false1": "Avocado",
+            "false2": "Blaubeeren",
+            "false3": "Champignons"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "category": "Glaube und Religion",
+    "questionCount": 107,
+    "questionList": [
+        {
+            "question": "Aufgrund des Aberglaubens gibt es bei der Lufthansa keine Sitzreihe 13. Auf welche weitere Zahl verzichtet sie zugunsten ihrer italienischen Gäste?",
+            "correct": "Reihe 17",
+            "false1": "Reihe 14",
+            "false2": "Reihe 23",
+            "false3": "Reihe 29"
+        },
+        {
+            "question": "Aus welchem Körperteil erschuf Gott Eva, Adams Gefährtin, gemäß der Bibel?",
+            "correct": "Aus einer Rippe",
+            "false1": "Aus einem Haar",
+            "false2": "Aus einem Zeh",
+            "false3": "Aus einer Hand"
+        },
+        {
+            "question": "Aus welchem Land kommt die Religion/Philosophie des Konfuzianismus?",
+            "correct": "China",
+            "false1": "Indien",
+            "false2": "Japan",
+            "false3": "Ägypten"
+        },
+        {
+            "question": "Aus welcher italienischen Stadt kommt die Namensgeberin des Lichterfestes, die heilige Lucia?",
+            "correct": "Syrakus",
+            "false1": "Venedig",
+            "false2": "Rom",
+            "false3": "Mailand"
+        },
+        {
+            "question": "Beelzebub ist im Volksmund ein anderes Wort für Teufel. Wer ist er in der christlichen Mythologie?",
+            "correct": "Ein Dämon",
+            "false1": "Ein Engel",
+            "false2": "Ein Prophet",
+            "false3": "Ein Apostel"
+        },
+        {
+            "question": "Brit Mila ist eine Zeremonie im Judentum, bei der Jungen...?",
+            "correct": "beschnitten werden",
+            "false1": "getauft werden",
+            "false2": "gekrönt werden",
+            "false3": "einen Namen erhalten"
+        },
+        {
+            "question": "Der griechische Gott Apollo ist der Sohn von Zeus und...?",
+            "correct": "Leto",
+            "false1": "Hera",
+            "false2": "Athena",
+            "false3": "Aphrodite"
+        },
+        {
+            "question": "Die Selbstmord-Sekte \"Peoples Temple\" zog in den 1970er Jahren von Kalifornien nach Guyana. Wie hieß die Stadt, in der sich die Sekte niederließ?",
+            "correct": "Jonestown",
+            "false1": "Sunsettown",
+            "false2": "Heavensville",
+            "false3": "Freedomville"
+        },
+        {
+            "question": "Du sollst keine anderen Götter neben mir haben. Welches Gebot in der Reihenfolge der 10 Gebote ist das?",
+            "correct": "1.",
+            "false1": "2.",
+            "false2": "5.",
+            "false3": "9."
+        },
+        {
+            "question": "Dem mittelalterlichen Glauben zufolge notierte der Teufel die Sünden und Verfehlungen der Menschen worauf?",
+            "correct": "Kuhhaut",
+            "false1": "Pergament",
+            "false2": "Baumrinde",
+            "false3": "Seidenstoff"
+        }
+    ]
+}
