@@ -6,9 +6,9 @@ A web [Quizduell ](https://de.wikipedia.org/wiki/Quizduell_(App))  clone
 
 ## Diagrams
 
-[<img src="./documentation/diagrams/technology.png" width="800"/>](./documentation/diagrams/technology.png)
+[<img src="./documentation/diagrams/technology.png" width="900"/>](./documentation/diagrams/technology.png)
 
-[<img src="./documentation/diagrams/architecture.png" width="800"/>](./documentation/diagrams/architecture.png)
+[<img src="./documentation/diagrams/architecture.png" width="700"/>](./documentation/diagrams/architecture.png)
 
 [<img src="./documentation/diagrams/game.png" width="700"/>](./documentation/diagrams/game.png)
 
