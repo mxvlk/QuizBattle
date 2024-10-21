@@ -6,4 +6,4 @@ A web [Quizduell ](https://de.wikipedia.org/wiki/Quizduell_(App))  clone
 
 ## Diagrams
 
-[<img src="./documentation/diagrams/technology.png" width="500"/>](./documentation/diagrams/technology.png)
+[<img src="./documentation/diagrams/technology.png" width="800"/>](./documentation/diagrams/technology.png)
